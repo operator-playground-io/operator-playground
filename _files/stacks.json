@@ -1,69 +1,5 @@
 [
- {
-      "title":"MVC Sample Stack 1",
-      "description":"",
-      "document": "mvc-db-stack",
-      "logo":"_images/SalesStack.png",
-      "enabled":true,
-      "language":["NodeJs", "Java", "Yaml", "CSV"],
-      "stack_id" : "mvc-db-stack",
-      "type": "stack",
-      "categories": ["MVC", "MongoDB", "Express"],
-      "has_dataset": true,
-	   "has_api": true,
-      "git_url": "https://github.com/op-playground/MVC-Sample-Stack.git",
-      "git_commit": "bd0483adcafe5e027b0920d2c31f6a230242624a",
-      "installTime":"1 minutes"
-   },
-    {
-      "title":"MVC Sample Stack 2",
-      "description":"",
-      "document": "mvc-db-stack2",
-      "logo":"_images/DataAPI.png",
-      "enabled":true,
-      "language":["S3"],
-      "stack_id" : "mvc-db-stack",
-      "type": "stack",
-      "categories": ["MVC", "MongoDB", "Express"],
-      "has_dataset": false,
-	   "has_api": true,
-      "git_url": "https://github.com/op-playground/MVC-Sample-Stack.git",
-      "git_commit": "f0bf7b66e6969928e204febd7869aa764dc6e64e",
-      "installTime":"2 minutes"
-   },
-    {
-      "title":"MVC Sample Stack 3",
-      "description":"",
-      "document": "mvc-db-stack2",
-      "logo":"_images/DataAPI.png",
-      "enabled":true,
-      "language":["S3"],
-      "stack_id" : "mvc-db-stack",
-      "type": "stack",
-      "categories": ["MVC", "Express"],
-      "has_dataset": false,
-	   "has_api": true,
-      "git_url": "https://github.com/op-playground/MVC-Sample-Stack.git",
-      "git_commit": "0e5b9ce4973e61c63d2cd0adce38af9a443ac3fa",
-      "installTime":"3 minutes"
-   },
-    {
-      "title":"MVC Sample Stack 3",
-      "description":"",
-      "document": "mvc-db-stack2",
-      "logo":"_images/DataAPI.png",
-      "enabled":true,
-      "language":["S3"],
-      "stack_id" : "mvc-db-stack",
-      "type": "stack",
-      "categories": ["Javascript"],
-      "has_dataset": false,
-	   "has_api": false,
-      "git_url": "https://github.com/op-playground/MVC-Sample-Stack.git",
-      "git_commit": "0e5b9ce4973e61c63d2cd0adce38af9a443ac3fa",
-      "installTime":"4 minutes"
-   },
-	{
+{
   "title": "Wallmart API",
   "description": "Wallmart API's for inventory, price, item and orders.",
   "logo": "_images/api_collections.png",
@@ -84,7 +20,7 @@
   "installTime": "3 minutes",
   "isStacksSaved": true
 },
-	{
+{
   "title": "Weather API",
   "description": "Weather API with historical weather and 15-day forecast data",
   "logo": "_images/api_collections.png",
