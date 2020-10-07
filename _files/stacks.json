@@ -83,5 +83,27 @@
   "git_commit": "503b286b169e9408a82fdbcc25cc5d67eef6342c",
   "installTime": "3 minutes",
   "isStacksSaved": true
+},
+	{
+  "title": "Weather API",
+  "description": "Weather API with historical weather and 15-day forecast data",
+  "logo": "_images/api_collections.png",
+  "enabled": true,
+  "language": [
+    "Yaml"
+  ],
+  "document": "data-logging-stack",
+  "stack_id": "weather_api",
+  "type": "API Collections",
+  "categories": [
+    "Public API"
+  ],
+  "has_dataset": false,
+  "has_api": true,
+  "git_url": "https://github.com/op-playground/weather-api.git",
+  "git_commit": "f8b3b9ecf2225ab49b0f3ee59e0ef54d67aa7208",
+  "installTime": "3 minutes",
+  "isStacksSaved": true
 }
+
 ]
