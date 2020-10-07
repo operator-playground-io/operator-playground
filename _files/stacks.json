@@ -62,5 +62,26 @@
       "git_url": "https://github.com/op-playground/MVC-Sample-Stack.git",
       "git_commit": "0e5b9ce4973e61c63d2cd0adce38af9a443ac3fa",
       "installTime":"4 minutes"
-   }
+   },
+	{
+  "title": "Wallmart API",
+  "description": "Wallmart API's for inventory, price, item and orders.",
+  "logo": "_images/api_collections.png",
+  "enabled": true,
+  "language": [
+    "Yaml"
+  ],
+  "document": "data-logging-stack",
+  "stack_id": "wallmart_api",
+  "type": "API Collections",
+  "categories": [
+    "Public API"
+  ],
+  "has_dataset": false,
+  "has_api": true,
+  "git_url": "https://github.com/op-playground/wallmart-api.git",
+  "git_commit": "503b286b169e9408a82fdbcc25cc5d67eef6342c",
+  "installTime": "3 minutes",
+  "isStacksSaved": true
+}
 ]
