@@ -99,6 +99,27 @@
       "git_url": "https://github.com/Andi-Cirjaliu/edge-node-react-postgres-contacts-stack",
       "git_commit": "b22c9090ccd375c162208d0b1f1bf41a7696190f",
       "installTime":"10 minutes"
-   }
+   },
+  {
+  "title": "OpenAQ Dataset",
+  "description": "OpenAQ Dataset",
+  "logo": "_images/dataset.png",
+  "enabled": true,
+  "language": [
+    "S3"
+  ],
+  "document": "data-logging-stack",
+  "stack_id": "openaq_s3_dataset",
+  "type": "Dataset",
+  "categories": [
+    "Public Dataset"
+  ],
+  "has_dataset": true,
+  "has_api": false,
+  "git_url": "https://github.com/operator-playground-io/openaq-dataset.git",
+  "git_commit": "c56c452273c41a9aa534320cb9db535f30028843",
+  "installTime": "3 minutes",
+  "isStacksSaved": true
+}
 
 ]
