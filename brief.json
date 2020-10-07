@@ -1,0 +1,5005 @@
+[
+   {
+      "id":"b1f6f79283c43df002cb72c0bf7f1a7f",
+      "document":{
+         "title":"AMQ Streams",
+         "type":"operator",
+         "version":"",
+         "categories":[
+            "Integration & Delivery",
+            "Streaming & Messaging"
+         ],
+         "logo":{
+            "title":"",
+            "url":""
+         },
+         "descriptions":{
+            "short":"",
+            "long":""
+         },
+         "features":[
+            {
+               "title":"",
+               "description":""
+            }
+         ],
+         "tags":[
+            
+         ],
+         "oc":[
+            {
+               "command":"",
+               "description":""
+            }
+         ]
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"amq-streams",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"b1f6f79283c43df002cb72c0bf7f1a7f",
+      "updated":"2020-09-23 16:58:55"
+   },
+   {
+      "id":"1f17513e5933a34a526cf86026dc67a3",
+      "document":{
+         "title":"Cassandra",
+         "type":"operator",
+         "version":"",
+         "categories":[
+            "Database"
+         ],
+         "logo":{
+            "title":"",
+            "url":""
+         },
+         "descriptions":{
+            "short":"",
+            "long":""
+         },
+         "features":[
+            {
+               "title":"",
+               "description":""
+            }
+         ],
+         "tags":[
+            
+         ],
+         "oc":[
+            {
+               "command":"",
+               "description":""
+            }
+         ]
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"cassandra",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"1f17513e5933a34a526cf86026dc67a3",
+      "updated":"2020-09-23 16:58:56"
+   },
+   {
+      "id":"4f948e11fb6ded343e0b99db1689a9fa",
+      "document":{
+         "title":"Data Grid",
+         "version":"",
+         "categories":[
+            "Database"
+         ],
+         "logo":{
+            "title":"",
+            "url":""
+         },
+         "descriptions":{
+            "short":"",
+            "long":""
+         },
+         "features":[
+            {
+               "title":"",
+               "description":""
+            }
+         ],
+         "tags":[
+            
+         ],
+         "oc":[
+            {
+               "command":"",
+               "description":""
+            }
+         ]
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"datagrid",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"4f948e11fb6ded343e0b99db1689a9fa",
+      "updated":"2020-08-25 11:56:02"
+   },
+   {
+      "id":"895f4f4b6d2b47e97222a5e605264bce",
+      "document":{
+         "title":"Dynatrace",
+         "version":"",
+         "categories":[
+            "Monitoring"
+         ],
+         "logo":{
+            "title":"",
+            "url":""
+         },
+         "descriptions":{
+            "short":"",
+            "long":""
+         },
+         "features":[
+            {
+               "title":"",
+               "description":""
+            }
+         ],
+         "tags":[
+            
+         ],
+         "oc":[
+            {
+               "command":"",
+               "description":""
+            }
+         ]
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"dyanatrace",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"895f4f4b6d2b47e97222a5e605264bce",
+      "updated":"2020-08-25 11:56:03"
+   },
+   {
+      "id":"59257116aca378b669a7a8491e6ed8f4",
+      "document":{
+         "title":"Elastic Cloud",
+         "version":"",
+         "categories":[
+            "Database"
+         ],
+         "logo":{
+            "title":"",
+            "url":""
+         },
+         "descriptions":{
+            "short":"",
+            "long":""
+         },
+         "features":[
+            {
+               "title":"",
+               "description":""
+            }
+         ],
+         "tags":[
+            
+         ],
+         "oc":[
+            {
+               "command":"",
+               "description":""
+            }
+         ]
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"elastic-cloud",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"59257116aca378b669a7a8491e6ed8f4",
+      "updated":"2020-08-25 11:56:03"
+   },
+   {
+      "id":"3417fd4993b55177fc8fde50248e4b95",
+      "document":{
+         "title":"Etcd",
+         "version":"",
+         "categories":[
+            "Database"
+         ],
+         "logo":{
+            "title":"",
+            "url":""
+         },
+         "descriptions":{
+            "short":"",
+            "long":""
+         },
+         "features":[
+            {
+               "title":"",
+               "description":""
+            }
+         ],
+         "tags":[
+            
+         ],
+         "oc":[
+            {
+               "command":"",
+               "description":""
+            }
+         ]
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"etcd",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"3417fd4993b55177fc8fde50248e4b95",
+      "updated":"2020-08-25 11:56:04"
+   },
+   {
+      "id":"e156317d5297b78d0237be1d922c218c",
+      "document":{
+         "title":"Grafana",
+         "version":"",
+         "categories":[
+            "Monitoring"
+         ],
+         "logo":{
+            "title":"",
+            "url":""
+         },
+         "descriptions":{
+            "short":"",
+            "long":""
+         },
+         "features":[
+            {
+               "title":"",
+               "description":""
+            }
+         ],
+         "tags":[
+            
+         ],
+         "oc":[
+            {
+               "command":"",
+               "description":""
+            }
+         ]
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"grafana",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"e156317d5297b78d0237be1d922c218c",
+      "updated":"2020-08-25 11:56:04"
+   },
+   {
+      "id":"b6f3a394b56ca80e13807676c4574987",
+      "document":{
+         "title":"Jenkins",
+         "version":"",
+         "categories":[
+            "Integration & Delivery"
+         ],
+         "logo":{
+            "title":"",
+            "url":""
+         },
+         "descriptions":{
+            "short":"",
+            "long":""
+         },
+         "features":[
+            {
+               "title":"",
+               "description":""
+            }
+         ],
+         "tags":[
+            
+         ],
+         "oc":[
+            {
+               "command":"",
+               "description":""
+            }
+         ]
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"jenkins",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"b6f3a394b56ca80e13807676c4574987",
+      "updated":"2020-08-25 11:56:05"
+   },
+   {
+      "id":"acac047588e511e21df1be3033d4b7d5",
+      "document":{
+         "title":"Keda",
+         "version":"",
+         "categories":[
+            "Cloud Provider"
+         ],
+         "logo":{
+            "title":"",
+            "url":""
+         },
+         "descriptions":{
+            "short":"",
+            "long":""
+         },
+         "features":[
+            {
+               "title":"",
+               "description":""
+            }
+         ],
+         "tags":[
+            
+         ],
+         "oc":[
+            {
+               "command":"",
+               "description":""
+            }
+         ]
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"keda",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"acac047588e511e21df1be3033d4b7d5",
+      "updated":"2020-08-25 11:56:05"
+   },
+   {
+      "id":"3d06d474c124a3130c21f371f590f5f2",
+      "document":{
+         "title":"Knative",
+         "version":"",
+         "categories":[
+            "Compute"
+         ],
+         "logo":{
+            "title":"",
+            "url":""
+         },
+         "descriptions":{
+            "short":"",
+            "long":""
+         },
+         "features":[
+            {
+               "title":"",
+               "description":""
+            }
+         ],
+         "tags":[
+            
+         ],
+         "oc":[
+            {
+               "command":"",
+               "description":""
+            }
+         ]
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"knative",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"3d06d474c124a3130c21f371f590f5f2",
+      "updated":"2020-08-25 11:56:06"
+   },
+   {
+      "id":"e233328e6832bb33f41a101de5ff9f21",
+      "document":{
+         "title":"Kong",
+         "version":"",
+         "categories":[
+            "Compute"
+         ],
+         "logo":{
+            "title":"",
+            "url":""
+         },
+         "descriptions":{
+            "short":"",
+            "long":""
+         },
+         "features":[
+            {
+               "title":"",
+               "description":""
+            }
+         ],
+         "tags":[
+            
+         ],
+         "oc":[
+            {
+               "command":"",
+               "description":""
+            }
+         ]
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"kong",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"e233328e6832bb33f41a101de5ff9f21",
+      "updated":"2020-08-25 11:56:06"
+   },
+   {
+      "id":"7775dd1003655dd6e94a5be7be60f789",
+      "document":{
+         "title":"Kubeflow",
+         "version":"",
+         "categories":[
+            "AI/Machine Learning"
+         ],
+         "logo":{
+            "title":"",
+            "url":""
+         },
+         "descriptions":{
+            "short":"",
+            "long":""
+         },
+         "features":[
+            {
+               "title":"",
+               "description":""
+            }
+         ],
+         "tags":[
+            
+         ],
+         "oc":[
+            {
+               "command":"",
+               "description":""
+            }
+         ]
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"kubeflow",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"7775dd1003655dd6e94a5be7be60f789",
+      "updated":"2020-08-25 11:56:06"
+   },
+   {
+      "id":"1accfb0a684f95033d52c30490140247",
+      "document":{
+         "title":"MariaDB",
+         "version":"",
+         "categories":[
+            "Database"
+         ],
+         "logo":{
+            "title":"",
+            "url":""
+         },
+         "descriptions":{
+            "short":"",
+            "long":""
+         },
+         "features":[
+            {
+               "title":"",
+               "description":""
+            }
+         ],
+         "tags":[
+            
+         ],
+         "oc":[
+            {
+               "command":"",
+               "description":""
+            }
+         ]
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"mariadb",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"1accfb0a684f95033d52c30490140247",
+      "updated":"2020-08-25 11:56:07"
+   },
+   {
+      "id":"5a7c29943e699977a2c1c1e84ff452a0",
+      "document":{
+         "title":"Metering",
+         "version":"",
+         "categories":[
+            "Metering"
+         ],
+         "logo":{
+            "title":"",
+            "url":""
+         },
+         "descriptions":{
+            "short":"",
+            "long":""
+         },
+         "features":[
+            {
+               "title":"",
+               "description":""
+            }
+         ],
+         "tags":[
+            
+         ],
+         "oc":[
+            {
+               "command":"",
+               "description":""
+            }
+         ]
+      },
+      "language":"NA",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"metering",
+            "languages":[
+               "NA"
+            ]
+         }
+      },
+      "hashCode":"5a7c29943e699977a2c1c1e84ff452a0",
+      "updated":"2020-08-25 11:56:07"
+   },
+   {
+      "id":"5cc3590bcf47438d01abb51851851b68",
+      "document":{
+         "title":"Minio",
+         "version":"",
+         "categories":[
+            "Storage"
+         ],
+         "logo":{
+            "title":"",
+            "url":""
+         },
+         "descriptions":{
+            "short":"",
+            "long":""
+         },
+         "features":[
+            {
+               "title":"",
+               "description":""
+            }
+         ],
+         "tags":[
+            
+         ],
+         "oc":[
+            {
+               "command":"",
+               "description":""
+            }
+         ]
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"minio",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"5cc3590bcf47438d01abb51851851b68",
+      "updated":"2020-08-25 11:56:08"
+   },
+   {
+      "id":"27b42d89c5d8e1597b0f0fe4a82cdd26",
+      "document":{
+         "title":"MongoDB",
+         "version":"",
+         "categories":[
+            "Database"
+         ],
+         "logo":{
+            "title":"",
+            "url":""
+         },
+         "descriptions":{
+            "short":"",
+            "long":""
+         },
+         "features":[
+            {
+               "title":"",
+               "description":""
+            }
+         ],
+         "tags":[
+            
+         ],
+         "oc":[
+            {
+               "command":"",
+               "description":""
+            }
+         ]
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"mongodb",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"27b42d89c5d8e1597b0f0fe4a82cdd26",
+      "updated":"2020-08-25 11:56:08"
+   },
+   {
+      "id":"874548d1f9b9e7dda15a6d5e8d29372a",
+      "document":{
+         "title":"Pipelines",
+         "version":"",
+         "categories":[
+            "Developer tools"
+         ],
+         "logo":{
+            "title":"",
+            "url":""
+         },
+         "descriptions":{
+            "short":"",
+            "long":""
+         },
+         "features":[
+            {
+               "title":"",
+               "description":""
+            }
+         ],
+         "tags":[
+            
+         ],
+         "oc":[
+            {
+               "command":"",
+               "description":""
+            }
+         ]
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"pipelines",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"874548d1f9b9e7dda15a6d5e8d29372a",
+      "updated":"2020-08-25 11:56:09"
+   },
+   {
+      "id":"3019b255d650c6d9bcc187f79b0e7b16",
+      "document":{
+         "title":"Crunchy PostgreSQL",
+         "version":"4.3",
+         "categories":[
+            "database"
+         ],
+         "logo":{
+            "title":"Crunchy PostgreSQL for Kubernetes logo",
+            "url":""
+         },
+         "descriptions":{
+            "short":"Deploy trusted open source PostgreSQL at scale.  Crunchy PostgreSQL for OpenShift Container Platform (OCP) includes Crunchy PostgreSQL Operator and Crunchy PostgreSQL Container Suite supporting hybrid cloud, open source PostgreSQL-as-a-Service.",
+            "long":"Enables hybrid-cloud enterprise PostgreSQL-as-a-Service on OpenShift Container Platform (OCP). Crunchy PostgreSQL for OCP provides the essential features required to manage an enterprise PostgreSQL environment, including:\n\n- Provisioning\n- High-Availability\n- Disaster Recovery (Backups & Restores)\n- Monitoring\n- Advanced Authentication and Authorization control"
+         },
+         "features":[
+            {
+               "title":"High Availability",
+               "description":"Deploy highly available PostgreSQL clusters ensuring your data is always available when you need it.",
+               "__typename":"ProductFeature"
+            },
+            {
+               "title":"Disaster Recovery",
+               "description":"Deploy advanced enterprise ready open source PostgreSQL backup and restore capability.",
+               "__typename":"ProductFeature"
+            },
+            {
+               "title":"Advanced Security",
+               "description":"Crunchy Certified PostgreSQL is certified at Common Criteria Evaluation Assurance Level (EAL) 2+ to ensure it is the most trusted open source enterprise PostgreSQL distribution. Crunchy Certified PostgreSQL is the first commercially available open source relational database management system to receive Common Criteria certification.",
+               "__typename":"ProductFeature"
+            },
+            {
+               "title":"Turnkey Monitoring",
+               "description":"Easily deploy Kubernetes native open source PostgreSQL monitoring capability built with leading tools Prometheus and Grafana.",
+               "__typename":"ProductFeature"
+            }
+         ],
+         "tags":[
+            
+         ],
+         "oc":[
+            {
+               "command":"",
+               "description":""
+            }
+         ]
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"postgresql",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"3019b255d650c6d9bcc187f79b0e7b16",
+      "updated":"2020-08-25 11:56:09"
+   },
+   {
+      "id":"6c0d6ddcd5911b2b036dcc5afcafd624",
+      "document":{
+         "title":"Prometheus",
+         "version":"",
+         "categories":[
+            "Monitoring"
+         ],
+         "logo":{
+            "title":"",
+            "url":""
+         },
+         "descriptions":{
+            "short":"",
+            "long":""
+         },
+         "features":[
+            {
+               "title":"",
+               "description":""
+            }
+         ],
+         "tags":[
+            
+         ],
+         "oc":[
+            {
+               "command":"",
+               "description":""
+            }
+         ]
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"prometheus",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"6c0d6ddcd5911b2b036dcc5afcafd624",
+      "updated":"2020-08-25 11:56:09"
+   },
+   {
+      "id":"efa3c6e8f62de9e0e31efbd6543034a6",
+      "document":{
+         "title":"Redis",
+         "version":"",
+         "categories":[
+            "Database"
+         ],
+         "logo":{
+            "title":"",
+            "url":""
+         },
+         "descriptions":{
+            "short":"",
+            "long":""
+         },
+         "features":[
+            {
+               "title":"",
+               "description":""
+            }
+         ],
+         "tags":[
+            
+         ],
+         "oc":[
+            {
+               "command":"",
+               "description":""
+            }
+         ]
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"redis",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"efa3c6e8f62de9e0e31efbd6543034a6",
+      "updated":"2020-08-25 11:56:10"
+   },
+   {
+      "id":"2cb27f0fd7abbf30a218487f8a2bc43e",
+      "document":{
+         "title":"Serverless",
+         "version":"",
+         "categories":[
+            "Compute"
+         ],
+         "logo":{
+            "title":"",
+            "url":""
+         },
+         "descriptions":{
+            "short":"",
+            "long":""
+         },
+         "features":[
+            {
+               "title":"",
+               "description":""
+            }
+         ],
+         "tags":[
+            
+         ],
+         "oc":[
+            {
+               "command":"",
+               "description":""
+            }
+         ]
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"serverless",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"2cb27f0fd7abbf30a218487f8a2bc43e",
+      "updated":"2020-08-25 11:56:10"
+   },
+   {
+      "id":"f4c3d2bfc668e47cf46052faf00618e0",
+      "document":{
+         "title":"Explore MVC Database Application",
+         "type":"userguide",
+         "description":"The Stack comprises of a MongoDB , Backend and Frontend deployed as Microservices",
+         "duration":"30 min",
+         "hasInlineModules":true,
+         "inlineModuleDelimiter":"H3"
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"mvc-db-code-tutorial",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"f4c3d2bfc668e47cf46052faf00618e0",
+      "updated":"2020-09-24 13:06:22"
+   },
+   {
+      "id":"ad7aeadfa70fb33758e467e2b4a805ab",
+      "document":{
+         "name":"MVC Database Stack",
+         "type":"stack",
+         "stack_id":"mvc-db-stack",
+         "platform":"kubernetes",
+         "description":"",
+         "logo":"_images/SalesStack.png",
+         "cover":"cover",
+         "meta":{
+            "Language":[
+               "Node Js"
+            ],
+            "Backend":[
+               "Express (NodeJs)"
+            ],
+            "Frontend":[
+               "React"
+            ],
+            "Database":[
+               "MongoDB"
+            ],
+            "Install time":[
+               "3 minutes"
+            ]
+         },
+         "commands":[
+            {
+               "description":"Download MongoDB Manifests",
+               "exec":"cd /home/student/projects  && git clone https://github.com/operator-playground/k8s-manifests"
+            },
+            {
+               "description":"Install MongoDB ",
+               "exec":"cd /home/student/projects/k8s-manifests &&  kubectl create -f mongodb/"
+            },
+            {
+               "description":"Clone the MVC Database application",
+               "exec":"cd /home/student/projects && git clone https://github.com/operator-playground/mvc-db-example"
+            },
+            {
+               "description":"Build and Deploy using Skaffold",
+               "exec":"cd /home/student/projects/mvc-db-example && skaffold config set default-repo localhost:5000 && skaffold run"
+            }
+         ],
+         "content":[
+            "mvc-db-code-tutorial.md"
+         ],
+         "display":[
+            {
+               "name":"Developer Dashboard",
+               "url":"##DNS.host##/codeserver",
+               "enabled":true
+            }
+         ]
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"mvc-db-stack",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"ad7aeadfa70fb33758e467e2b4a805ab",
+      "updated":"2020-09-27 10:29:45"
+   },
+   {
+      "id":"285a4f3f2ed26ab3ea00119b21465438",
+      "document":{
+         "name":"Covid Dataset",
+         "type":"dataset",
+         "stack_id":"covid-dataset",
+         "description":"",
+         "logo":"_images/SalesStack.png",
+         "cover":"cover",
+         "meta":{
+            "Language":[
+               "None"
+            ],
+            "Dataset":[
+               "Public Dataset"
+            ],
+            "Install time":[
+               "1 min"
+            ]
+         },
+         "commands":[
+            {
+               "description":"Get Dataset ",
+               "exec":"cd /home/student/projects && git clone https://github.com/datasets/covid-19"
+            }
+         ],
+         "display":[
+            {
+               "name":"Developer Dashboard",
+               "url":"##DNS.host##/codeserver",
+               "enabled":true
+            }
+         ]
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"covid-dataset",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"285a4f3f2ed26ab3ea00119b21465438",
+      "updated":"2020-09-27 10:28:12"
+   },
+   {
+      "id":"daf7eca11a033065d342e41ea7a11f0d",
+      "document":{
+         "name":"Emojis Dataset",
+         "type":"dataset",
+         "description":"",
+         "logo":"_images/SalesStack.png",
+         "cover":"cover",
+         "stack_id":"emojis-dataset",
+         "meta":{
+            "Language":[
+               "None"
+            ],
+            "Dataset":[
+               "Public Dataset"
+            ],
+            "Install time":[
+               "1 min"
+            ]
+         },
+         "commands":[
+            {
+               "description":"Get Dataset ",
+               "exec":"cd /home/student/projects && git clone https://github.com/datasets/emojis.git"
+            }
+         ],
+         "display":[
+            {
+               "name":"Developer Dashboard",
+               "url":"##DNS.host##/codeserver",
+               "enabled":true
+            }
+         ]
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"emojis-dataset",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"daf7eca11a033065d342e41ea7a11f0d",
+      "updated":"2020-09-27 10:28:59"
+   },
+   {
+      "id":"28d51f60dd8d930bb47b122ece660346",
+      "document":{
+         "name":"DAC Dataset",
+         "type":"dataset",
+         "stack_id":"dac-and-crs-code-lists-dataset",
+         "description":"",
+         "logo":"_images/SalesStack.png",
+         "cover":"cover",
+         "meta":{
+            "Language":[
+               "None"
+            ],
+            "Dataset":[
+               "Public Dataset"
+            ],
+            "Install time":[
+               "1 min"
+            ]
+         },
+         "commands":[
+            {
+               "description":"Get Dataset ",
+               "exec":"cd /home/student/projects && git clone https://github.com/datasets/dac-and-crs-code-lists.git"
+            }
+         ],
+         "display":[
+            {
+               "name":"Developer Dashboard",
+               "url":"##DNS.host##/codeserver",
+               "enabled":true
+            }
+         ]
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"dac-and-crs-code-lists-dataset",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"28d51f60dd8d930bb47b122ece660346",
+      "updated":"2020-09-28 09:17:45"
+   },
+   {
+      "id":"7db1c09a792a37506c8494d3028a1dc4",
+      "document":{
+         "name":"Oil-Prices Dataset",
+         "type":"dataset",
+         "description":"",
+         "logo":"_images/SalesStack.png",
+         "cover":"cover",
+         "meta":{
+            "Language":[
+               "None"
+            ],
+            "Dataset":[
+               "Public Dataset"
+            ],
+            "Install time":[
+               "1 min"
+            ]
+         },
+         "commands":[
+            {
+               "description":"Get Dataset ",
+               "exec":"cd /home/student/projects && git clone https://github.com/datasets/oil-prices.git"
+            }
+         ],
+         "display":[
+            {
+               "name":"Developer Dashboard",
+               "url":"##DNS.host##/codeserver",
+               "enabled":true
+            }
+         ]
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"oil-prices-dataset",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"7db1c09a792a37506c8494d3028a1dc4",
+      "updated":"2020-09-24 10:15:06"
+   },
+   {
+      "id":"b1a2ae5b2f5aa85cb6441ad17b996b29",
+      "document":{
+         "name":"Standard and Poor's 500 Dataset",
+         "type":"dataset",
+         "description":"",
+         "logo":"_images/SalesStack.png",
+         "cover":"cover",
+         "meta":{
+            "Language":[
+               "None"
+            ],
+            "Dataset":[
+               "Public Dataset"
+            ],
+            "Install time":[
+               "1 min"
+            ]
+         },
+         "commands":[
+            {
+               "description":"Get Dataset ",
+               "exec":"cd /home/student/projects && git clone https://github.com/datasets/s-and-p-500-companies.git"
+            }
+         ],
+         "display":[
+            {
+               "name":"Developer Dashboard",
+               "url":"##DNS.host##/codeserver",
+               "enabled":true
+            }
+         ]
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"s-and-p-500-companies-dataset",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"b1a2ae5b2f5aa85cb6441ad17b996b29",
+      "updated":"2020-09-24 10:15:07"
+   },
+   {
+      "id":"81f42a64b6dd8c1f437940193211d280",
+      "document":{
+         "name":"Un-locode Dataset",
+         "type":"dataset",
+         "description":"",
+         "logo":"_images/SalesStack.png",
+         "cover":"cover",
+         "meta":{
+            "Language":[
+               "None"
+            ],
+            "Dataset":[
+               "Public Dataset"
+            ],
+            "Install time":[
+               "1 min"
+            ]
+         },
+         "commands":[
+            {
+               "description":"Get Dataset ",
+               "exec":"cd /home/student/projects && git clone https://github.com/datasets/un-locode.git"
+            }
+         ],
+         "display":[
+            {
+               "name":"Developer Dashboard",
+               "url":"##DNS.host##/codeserver",
+               "enabled":true
+            }
+         ]
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"un-locode-dataset",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"81f42a64b6dd8c1f437940193211d280",
+      "updated":"2020-09-24 10:15:08"
+   },
+   {
+      "id":"5b942edcf4d958333314c9d2ad1775f6",
+      "document":{
+         "name":"S&P Financial Dataset",
+         "type":"dataset",
+         "description":"",
+         "logo":"_images/SalesStack.png",
+         "cover":"cover",
+         "meta":{
+            "Language":[
+               "None"
+            ],
+            "Dataset":[
+               "Public Dataset"
+            ],
+            "Install time":[
+               "1 min"
+            ]
+         },
+         "commands":[
+            {
+               "description":"Get Dataset ",
+               "exec":"cd /home/student/projects && git clone https://github.com/datasets/s-and-p-500-companies-financials.git"
+            }
+         ],
+         "display":[
+            {
+               "name":"Developer Dashboard",
+               "url":"##DNS.host##/codeserver",
+               "enabled":true
+            }
+         ]
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"s-and-p-500-companies-financial-dataset",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"5b942edcf4d958333314c9d2ad1775f6",
+      "updated":"2020-09-24 10:15:08"
+   },
+   {
+      "id":"c0dcd3d0d00032a4c49731ee62bceeb1",
+      "document":{
+         "name":"Awesome Data Dataset",
+         "type":"dataset",
+         "stack_id":"awesome-data-dataset",
+         "description":"",
+         "logo":"_images/SalesStack.png",
+         "cover":"cover",
+         "meta":{
+            "Language":[
+               "None"
+            ],
+            "Dataset":[
+               "Public Dataset"
+            ],
+            "Install time":[
+               "1 min"
+            ]
+         },
+         "commands":[
+            {
+               "description":"Get Dataset ",
+               "exec":"cd /home/student/projects && git clone https://github.com/datasets/awesome-data.git"
+            }
+         ],
+         "display":[
+            {
+               "name":"Developer Dashboard",
+               "url":"##DNS.host##/codeserver",
+               "enabled":true
+            }
+         ]
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"awesome-data-dataset",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"c0dcd3d0d00032a4c49731ee62bceeb1",
+      "updated":"2020-09-28 09:17:43"
+   },
+   {
+      "id":"b681051fe260eefa21224310d117cbc2",
+      "document":{
+         "name":"Fips 10-4 Dataset",
+         "type":"dataset",
+         "stack_id":"fips-10-4-dataset",
+         "description":"",
+         "logo":"_images/SalesStack.png",
+         "cover":"cover",
+         "meta":{
+            "Language":[
+               "None"
+            ],
+            "Dataset":[
+               "Public Dataset"
+            ],
+            "Install time":[
+               "1 min"
+            ]
+         },
+         "commands":[
+            {
+               "description":"Get Dataset ",
+               "exec":"cd /home/student/projects && git clone https://github.com/datasets/fips-10-4.git"
+            }
+         ],
+         "display":[
+            {
+               "name":"Developer Dashboard",
+               "url":"##DNS.host##/codeserver",
+               "enabled":true
+            }
+         ]
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"fips-10-4-dataset",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"b681051fe260eefa21224310d117cbc2",
+      "updated":"2020-09-28 09:17:45"
+   },
+   {
+      "id":"5426556003ea8b7195c38edc2a111f44",
+      "document":{
+         "name":"Population reference bureau Dataset",
+         "type":"dataset",
+         "description":"",
+         "logo":"_images/SalesStack.png",
+         "cover":"cover",
+         "meta":{
+            "Language":[
+               "None"
+            ],
+            "Dataset":[
+               "Public Dataset"
+            ],
+            "Install time":[
+               "1 min"
+            ]
+         },
+         "commands":[
+            {
+               "description":"Get Dataset ",
+               "exec":"cd /home/student/projects && git clone https://github.com/datasets/population-reference-bureau.git"
+            }
+         ],
+         "display":[
+            {
+               "name":"Developer Dashboard",
+               "url":"##DNS.host##/codeserver",
+               "enabled":true
+            }
+         ]
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"population-reference-bureau-dataset",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"5426556003ea8b7195c38edc2a111f44",
+      "updated":"2020-09-24 10:15:07"
+   },
+   {
+      "id":"c120a9451e099b3674dcfc002975639f",
+      "document":{
+         "name":"Population Dataset",
+         "type":"dataset",
+         "description":"",
+         "logo":"_images/SalesStack.png",
+         "cover":"cover",
+         "meta":{
+            "Language":[
+               "None"
+            ],
+            "Dataset":[
+               "Public Dataset"
+            ],
+            "Install time":[
+               "1 min"
+            ]
+         },
+         "commands":[
+            {
+               "description":"Get Dataset ",
+               "exec":"cd /home/student/projects && git clone https://github.com/datasets/population.git"
+            }
+         ],
+         "display":[
+            {
+               "name":"Developer Dashboard",
+               "url":"##DNS.host##/codeserver",
+               "enabled":true
+            }
+         ]
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"population-dataset",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"c120a9451e099b3674dcfc002975639f",
+      "updated":"2020-09-24 10:15:07"
+   },
+   {
+      "id":"a948ac8356eb2e6f81426fde0e945a9e",
+      "document":{
+         "name":"Unece units of measure Dataset",
+         "type":"dataset",
+         "description":"",
+         "logo":"_images/SalesStack.png",
+         "cover":"cover",
+         "meta":{
+            "Language":[
+               "None"
+            ],
+            "Dataset":[
+               "Public Dataset"
+            ],
+            "Install time":[
+               "1 min"
+            ]
+         },
+         "commands":[
+            {
+               "description":"Get Dataset ",
+               "exec":"cd /home/student/projects && git clone https://github.com/datasets/unece-units-of-measure.git"
+            }
+         ],
+         "display":[
+            {
+               "name":"Developer Dashboard",
+               "url":"##DNS.host##/codeserver",
+               "enabled":true
+            }
+         ]
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"unece-units-of-measure-dataset",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"a948ac8356eb2e6f81426fde0e945a9e",
+      "updated":"2020-09-24 10:15:08"
+   },
+   {
+      "id":"a1c5918b4d7d8b39996d96d9af901a84",
+      "document":{
+         "name":"World Religion Projections Dataset",
+         "type":"dataset",
+         "description":"",
+         "logo":"_images/SalesStack.png",
+         "cover":"cover",
+         "meta":{
+            "Language":[
+               "None"
+            ],
+            "Dataset":[
+               "Public Dataset"
+            ],
+            "Install time":[
+               "1 min"
+            ]
+         },
+         "commands":[
+            {
+               "description":"Get Dataset ",
+               "exec":"cd /home/student/projects && git clone https://github.com/datasets/world-religion-projections.git"
+            }
+         ],
+         "display":[
+            {
+               "name":"Developer Dashboard",
+               "url":"##DNS.host##/codeserver",
+               "enabled":true
+            }
+         ]
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"world-religion-projections-dataset",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"a1c5918b4d7d8b39996d96d9af901a84",
+      "updated":"2020-09-24 10:15:09"
+   },
+   {
+      "id":"325674d3bbf4b33a2d2e346165527031",
+      "document":{
+         "name":"Airport Codes Dataset",
+         "type":"dataset",
+         "description":"",
+         "stack_id":"airport-codes-dataset",
+         "logo":"_images/SalesStack.png",
+         "cover":"cover",
+         "meta":{
+            "Language":[
+               "None"
+            ],
+            "Dataset":[
+               "Public Dataset"
+            ],
+            "Install time":[
+               "1 min"
+            ]
+         },
+         "commands":[
+            {
+               "description":"Get Dataset ",
+               "exec":"cd /home/student/projects && git clone https://github.com/datasets/airport-codes.git"
+            }
+         ],
+         "display":[
+            {
+               "name":"Developer Dashboard",
+               "url":"##DNS.host##/codeserver",
+               "enabled":true
+            }
+         ]
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"airport-codes-dataset",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"325674d3bbf4b33a2d2e346165527031",
+      "updated":"2020-09-28 09:17:42"
+   },
+   {
+      "id":"5fe480f5557c33446155a25d017cf462",
+      "document":{
+         "name":"ISO container codes Dataset",
+         "type":"dataset",
+         "description":"",
+         "logo":"_images/SalesStack.png",
+         "cover":"cover",
+         "meta":{
+            "Language":[
+               "None"
+            ],
+            "Dataset":[
+               "Public Dataset"
+            ],
+            "Install time":[
+               "1 min"
+            ]
+         },
+         "commands":[
+            {
+               "description":"Get Dataset ",
+               "exec":"cd /home/student/projects && git clone https://github.com/datasets/ISO-Container-Codes.git"
+            }
+         ],
+         "display":[
+            {
+               "name":"Developer Dashboard",
+               "url":"##DNS.host##/codeserver",
+               "enabled":true
+            }
+         ]
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"iso-container-codes-dataset",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"5fe480f5557c33446155a25d017cf462",
+      "updated":"2020-09-24 10:15:00"
+   },
+   {
+      "id":"74d6dfeb9e0c5c3f6315c40f310ef924",
+      "document":{
+         "name":"Harmonized System Dataset",
+         "type":"dataset",
+         "description":"",
+         "logo":"_images/SalesStack.png",
+         "cover":"cover",
+         "meta":{
+            "Language":[
+               "None"
+            ],
+            "Dataset":[
+               "Public Dataset"
+            ],
+            "Install time":[
+               "1 min"
+            ]
+         },
+         "commands":[
+            {
+               "description":"Get Dataset ",
+               "exec":"cd /home/student/projects && git clone https://github.com/datasets/harmonized-system.git"
+            }
+         ],
+         "display":[
+            {
+               "name":"Developer Dashboard",
+               "url":"##DNS.host##/codeserver",
+               "enabled":true
+            }
+         ]
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"harmonized-system-dataset",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"74d6dfeb9e0c5c3f6315c40f310ef924",
+      "updated":"2020-09-24 10:14:59"
+   },
+   {
+      "id":"4bf84162250ae096a153f91111c82460",
+      "document":{
+         "name":"Core Dataset",
+         "type":"dataset",
+         "stack_id":"core-dataset",
+         "description":"",
+         "logo":"_images/SalesStack.png",
+         "cover":"cover",
+         "meta":{
+            "Language":[
+               "None"
+            ],
+            "Dataset":[
+               "Public Dataset"
+            ],
+            "Install time":[
+               "1 min"
+            ]
+         },
+         "commands":[
+            {
+               "description":"Get Dataset ",
+               "exec":"cd /home/student/projects && git clone https://github.com/datasets/core-datasets.git"
+            }
+         ],
+         "display":[
+            {
+               "name":"Developer Dashboard",
+               "url":"##DNS.host##/codeserver",
+               "enabled":true
+            }
+         ]
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"core-dataset",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"4bf84162250ae096a153f91111c82460",
+      "updated":"2020-09-28 09:17:44"
+   },
+   {
+      "id":"2ae29c98cb57dccfd2b692854fa3b4ea",
+      "document":{
+         "name":"Geo Countries Dataset",
+         "type":"dataset",
+         "description":"",
+         "logo":"_images/SalesStack.png",
+         "cover":"cover",
+         "meta":{
+            "Language":[
+               "None"
+            ],
+            "Dataset":[
+               "Public Dataset"
+            ],
+            "Install time":[
+               "1 min"
+            ]
+         },
+         "commands":[
+            {
+               "description":"Get Dataset ",
+               "exec":"cd /home/student/projects && git clone https://github.com/datasets/geo-countries.git"
+            }
+         ],
+         "display":[
+            {
+               "name":"Developer Dashboard",
+               "url":"##DNS.host##/codeserver",
+               "enabled":true
+            }
+         ]
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"geo-countries-dataset",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"2ae29c98cb57dccfd2b692854fa3b4ea",
+      "updated":"2020-09-24 10:14:59"
+   },
+   {
+      "id":"28d23d16d14aa13998b8acbbcddcec8c",
+      "document":{
+         "name":"Owid Dataset",
+         "type":"dataset",
+         "description":"",
+         "logo":"_images/SalesStack.png",
+         "cover":"cover",
+         "meta":{
+            "Language":[
+               "None"
+            ],
+            "Dataset":[
+               "Public Dataset"
+            ],
+            "Install time":[
+               "1 min"
+            ]
+         },
+         "commands":[
+            {
+               "description":"Get Dataset ",
+               "exec":"cd /home/student/projects && git clone https://github.com/datasets/owid-datasets.git"
+            }
+         ],
+         "display":[
+            {
+               "name":"Developer Dashboard",
+               "url":"##DNS.host##/codeserver",
+               "enabled":true
+            }
+         ]
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"owid-dataset",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"28d23d16d14aa13998b8acbbcddcec8c",
+      "updated":"2020-09-24 10:15:06"
+   },
+   {
+      "id":"0bcaad7422bbd09afa26b876d208b303",
+      "document":{
+         "name":"CO2 PPM Daily Dataset",
+         "type":"dataset",
+         "stack_id":"co2-ppm-daily-dataset",
+         "description":"",
+         "logo":"_images/SalesStack.png",
+         "cover":"cover",
+         "meta":{
+            "Language":[
+               "None"
+            ],
+            "Dataset":[
+               "Public Dataset"
+            ],
+            "Install time":[
+               "1 min"
+            ]
+         },
+         "commands":[
+            {
+               "description":"Get Dataset ",
+               "exec":"cd /home/student/projects && git clone https://github.com/datasets/co2-ppm-daily.git"
+            }
+         ],
+         "display":[
+            {
+               "name":"Developer Dashboard",
+               "url":"##DNS.host##/codeserver",
+               "enabled":true
+            }
+         ]
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"co2-ppm-daily-dataset",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"0bcaad7422bbd09afa26b876d208b303",
+      "updated":"2020-09-28 09:17:44"
+   },
+   {
+      "id":"5a1039081690ba2c5aa2c61f3acd76c9",
+      "document":{
+         "name":"Country Codes Dataset",
+         "type":"dataset",
+         "stack_id":"country-codes-dataset",
+         "description":"",
+         "logo":"_images/SalesStack.png",
+         "cover":"cover",
+         "meta":{
+            "Language":[
+               "None"
+            ],
+            "Dataset":[
+               "Public Dataset"
+            ],
+            "Install time":[
+               "1 min"
+            ]
+         },
+         "commands":[
+            {
+               "description":"Get Dataset ",
+               "exec":"cd /home/student/projects && git clone https://github.com/datasets/country-codes.git"
+            }
+         ],
+         "display":[
+            {
+               "name":"Developer Dashboard",
+               "url":"##DNS.host##/codeserver",
+               "enabled":true
+            }
+         ]
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"country-codes-dataset",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"5a1039081690ba2c5aa2c61f3acd76c9",
+      "updated":"2020-09-28 09:17:45"
+   },
+   {
+      "id":"625d3028272c9110fc536e1dea4ec933",
+      "document":{
+         "name":"CO2 Fossil by Nation Dataset",
+         "type":"dataset",
+         "stack_id":"co2-fossil-by-nation-dataset",
+         "description":"",
+         "logo":"_images/SalesStack.png",
+         "cover":"cover",
+         "meta":{
+            "Language":[
+               "None"
+            ],
+            "Dataset":[
+               "Public Dataset"
+            ],
+            "Install time":[
+               "1 min"
+            ]
+         },
+         "commands":[
+            {
+               "description":"Get Dataset ",
+               "exec":"cd /home/student/projects && git clone https://github.com/datasets/co2-fossil-by-nation.git"
+            }
+         ],
+         "display":[
+            {
+               "name":"Developer Dashboard",
+               "url":"##DNS.host##/codeserver",
+               "enabled":true
+            }
+         ]
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"co2-fossil-by-nation-dataset",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"625d3028272c9110fc536e1dea4ec933",
+      "updated":"2020-09-28 09:17:43"
+   },
+   {
+      "id":"a5c28b6a3452635f7a92cbbab9039dae",
+      "document":{
+         "name":"London Population Dataset",
+         "type":"dataset",
+         "description":"",
+         "logo":"_images/SalesStack.png",
+         "cover":"cover",
+         "meta":{
+            "Language":[
+               "None"
+            ],
+            "Dataset":[
+               "Public Dataset"
+            ],
+            "Install time":[
+               "1 min"
+            ]
+         },
+         "commands":[
+            {
+               "description":"Get Dataset ",
+               "exec":"cd /home/student/projects && git clone https://github.com/datasets/london-population.git"
+            }
+         ],
+         "display":[
+            {
+               "name":"Developer Dashboard",
+               "url":"##DNS.host##/codeserver",
+               "enabled":true
+            }
+         ]
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"london-population-dataset",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"a5c28b6a3452635f7a92cbbab9039dae",
+      "updated":"2020-09-24 10:15:04"
+   },
+   {
+      "id":"23513a87a90fd43c48e08c24d2310e2f",
+      "document":{
+         "name":"London Life Expectancy Dataset",
+         "type":"dataset",
+         "description":"",
+         "logo":"_images/SalesStack.png",
+         "cover":"cover",
+         "meta":{
+            "Language":[
+               "None"
+            ],
+            "Dataset":[
+               "Public Dataset"
+            ],
+            "Install time":[
+               "1 min"
+            ]
+         },
+         "commands":[
+            {
+               "description":"Get Dataset ",
+               "exec":"cd /home/student/projects && git clone https://github.com/datasets/london-life-expectancy.git"
+            }
+         ],
+         "display":[
+            {
+               "name":"Developer Dashboard",
+               "url":"##DNS.host##/codeserver",
+               "enabled":true
+            }
+         ]
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"london-life-expectancy-dataset",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"23513a87a90fd43c48e08c24d2310e2f",
+      "updated":"2020-09-24 10:15:03"
+   },
+   {
+      "id":"e30611fea995b581770721defe5663c6",
+      "document":{
+         "name":"London gva Dataset",
+         "type":"dataset",
+         "description":"",
+         "logo":"_images/SalesStack.png",
+         "cover":"cover",
+         "meta":{
+            "Language":[
+               "None"
+            ],
+            "Dataset":[
+               "Public Dataset"
+            ],
+            "Install time":[
+               "1 min"
+            ]
+         },
+         "commands":[
+            {
+               "description":"Get Dataset ",
+               "exec":"cd /home/student/projects && git clone https://github.com/datasets/london-gva.git"
+            }
+         ],
+         "display":[
+            {
+               "name":"Developer Dashboard",
+               "url":"##DNS.host##/codeserver",
+               "enabled":true
+            }
+         ]
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"london-gva-dataset",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"e30611fea995b581770721defe5663c6",
+      "updated":"2020-09-24 10:15:01"
+   },
+   {
+      "id":"4d8ef319eddbfa8ed4a9cd038ece4e60",
+      "document":{
+         "name":"London Unemployment Dataset",
+         "type":"dataset",
+         "description":"",
+         "logo":"_images/SalesStack.png",
+         "cover":"cover",
+         "meta":{
+            "Language":[
+               "None"
+            ],
+            "Dataset":[
+               "Public Dataset"
+            ],
+            "Install time":[
+               "1 min"
+            ]
+         },
+         "commands":[
+            {
+               "description":"Get Dataset ",
+               "exec":"cd /home/student/projects && git clone https://github.com/datasets/london-unemployment.git"
+            }
+         ],
+         "display":[
+            {
+               "name":"Developer Dashboard",
+               "url":"##DNS.host##/codeserver",
+               "enabled":true
+            }
+         ]
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"london-unemployment-dataset",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"4d8ef319eddbfa8ed4a9cd038ece4e60",
+      "updated":"2020-09-24 10:15:05"
+   },
+   {
+      "id":"ba810637064fd314794c1215cf0efd0e",
+      "document":{
+         "name":"London Crime Dataset",
+         "type":"dataset",
+         "description":"",
+         "logo":"_images/SalesStack.png",
+         "cover":"cover",
+         "meta":{
+            "Language":[
+               "None"
+            ],
+            "Dataset":[
+               "Public Dataset"
+            ],
+            "Install time":[
+               "1 min"
+            ]
+         },
+         "commands":[
+            {
+               "description":"Get Dataset ",
+               "exec":"cd /home/student/projects && git clone https://github.com/datasets/london-crime.git"
+            }
+         ],
+         "display":[
+            {
+               "name":"Developer Dashboard",
+               "url":"##DNS.host##/codeserver",
+               "enabled":true
+            }
+         ]
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"london-crime-dataset",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"ba810637064fd314794c1215cf0efd0e",
+      "updated":"2020-09-24 10:15:00"
+   },
+   {
+      "id":"ec0a4c450832307cdb6ff4c87bab3512",
+      "document":{
+         "name":"London Median Hosuing Affordability Dataset",
+         "type":"dataset",
+         "description":"",
+         "logo":"_images/SalesStack.png",
+         "cover":"cover",
+         "meta":{
+            "Language":[
+               "None"
+            ],
+            "Dataset":[
+               "Public Dataset"
+            ],
+            "Install time":[
+               "1 min"
+            ]
+         },
+         "commands":[
+            {
+               "description":"Get Dataset ",
+               "exec":"cd /home/student/projects && git clone https://github.com/datasets/london-median-housing-affordability.git"
+            }
+         ],
+         "display":[
+            {
+               "name":"Developer Dashboard",
+               "url":"##DNS.host##/codeserver",
+               "enabled":true
+            }
+         ]
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"london-median-housing-affordability-dataset",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"ec0a4c450832307cdb6ff4c87bab3512",
+      "updated":"2020-09-24 10:15:04"
+   },
+   {
+      "id":"cac944bc655f9b03793a51ab79e83b97",
+      "document":{
+         "name":"London Underground Report Dataset",
+         "type":"dataset",
+         "description":"",
+         "logo":"_images/SalesStack.png",
+         "cover":"cover",
+         "meta":{
+            "Language":[
+               "None"
+            ],
+            "Dataset":[
+               "Public Dataset"
+            ],
+            "Install time":[
+               "1 min"
+            ]
+         },
+         "commands":[
+            {
+               "description":"Get Dataset ",
+               "exec":"cd /home/student/projects && git clone https://github.com/datasets/london-underground-report.git"
+            }
+         ],
+         "display":[
+            {
+               "name":"Developer Dashboard",
+               "url":"##DNS.host##/codeserver",
+               "enabled":true
+            }
+         ]
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"london-underground-report-dataset",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"cac944bc655f9b03793a51ab79e83b97",
+      "updated":"2020-09-24 10:15:05"
+   },
+   {
+      "id":"63ecb13d54b2bcb717569910a85fd133",
+      "document":{
+         "name":"London Transport Dataset",
+         "type":"dataset",
+         "description":"",
+         "logo":"_images/SalesStack.png",
+         "stack_id":"london-transport-dataset",
+         "cover":"cover",
+         "meta":{
+            "Language":[
+               "None"
+            ],
+            "Dataset":[
+               "Public Dataset"
+            ],
+            "Install time":[
+               "1 min"
+            ]
+         },
+         "commands":[
+            {
+               "description":"Get Dataset ",
+               "exec":"cd /home/student/projects && git clone https://github.com/datasets/london-transport.git"
+            }
+         ],
+         "display":[
+            {
+               "name":"Developer Dashboard",
+               "url":"##DNS.host##/codeserver",
+               "enabled":true
+            }
+         ]
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"london-transport-dataset",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"63ecb13d54b2bcb717569910a85fd133",
+      "updated":"2020-09-28 09:17:46"
+   },
+   {
+      "id":"c16e571f77d10e2ea33485b3fcaf34df",
+      "document":{
+         "name":"London Air Quality Dataset",
+         "type":"dataset",
+         "description":"",
+         "logo":"_images/SalesStack.png",
+         "cover":"cover",
+         "meta":{
+            "Language":[
+               "None"
+            ],
+            "Dataset":[
+               "Public Dataset"
+            ],
+            "Install time":[
+               "2 min"
+            ]
+         },
+         "commands":[
+            {
+               "description":"Get Dataset ",
+               "exec":"cd /home/student/projects && git clone https://github.com/datasets/london-air-quality.git"
+            }
+         ],
+         "display":[
+            {
+               "name":"Developer Dashboard",
+               "url":"##DNS.host##/codeserver",
+               "enabled":true
+            }
+         ]
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"london-air-quality-dataset",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"c16e571f77d10e2ea33485b3fcaf34df",
+      "updated":"2020-09-24 06:28:23"
+   },
+   {
+      "id":"19cfd90b359bc0b990f8024c3fd7ae23",
+      "document":{
+         "name":"Continent Codes Dataset",
+         "type":"dataset",
+         "stack_id":"continent-codes-dataset",
+         "description":"",
+         "logo":"_images/SalesStack.png",
+         "cover":"cover",
+         "meta":{
+            "Language":[
+               "None"
+            ],
+            "Dataset":[
+               "Public Dataset"
+            ],
+            "Install time":[
+               "2 min"
+            ]
+         },
+         "commands":[
+            {
+               "description":"Get Dataset ",
+               "exec":"cd /home/student/projects && git clone https://github.com/datasets/continent-codes.git"
+            }
+         ],
+         "display":[
+            {
+               "name":"Developer Dashboard",
+               "url":"##DNS.host##/codeserver",
+               "enabled":true
+            }
+         ]
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"continent-codes-dataset",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"19cfd90b359bc0b990f8024c3fd7ae23",
+      "updated":"2020-09-28 09:17:38"
+   },
+   {
+      "id":"c4a32f57a69c4ad98e84ab629b232f34",
+      "document":{
+         "name":"Football Dataset",
+         "type":"dataset",
+         "description":"",
+         "stack_id":"football-dataset",
+         "logo":"_images/SalesStack.png",
+         "cover":"cover",
+         "meta":{
+            "Language":[
+               "None"
+            ],
+            "Dataset":[
+               "Public Dataset"
+            ],
+            "Install time":[
+               "1 min"
+            ]
+         },
+         "commands":[
+            {
+               "description":"Get Dataset ",
+               "exec":"cd /home/student/projects && git clone https://github.com/datasets/football-datasets.git"
+            }
+         ],
+         "display":[
+            {
+               "name":"Developer Dashboard",
+               "url":"##DNS.host##/codeserver",
+               "enabled":true
+            }
+         ]
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"football-dataset",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"c4a32f57a69c4ad98e84ab629b232f34",
+      "updated":"2020-09-28 09:17:42"
+   },
+   {
+      "id":"b625cb96484b37ee74aea72df2ec4342",
+      "document":{
+         "name":"Corruption Perceptions Index Dataset",
+         "type":"dataset",
+         "stack_id":"corruption-perceptions-index-dataset",
+         "description":"",
+         "logo":"_images/SalesStack.png",
+         "cover":"cover",
+         "meta":{
+            "Language":[
+               "None"
+            ],
+            "Dataset":[
+               "Public Dataset"
+            ],
+            "Install time":[
+               "1 min"
+            ]
+         },
+         "commands":[
+            {
+               "description":"Get Dataset ",
+               "exec":"cd /home/student/projects && git clone https://github.com/datasets/corruption-perceptions-index.git"
+            }
+         ],
+         "display":[
+            {
+               "name":"Developer Dashboard",
+               "url":"##DNS.host##/codeserver",
+               "enabled":true
+            }
+         ]
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"corruption-perceptions-index-dataset",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"b625cb96484b37ee74aea72df2ec4342",
+      "updated":"2020-09-28 09:17:38"
+   },
+   {
+      "id":"ddb77c960892007a819bc0c66ecc2781",
+      "document":{
+         "name":"OpenFlights Dataset",
+         "type":"dataset",
+         "description":"",
+         "logo":"_images/SalesStack.png",
+         "cover":"cover",
+         "meta":{
+            "Language":[
+               "None"
+            ],
+            "Dataset":[
+               "Public Dataset"
+            ],
+            "Install time":[
+               "1 min"
+            ]
+         },
+         "commands":[
+            {
+               "description":"Get Dataset ",
+               "exec":"cd /home/student/projects && git clone https://github.com/datasets/openflights.git"
+            }
+         ],
+         "display":[
+            {
+               "name":"Developer Dashboard",
+               "url":"##DNS.host##/codeserver",
+               "enabled":true
+            }
+         ]
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"openflights-dataset",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"ddb77c960892007a819bc0c66ecc2781",
+      "updated":"2020-09-24 09:36:24"
+   },
+   {
+      "id":"01c6dd09f071612576c712b864954218",
+      "document":{
+         "name":"House Prices UK Dataset",
+         "type":"dataset",
+         "description":"",
+         "logo":"_images/SalesStack.png",
+         "cover":"cover",
+         "meta":{
+            "Language":[
+               "None"
+            ],
+            "Dataset":[
+               "Public Dataset"
+            ],
+            "Install time":[
+               "1 min"
+            ]
+         },
+         "commands":[
+            {
+               "description":"Get Dataset ",
+               "exec":"cd /home/student/projects && git clone https://github.com/datasets/house-prices-uk.git"
+            }
+         ],
+         "display":[
+            {
+               "name":"Developer Dashboard",
+               "url":"##DNS.host##/codeserver",
+               "enabled":true
+            }
+         ]
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"house-prices-uk-dataset",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"01c6dd09f071612576c712b864954218",
+      "updated":"2020-09-24 09:36:22"
+   },
+   {
+      "id":"941cb638c9184dd30903b739e449921e",
+      "document":{
+         "name":"Global House Prices Dataset",
+         "type":"dataset",
+         "description":"",
+         "logo":"_images/SalesStack.png",
+         "cover":"cover",
+         "meta":{
+            "Language":[
+               "None"
+            ],
+            "Dataset":[
+               "Public Dataset"
+            ],
+            "Install time":[
+               "1 min"
+            ]
+         },
+         "commands":[
+            {
+               "description":"Get Dataset ",
+               "exec":"cd /home/student/projects && git clone https://github.com/datasets/house-prices-global.git"
+            }
+         ],
+         "display":[
+            {
+               "name":"Developer Dashboard",
+               "url":"##DNS.host##/codeserver",
+               "enabled":true
+            }
+         ]
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"house-prices-global-dataset",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"941cb638c9184dd30903b739e449921e",
+      "updated":"2020-09-24 09:36:21"
+   },
+   {
+      "id":"ed1a2f0e79d26ff9d155002f0f9d7227",
+      "document":{
+         "name":"ICC Incoterms Dataset",
+         "type":"dataset",
+         "description":"",
+         "logo":"_images/SalesStack.png",
+         "cover":"cover",
+         "meta":{
+            "Language":[
+               "None"
+            ],
+            "Dataset":[
+               "Public Dataset"
+            ],
+            "Install time":[
+               "1 min"
+            ]
+         },
+         "commands":[
+            {
+               "description":"Get Dataset ",
+               "exec":"cd /home/student/projects && git clone https://github.com/datasets/ICC-Incoterms.git"
+            }
+         ],
+         "display":[
+            {
+               "name":"Developer Dashboard",
+               "url":"##DNS.host##/codeserver",
+               "enabled":true
+            }
+         ]
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"icc-incoterms-dataset",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"ed1a2f0e79d26ff9d155002f0f9d7227",
+      "updated":"2020-09-24 09:36:23"
+   },
+   {
+      "id":"6b47be05dfbc9a201ff29f62d8dc3389",
+      "document":{
+         "name":"NASDAQ Listings Dataset",
+         "type":"dataset",
+         "description":"",
+         "logo":"_images/SalesStack.png",
+         "cover":"cover",
+         "meta":{
+            "Language":[
+               "None"
+            ],
+            "Dataset":[
+               "Public Dataset"
+            ],
+            "Install time":[
+               "1 min"
+            ]
+         },
+         "commands":[
+            {
+               "description":"Get Dataset ",
+               "exec":"cd /home/student/projects && git clone https://github.com/datasets/nasdaq-listings.git"
+            }
+         ],
+         "display":[
+            {
+               "name":"Developer Dashboard",
+               "url":"##DNS.host##/codeserver",
+               "enabled":true
+            }
+         ]
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"nasdaq-listings-dataset",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"6b47be05dfbc9a201ff29f62d8dc3389",
+      "updated":"2020-09-24 09:36:23"
+   },
+   {
+      "id":"69e2019fa51b7e812c9efc62e7ea9204",
+      "document":{
+         "name":"City Population Dataset",
+         "type":"dataset",
+         "description":"",
+         "logo":"_images/SalesStack.png",
+         "cover":"cover",
+         "meta":{
+            "Language":[
+               "None"
+            ],
+            "Dataset":[
+               "Public Dataset"
+            ],
+            "Install time":[
+               "1 min"
+            ]
+         },
+         "commands":[
+            {
+               "description":"Get Dataset ",
+               "exec":"cd /home/student/projects && git clone https://github.com/datasets/population-city.git"
+            }
+         ],
+         "display":[
+            {
+               "name":"Developer Dashboard",
+               "url":"##DNS.host##/codeserver",
+               "enabled":true
+            }
+         ]
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"population-city-dataset",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"69e2019fa51b7e812c9efc62e7ea9204",
+      "updated":"2020-09-24 09:36:24"
+   },
+   {
+      "id":"38330a03440f5f9c03d3dc895756a319",
+      "document":{
+         "name":"Purchasing power parity Dataset",
+         "type":"dataset",
+         "description":"",
+         "logo":"_images/SalesStack.png",
+         "cover":"cover",
+         "meta":{
+            "Language":[
+               "None"
+            ],
+            "Dataset":[
+               "Public Dataset"
+            ],
+            "Install time":[
+               "1 min"
+            ]
+         },
+         "commands":[
+            {
+               "description":"Get Dataset ",
+               "exec":"cd /home/student/projects && git clone https://github.com/datasets/ppp.git"
+            }
+         ],
+         "display":[
+            {
+               "name":"Developer Dashboard",
+               "url":"##DNS.host##/codeserver",
+               "enabled":true
+            }
+         ]
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"ppp-dataset",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"38330a03440f5f9c03d3dc895756a319",
+      "updated":"2020-09-24 09:36:25"
+   },
+   {
+      "id":"bb8113dfca9072bae1d6dbb6aab71aa6",
+      "document":{
+         "name":"Top Level Domain Names Dataset",
+         "type":"dataset",
+         "description":"",
+         "logo":"_images/SalesStack.png",
+         "cover":"cover",
+         "meta":{
+            "Language":[
+               "None"
+            ],
+            "Dataset":[
+               "Public Dataset"
+            ],
+            "Install time":[
+               "1 min"
+            ]
+         },
+         "commands":[
+            {
+               "description":"Get Dataset ",
+               "exec":"cd /home/student/projects && git clone https://github.com/datasets/top-level-domain-names.git"
+            }
+         ],
+         "display":[
+            {
+               "name":"Developer Dashboard",
+               "url":"##DNS.host##/codeserver",
+               "enabled":true
+            }
+         ]
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"top-level-domain-names-dataset",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"bb8113dfca9072bae1d6dbb6aab71aa6",
+      "updated":"2020-09-24 09:36:26"
+   },
+   {
+      "id":"7bde8ca387f1e658ec5e59cabf251e6e",
+      "document":{
+         "name":"EU Emissions Trading System Dataset",
+         "type":"dataset",
+         "description":"",
+         "logo":"_images/SalesStack.png",
+         "stack_id":"eu-emissions-trading-system-dataset",
+         "cover":"cover",
+         "meta":{
+            "Language":[
+               "None"
+            ],
+            "Dataset":[
+               "Public Dataset"
+            ],
+            "Install time":[
+               "1 min"
+            ]
+         },
+         "commands":[
+            {
+               "description":"Get Dataset ",
+               "exec":"cd /home/student/projects && git clone https://github.com/datasets/eu-emissions-trading-system.git"
+            }
+         ],
+         "display":[
+            {
+               "name":"Developer Dashboard",
+               "url":"##DNS.host##/codeserver",
+               "enabled":true
+            }
+         ]
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"eu-emissions-trading-system-dataset",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"7bde8ca387f1e658ec5e59cabf251e6e",
+      "updated":"2020-09-28 09:17:40"
+   },
+   {
+      "id":"f94c68e372a9b83271278d5d6e955926",
+      "document":{
+         "name":"CPI Change Dataset",
+         "type":"dataset",
+         "stack_id":"cpi-change-dataset",
+         "description":"",
+         "logo":"_images/SalesStack.png",
+         "cover":"cover",
+         "meta":{
+            "Language":[
+               "None"
+            ],
+            "Dataset":[
+               "Public Dataset"
+            ],
+            "Install time":[
+               "1 min"
+            ]
+         },
+         "commands":[
+            {
+               "description":"Get Dataset ",
+               "exec":"cd /home/student/projects && git clone https://github.com/datasets/cpi-change.git"
+            }
+         ],
+         "display":[
+            {
+               "name":"Developer Dashboard",
+               "url":"##DNS.host##/codeserver",
+               "enabled":true
+            }
+         ]
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"cpi-change-dataset",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"f94c68e372a9b83271278d5d6e955926",
+      "updated":"2020-09-28 09:17:38"
+   },
+   {
+      "id":"3d948d1f6b669dd144bd6457c3f8657f",
+      "document":{
+         "name":"Diagnosed Diabetes Prevalence Dataset",
+         "type":"dataset",
+         "stack_id":"diagnosed-diabetes-prevalence-dataset",
+         "description":"",
+         "logo":"_images/SalesStack.png",
+         "cover":"cover",
+         "meta":{
+            "Language":[
+               "None"
+            ],
+            "Dataset":[
+               "Public Dataset"
+            ],
+            "Install time":[
+               "1 min"
+            ]
+         },
+         "commands":[
+            {
+               "description":"Get Dataset ",
+               "exec":"cd /home/student/projects && git clone https://github.com/datasets/diagnosed-diabetes-prevalence.git"
+            }
+         ],
+         "display":[
+            {
+               "name":"Developer Dashboard",
+               "url":"##DNS.host##/codeserver",
+               "enabled":true
+            }
+         ]
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"diagnosed-diabetes-prevalence-dataset",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"3d948d1f6b669dd144bd6457c3f8657f",
+      "updated":"2020-09-28 09:17:40"
+   },
+   {
+      "id":"59d35ed1bed61d936ca787fe7eb184c7",
+      "document":{
+         "name":"GDP US Dataset",
+         "type":"dataset",
+         "stack_id":"gdp-us-dataset",
+         "description":"",
+         "logo":"_images/SalesStack.png",
+         "cover":"cover",
+         "meta":{
+            "Language":[
+               "None"
+            ],
+            "Dataset":[
+               "Public Dataset"
+            ],
+            "Install time":[
+               "1 min"
+            ]
+         },
+         "commands":[
+            {
+               "description":"Get Dataset ",
+               "exec":"cd /home/student/projects && git clone https://github.com/datasets/gdp-us.git"
+            }
+         ],
+         "display":[
+            {
+               "name":"Developer Dashboard",
+               "url":"##DNS.host##/codeserver",
+               "enabled":true
+            }
+         ]
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"gdp-us-dataset",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"59d35ed1bed61d936ca787fe7eb184c7",
+      "updated":"2020-09-28 09:17:42"
+   },
+   {
+      "id":"42eafde2c69a606141e674bff263038d",
+      "document":{
+         "name":"GINI Index Dataset",
+         "type":"dataset",
+         "description":"",
+         "logo":"_images/SalesStack.png",
+         "cover":"cover",
+         "meta":{
+            "Language":[
+               "None"
+            ],
+            "Dataset":[
+               "Public Dataset"
+            ],
+            "Install time":[
+               "1 min"
+            ]
+         },
+         "commands":[
+            {
+               "description":"Get Dataset ",
+               "exec":"cd /home/student/projects && git clone https://github.com/datasets/gini-index.git"
+            }
+         ],
+         "display":[
+            {
+               "name":"Developer Dashboard",
+               "url":"##DNS.host##/codeserver",
+               "enabled":true
+            }
+         ]
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"gini-index-dataset",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"42eafde2c69a606141e674bff263038d",
+      "updated":"2020-09-24 09:36:20"
+   },
+   {
+      "id":"0593177b4ea3f4c568a5424b4d9e643b",
+      "document":{
+         "name":"US Bond Yields Dataset",
+         "type":"dataset",
+         "stack_id":"bond-yields-us-dataset",
+         "description":"",
+         "logo":"_images/SalesStack.png",
+         "cover":"cover",
+         "meta":{
+            "Language":[
+               "None"
+            ],
+            "Dataset":[
+               "Public Dataset"
+            ],
+            "Install time":[
+               "1 min"
+            ]
+         },
+         "commands":[
+            {
+               "description":"Get Dataset ",
+               "exec":"cd /home/student/projects && git clone https://github.com/datasets/bond-yields-us-10y.git"
+            }
+         ],
+         "display":[
+            {
+               "name":"Developer Dashboard",
+               "url":"##DNS.host##/codeserver",
+               "enabled":true
+            }
+         ]
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"bond-yields-us-dataset",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"0593177b4ea3f4c568a5424b4d9e643b",
+      "updated":"2020-09-28 09:17:37"
+   },
+   {
+      "id":"e6ec602ec1368cb97445e54ce917bec6",
+      "document":{
+         "name":"UK Bond Yields Dataset",
+         "type":"dataset",
+         "stack_id":"bond-yields-uk-dataset",
+         "description":"",
+         "logo":"_images/SalesStack.png",
+         "cover":"cover",
+         "meta":{
+            "Language":[
+               "None"
+            ],
+            "Dataset":[
+               "Public Dataset"
+            ],
+            "Install time":[
+               "1 min"
+            ]
+         },
+         "commands":[
+            {
+               "description":"Get Dataset ",
+               "exec":"cd /home/student/projects && git clone https://github.com/datasets/bond-yields-uk-10y.git"
+            }
+         ],
+         "display":[
+            {
+               "name":"Developer Dashboard",
+               "url":"##DNS.host##/codeserver",
+               "enabled":true
+            }
+         ]
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"bond-yields-uk-dataset",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"e6ec602ec1368cb97445e54ce917bec6",
+      "updated":"2020-09-28 09:17:37"
+   },
+   {
+      "id":"35ea675b2fc314cbf8762c3dea5c6783",
+      "document":{
+         "name":"Exchange Rates Dataset",
+         "type":"dataset",
+         "description":"",
+         "stack_id":"exchange-rates-dataset",
+         "logo":"_images/SalesStack.png",
+         "cover":"cover",
+         "meta":{
+            "Language":[
+               "None"
+            ],
+            "Dataset":[
+               "Public Dataset"
+            ],
+            "Install time":[
+               "1 min"
+            ]
+         },
+         "commands":[
+            {
+               "description":"Get Dataset ",
+               "exec":"cd /home/student/projects && git clone https://github.com/datasets/exchange-rates.git"
+            }
+         ],
+         "display":[
+            {
+               "name":"Developer Dashboard",
+               "url":"##DNS.host##/codeserver",
+               "enabled":true
+            }
+         ]
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"exchange-rates-dataset",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"35ea675b2fc314cbf8762c3dea5c6783",
+      "updated":"2020-09-28 09:17:41"
+   },
+   {
+      "id":"b6d0a4dfb2c3f24b488f3186e628607b",
+      "document":{
+         "name":"Euribor Dataset",
+         "type":"dataset",
+         "description":"",
+         "stack_id":"euribor-dataset",
+         "logo":"_images/SalesStack.png",
+         "cover":"cover",
+         "meta":{
+            "Language":[
+               "None"
+            ],
+            "Dataset":[
+               "Public Dataset"
+            ],
+            "Install time":[
+               "1 min"
+            ]
+         },
+         "commands":[
+            {
+               "description":"Get Dataset ",
+               "exec":"cd /home/student/projects && git clone https://github.com/datasets/euribor.git"
+            }
+         ],
+         "display":[
+            {
+               "name":"Developer Dashboard",
+               "url":"##DNS.host##/codeserver",
+               "enabled":true
+            }
+         ]
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"euribor-dataset",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"b6d0a4dfb2c3f24b488f3186e628607b",
+      "updated":"2020-09-28 09:17:40"
+   },
+   {
+      "id":"27675a7ee270c212954813ba4153eb77",
+      "document":{
+         "name":"Currency Codes Dataset",
+         "type":"dataset",
+         "stack_id":"currency-codes-dataset",
+         "description":"",
+         "logo":"_images/SalesStack.png",
+         "cover":"cover",
+         "meta":{
+            "Language":[
+               "None"
+            ],
+            "Dataset":[
+               "Public Dataset"
+            ],
+            "Install time":[
+               "1 min"
+            ]
+         },
+         "commands":[
+            {
+               "description":"Get Dataset ",
+               "exec":"cd /home/student/projects && git clone https://github.com/datasets/currency-codes.git"
+            }
+         ],
+         "display":[
+            {
+               "name":"Developer Dashboard",
+               "url":"##DNS.host##/codeserver",
+               "enabled":true
+            }
+         ]
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"currency-codes-dataset",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"27675a7ee270c212954813ba4153eb77",
+      "updated":"2020-09-28 09:17:39"
+   },
+   {
+      "id":"428fe01ea8239aa9c39dc0b218de1e6e",
+      "document":{
+         "name":"Consumer Price Index Dataset",
+         "type":"dataset",
+         "stack_id":"cpi-dataset",
+         "description":"",
+         "logo":"_images/SalesStack.png",
+         "cover":"cover",
+         "meta":{
+            "Language":[
+               "None"
+            ],
+            "Dataset":[
+               "Public Dataset"
+            ],
+            "Install time":[
+               "1 min"
+            ]
+         },
+         "commands":[
+            {
+               "description":"Get Dataset ",
+               "exec":"cd /home/student/projects && git clone https://github.com/datasets/cpi.git"
+            }
+         ],
+         "display":[
+            {
+               "name":"Developer Dashboard",
+               "url":"##DNS.host##/codeserver",
+               "enabled":true
+            }
+         ]
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"cpi-dataset",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"428fe01ea8239aa9c39dc0b218de1e6e",
+      "updated":"2020-09-28 09:17:39"
+   },
+   {
+      "id":"6c72a3984991d0852431797ede9aa3f3",
+      "document":{
+         "name":"CBOE Volatility Index Dataset",
+         "type":"dataset",
+         "description":"",
+         "stack_id":"finance-vix-dataset",
+         "logo":"_images/SalesStack.png",
+         "cover":"cover",
+         "meta":{
+            "Language":[
+               "None"
+            ],
+            "Dataset":[
+               "Public Dataset"
+            ],
+            "Install time":[
+               "1 min"
+            ]
+         },
+         "commands":[
+            {
+               "description":"Get Dataset ",
+               "exec":"cd /home/student/projects && git clone https://github.com/datasets/finance-vix.git"
+            }
+         ],
+         "display":[
+            {
+               "name":"Developer Dashboard",
+               "url":"##DNS.host##/codeserver",
+               "enabled":true
+            }
+         ]
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"finance-vix-dataset",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"6c72a3984991d0852431797ede9aa3f3",
+      "updated":"2020-09-28 09:17:41"
+   },
+   {
+      "id":"5c06eb45821337ef33cf12158de75e6f",
+      "document":{
+         "name":"Total Population Dataset",
+         "type":"dataset",
+         "description":"",
+         "logo":"_images/SalesStack.png",
+         "cover":"cover",
+         "meta":{
+            "Language":[
+               "None"
+            ],
+            "Dataset":[
+               "Public Dataset"
+            ],
+            "Install time":[
+               "1 min"
+            ]
+         },
+         "commands":[
+            {
+               "description":"Get Dataset ",
+               "exec":"cd /home/student/projects && git clone https://github.com/datasets/population-growth-estimates-and-projections.git"
+            }
+         ],
+         "display":[
+            {
+               "name":"Developer Dashboard",
+               "url":"##DNS.host##/codeserver",
+               "enabled":true
+            }
+         ]
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"population-growth-estimates-and-projections-dataset",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"5c06eb45821337ef33cf12158de75e6f",
+      "updated":"2020-09-24 09:36:25"
+   },
+   {
+      "id":"8df0dd4f0f062d0c8a96e24a33ebe9f4",
+      "document":{
+         "name":"Natural Gas Dataset",
+         "type":"dataset",
+         "description":"",
+         "logo":"_images/SalesStack.png",
+         "cover":"cover",
+         "meta":{
+            "Language":[
+               "None"
+            ],
+            "Dataset":[
+               "Public Dataset"
+            ],
+            "Install time":[
+               "1 min"
+            ]
+         },
+         "commands":[
+            {
+               "description":"Get Dataset ",
+               "exec":"cd /home/student/projects && git clone https://github.com/datasets/natural-gas.git"
+            }
+         ],
+         "display":[
+            {
+               "name":"Developer Dashboard",
+               "url":"##DNS.host##/codeserver",
+               "enabled":true
+            }
+         ]
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"natural-gas-dataset",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"8df0dd4f0f062d0c8a96e24a33ebe9f4",
+      "updated":"2020-09-24 09:36:23"
+   },
+   {
+      "id":"02b8695087a4b768ca3ea235829c6f30",
+      "document":{
+         "name":"US Household Income Dataset",
+         "type":"dataset",
+         "description":"",
+         "logo":"_images/SalesStack.png",
+         "cover":"cover",
+         "meta":{
+            "Language":[
+               "None"
+            ],
+            "Dataset":[
+               "Public Dataset"
+            ],
+            "Install time":[
+               "1 min"
+            ]
+         },
+         "commands":[
+            {
+               "description":"Get Dataset ",
+               "exec":"cd /home/student/projects && git clone https://github.com/datasets/household-income-us-historical.git"
+            }
+         ],
+         "display":[
+            {
+               "name":"Developer Dashboard",
+               "url":"##DNS.host##/codeserver",
+               "enabled":true
+            }
+         ]
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"household-income-us-historical-dataset",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"02b8695087a4b768ca3ea235829c6f30",
+      "updated":"2020-09-24 09:36:22"
+   },
+   {
+      "id":"6faacc41e9912801d9e1a3e79ed482e3",
+      "document":{
+         "name":"Gold Prices Dataset",
+         "type":"dataset",
+         "description":"",
+         "logo":"_images/SalesStack.png",
+         "cover":"cover",
+         "meta":{
+            "Language":[
+               "None"
+            ],
+            "Dataset":[
+               "Public Dataset"
+            ],
+            "Install time":[
+               "1 min"
+            ]
+         },
+         "commands":[
+            {
+               "description":"Get Dataset ",
+               "exec":"cd /home/student/projects && git clone https://github.com/datasets/gold-prices.git"
+            }
+         ],
+         "display":[
+            {
+               "name":"Developer Dashboard",
+               "url":"##DNS.host##/codeserver",
+               "enabled":true
+            }
+         ]
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"gold-prices-dataset",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"6faacc41e9912801d9e1a3e79ed482e3",
+      "updated":"2020-09-24 09:36:21"
+   },
+   {
+      "id":"88435a795374318c314bc6b6aa4c3888",
+      "document":{
+         "name":"S&P 500 Index Dataset",
+         "type":"dataset",
+         "description":"",
+         "logo":"_images/SalesStack.png",
+         "cover":"cover",
+         "meta":{
+            "Language":[
+               "None"
+            ],
+            "Dataset":[
+               "Public Dataset"
+            ],
+            "Install time":[
+               "1 min"
+            ]
+         },
+         "commands":[
+            {
+               "description":"Get Dataset ",
+               "exec":"cd /home/student/projects && git clone https://github.com/datasets/s-and-p-500.git"
+            }
+         ],
+         "display":[
+            {
+               "name":"Developer Dashboard",
+               "url":"##DNS.host##/codeserver",
+               "enabled":true
+            }
+         ]
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"s-and-p-500-dataset",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"88435a795374318c314bc6b6aa4c3888",
+      "updated":"2020-09-24 09:36:26"
+   },
+   {
+      "id":"2e7294633212cd8ade4d750c575453ae",
+      "document":{
+         "name":"House Prices Dataset",
+         "type":"dataset",
+         "description":"",
+         "logo":"_images/SalesStack.png",
+         "cover":"cover",
+         "meta":{
+            "Language":[
+               "None"
+            ],
+            "Dataset":[
+               "Public Dataset"
+            ],
+            "Install time":[
+               "1 min"
+            ]
+         },
+         "commands":[
+            {
+               "description":"Get Dataset ",
+               "exec":"cd /home/student/projects && git clone https://github.com/datasets/house-prices-us.git"
+            }
+         ],
+         "display":[
+            {
+               "name":"Developer Dashboard",
+               "url":"##DNS.host##/codeserver",
+               "enabled":true
+            }
+         ]
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"house-prices-us-dataset",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"2e7294633212cd8ade4d750c575453ae",
+      "updated":"2020-09-24 06:44:50"
+   },
+   {
+      "id":"245b887eb6d705a604656611b6ae0f79",
+      "document":{
+         "name":"Global Annual Temperature Anomalies Dataset",
+         "type":"dataset",
+         "description":"",
+         "logo":"_images/SalesStack.png",
+         "cover":"cover",
+         "meta":{
+            "Language":[
+               "None"
+            ],
+            "Dataset":[
+               "Public Dataset"
+            ],
+            "Install time":[
+               "1 min"
+            ]
+         },
+         "commands":[
+            {
+               "description":"Get Dataset ",
+               "exec":"cd /home/student/projects && git clone https://github.com/datasets/global-temp-anomalies.git"
+            }
+         ],
+         "display":[
+            {
+               "name":"Developer Dashboard",
+               "url":"##DNS.host##/codeserver",
+               "enabled":true
+            }
+         ]
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"global-temp-anomalies-dataset",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"245b887eb6d705a604656611b6ae0f79",
+      "updated":"2020-09-24 11:36:15"
+   },
+   {
+      "id":"71c8065ca32c32e1d675fcfd0da57c40",
+      "document":{
+         "name":"US Race and Ethnicity Codes Dataset",
+         "type":"dataset",
+         "description":"",
+         "logo":"_images/SalesStack.png",
+         "cover":"cover",
+         "meta":{
+            "Language":[
+               "None"
+            ],
+            "Dataset":[
+               "Public Dataset"
+            ],
+            "Install time":[
+               "1 min"
+            ]
+         },
+         "commands":[
+            {
+               "description":"Get Dataset ",
+               "exec":"cd /home/student/projects && git clone https://github.com/datasets/race-and-ethnicity-codes-us.git"
+            }
+         ],
+         "display":[
+            {
+               "name":"Developer Dashboard",
+               "url":"##DNS.host##/codeserver",
+               "enabled":true
+            }
+         ]
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"race-and-ethnicity-codes-us-dataset",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"71c8065ca32c32e1d675fcfd0da57c40",
+      "updated":"2020-09-24 11:36:16"
+   },
+   {
+      "id":"96dd48d387cd986aad82446570fa394f",
+      "document":{
+         "name":"Country List Dataset",
+         "type":"dataset",
+         "stack_id":"country-list-dataset",
+         "description":"",
+         "logo":"_images/SalesStack.png",
+         "cover":"cover",
+         "meta":{
+            "Language":[
+               "None"
+            ],
+            "Dataset":[
+               "Public Dataset"
+            ],
+            "Install time":[
+               "1 min"
+            ]
+         },
+         "commands":[
+            {
+               "description":"Get Dataset ",
+               "exec":"cd /home/student/projects && git clone https://github.com/datasets/country-list.git"
+            }
+         ],
+         "display":[
+            {
+               "name":"Developer Dashboard",
+               "url":"##DNS.host##/codeserver",
+               "enabled":true
+            }
+         ]
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"country-list-dataset",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"96dd48d387cd986aad82446570fa394f",
+      "updated":"2020-09-28 09:17:47"
+   },
+   {
+      "id":"b7ea667dc863959bea02d63f25b0e27a",
+      "document":{
+         "name":"Global Temperature Dataset",
+         "type":"dataset",
+         "description":"",
+         "logo":"_images/SalesStack.png",
+         "cover":"cover",
+         "meta":{
+            "Language":[
+               "None"
+            ],
+            "Dataset":[
+               "Public Dataset"
+            ],
+            "Install time":[
+               "1 min"
+            ]
+         },
+         "commands":[
+            {
+               "description":"Get Dataset ",
+               "exec":"cd /home/student/projects && git clone https://github.com/datasets/global-temp.git"
+            }
+         ],
+         "display":[
+            {
+               "name":"Developer Dashboard",
+               "url":"##DNS.host##/codeserver",
+               "enabled":true
+            }
+         ]
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"global-temp-dataset",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"b7ea667dc863959bea02d63f25b0e27a",
+      "updated":"2020-09-24 11:36:16"
+   },
+   {
+      "id":"cfed15015a17b02a72d47cdd24c1d998",
+      "document":{
+         "name":"World Cities Dataset",
+         "type":"dataset",
+         "description":"",
+         "logo":"_images/SalesStack.png",
+         "cover":"cover",
+         "meta":{
+            "Language":[
+               "None"
+            ],
+            "Dataset":[
+               "Public Dataset"
+            ],
+            "Install time":[
+               "1 min"
+            ]
+         },
+         "commands":[
+            {
+               "description":"Get Dataset ",
+               "exec":"cd /home/student/projects && git clone https://github.com/datasets/world-cities.git"
+            }
+         ],
+         "display":[
+            {
+               "name":"Developer Dashboard",
+               "url":"##DNS.host##/codeserver",
+               "enabled":true
+            }
+         ]
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"world-cities-dataset",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"cfed15015a17b02a72d47cdd24c1d998",
+      "updated":"2020-09-24 11:36:17"
+   },
+   {
+      "id":"3e2614b92a8ada6ea7f16bcc206edfb0",
+      "document":{
+         "name":"ISO Language Codes Dataset",
+         "type":"dataset",
+         "description":"",
+         "logo":"_images/SalesStack.png",
+         "cover":"cover",
+         "meta":{
+            "Language":[
+               "None"
+            ],
+            "Dataset":[
+               "Public Dataset"
+            ],
+            "Install time":[
+               "2 min"
+            ]
+         },
+         "commands":[
+            {
+               "description":"Get Dataset ",
+               "exec":"cd /home/student/projects && git clone https://github.com/datasets/language-codes.git"
+            }
+         ],
+         "display":[
+            {
+               "name":"Developer Dashboard",
+               "url":"##DNS.host##/codeserver",
+               "enabled":true
+            }
+         ]
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"language-codes-dataset",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"3e2614b92a8ada6ea7f16bcc206edfb0",
+      "updated":"2020-09-24 11:36:16"
+   },
+   {
+      "id":"52b1493cecd8ae1fd0325bdabdf2cfbe",
+      "document":{
+         "name":"World Development Indicators Dataset",
+         "type":"dataset",
+         "description":"",
+         "logo":"_images/SalesStack.png",
+         "cover":"cover",
+         "meta":{
+            "Language":[
+               "None"
+            ],
+            "Dataset":[
+               "Public Dataset"
+            ],
+            "Install time":[
+               "1 min"
+            ]
+         },
+         "commands":[
+            {
+               "description":"Get Dataset ",
+               "exec":"cd /home/student/projects && git clone https://github.com/datasets/world-development-indicators.git"
+            }
+         ],
+         "display":[
+            {
+               "name":"Developer Dashboard",
+               "url":"##DNS.host##/codeserver",
+               "enabled":true
+            }
+         ]
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"world-development-indicators-dataset",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"52b1493cecd8ae1fd0325bdabdf2cfbe",
+      "updated":"2020-09-24 11:36:17"
+   },
+   {
+      "id":"2488655c7944937ff18dcc97fee3cc76",
+      "document":{
+         "name":"ATP World Tour Tennis Dataset",
+         "type":"dataset",
+         "stack_id":"atp-world-tour-tennis-dataset",
+         "description":"",
+         "logo":"_images/SalesStack.png",
+         "cover":"cover",
+         "meta":{
+            "Language":[
+               "None"
+            ],
+            "Dataset":[
+               "Public Dataset"
+            ],
+            "Install time":[
+               "1 min"
+            ]
+         },
+         "commands":[
+            {
+               "description":"Get Dataset ",
+               "exec":"cd /home/student/projects && git clone https://github.com/datasets/atp-world-tour-tennis-data.git"
+            }
+         ],
+         "display":[
+            {
+               "name":"Developer Dashboard",
+               "url":"##DNS.host##/codeserver",
+               "enabled":true
+            }
+         ]
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"atp-world-tour-tennis-dataset",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"2488655c7944937ff18dcc97fee3cc76",
+      "updated":"2020-09-28 09:17:46"
+   },
+   {
+      "id":"3afe2064173d04b95d721f7faca61277",
+      "document":{
+         "name":"Edgar Dataset",
+         "type":"dataset",
+         "stack_id":"edgar-dataset",
+         "description":"",
+         "logo":"_images/SalesStack.png",
+         "cover":"cover",
+         "meta":{
+            "Language":[
+               "None"
+            ],
+            "Dataset":[
+               "Public Dataset"
+            ],
+            "Install time":[
+               "1 min"
+            ]
+         },
+         "commands":[
+            {
+               "description":"Get Dataset ",
+               "exec":"cd /home/student/projects && git clone https://github.com/datasets/edgar.git"
+            }
+         ],
+         "display":[
+            {
+               "name":"Developer Dashboard",
+               "url":"##DNS.host##/codeserver",
+               "enabled":true
+            }
+         ]
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"edgar-dataset",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"3afe2064173d04b95d721f7faca61277",
+      "updated":"2020-09-28 09:17:47"
+   },
+   {
+      "id":"a5cf9fa531acee063d70e57679385ac9",
+      "document":{
+         "name":"Global CO2 Emissions from Fossil Fuels Dataset",
+         "type":"dataset",
+         "stack_id":"co2-fossil-by-global-dataset",
+         "description":"",
+         "logo":"_images/SalesStack.png",
+         "cover":"cover",
+         "meta":{
+            "Language":[
+               "None"
+            ],
+            "Dataset":[
+               "Public Dataset"
+            ],
+            "Install time":[
+               "2 min"
+            ]
+         },
+         "commands":[
+            {
+               "description":"Get Dataset ",
+               "exec":"cd /home/student/projects && git clone https://github.com/datasets/co2-fossil-global.git"
+            }
+         ],
+         "display":[
+            {
+               "name":"Developer Dashboard",
+               "url":"##DNS.host##/codeserver",
+               "enabled":true
+            }
+         ]
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"co2-fossil-global-dataset",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"a5cf9fa531acee063d70e57679385ac9",
+      "updated":"2020-09-28 09:17:47"
+   },
+   {
+      "id":"b7a4e674fd9c66c194b628d7a2b99d65",
+      "document":{
+         "name":"IMO IMDG Codes Dataset",
+         "type":"dataset",
+         "description":"",
+         "logo":"_images/SalesStack.png",
+         "cover":"cover",
+         "meta":{
+            "Language":[
+               "None"
+            ],
+            "Dataset":[
+               "Public Dataset"
+            ],
+            "Install time":[
+               "1 min"
+            ]
+         },
+         "commands":[
+            {
+               "description":"Get Dataset ",
+               "exec":"cd /home/student/projects && git clone https://github.com/datasets/IMO-IMDG-Codes.git"
+            }
+         ],
+         "display":[
+            {
+               "name":"Developer Dashboard",
+               "url":"##DNS.host##/codeserver",
+               "enabled":true
+            }
+         ]
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"IMO-IMDG-Codes-dataset",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"b7a4e674fd9c66c194b628d7a2b99d65",
+      "updated":"2020-09-24 11:51:47"
+   },
+   {
+      "id":"47b0975a641df1c0ce24cee13009b5e5",
+      "document":{
+         "name":"IMF WEO Dataset",
+         "type":"dataset",
+         "description":"",
+         "logo":"_images/SalesStack.png",
+         "cover":"cover",
+         "meta":{
+            "Language":[
+               "None"
+            ],
+            "Dataset":[
+               "Public Dataset"
+            ],
+            "Install time":[
+               "1 min"
+            ]
+         },
+         "commands":[
+            {
+               "description":"Get Dataset ",
+               "exec":"cd /home/student/projects && git clone https://github.com/datasets/imf-weo.git"
+            }
+         ],
+         "display":[
+            {
+               "name":"Developer Dashboard",
+               "url":"##DNS.host##/codeserver",
+               "enabled":true
+            }
+         ]
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"imf-weo-dataset",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"47b0975a641df1c0ce24cee13009b5e5",
+      "updated":"2020-09-24 11:51:52"
+   },
+   {
+      "id":"1ee09f2a2cfe4fd81730691409c99966",
+      "document":{
+         "name":"Glacier Mass Balance Dataset",
+         "type":"dataset",
+         "description":"",
+         "logo":"_images/SalesStack.png",
+         "cover":"cover",
+         "meta":{
+            "Language":[
+               "None"
+            ],
+            "Dataset":[
+               "Public Dataset"
+            ],
+            "Install time":[
+               "1 min"
+            ]
+         },
+         "commands":[
+            {
+               "description":"Get Dataset ",
+               "exec":"cd /home/student/projects && git clone https://github.com/datasets/glacier-mass-balance.git"
+            }
+         ],
+         "display":[
+            {
+               "name":"Developer Dashboard",
+               "url":"##DNS.host##/codeserver",
+               "enabled":true
+            }
+         ]
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"glacier-mass-balance-dataset",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"1ee09f2a2cfe4fd81730691409c99966",
+      "updated":"2020-09-24 11:51:51"
+   },
+   {
+      "id":"6ad690baabcc2f188c45627f73d91614",
+      "document":{
+         "name":"IP Geolocation Dataset",
+         "type":"dataset",
+         "description":"",
+         "logo":"_images/SalesStack.png",
+         "cover":"cover",
+         "meta":{
+            "Language":[
+               "None"
+            ],
+            "Dataset":[
+               "Public Dataset"
+            ],
+            "Install time":[
+               "1 min"
+            ]
+         },
+         "commands":[
+            {
+               "description":"Get Dataset ",
+               "exec":"cd /home/student/projects && git clone https://github.com/datasets/geoip2-ipv4.git"
+            }
+         ],
+         "display":[
+            {
+               "name":"Developer Dashboard",
+               "url":"##DNS.host##/codeserver",
+               "enabled":true
+            }
+         ]
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"geoip2-ipv4-dataset",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"6ad690baabcc2f188c45627f73d91614",
+      "updated":"2020-09-24 11:51:51"
+   },
+   {
+      "id":"93c017923c5148660df262846f75066e",
+      "document":{
+         "name":"NUTS admin Dataset",
+         "type":"dataset",
+         "description":"",
+         "logo":"_images/SalesStack.png",
+         "cover":"cover",
+         "meta":{
+            "Language":[
+               "None"
+            ],
+            "Dataset":[
+               "Public Dataset"
+            ],
+            "Install time":[
+               "1 min"
+            ]
+         },
+         "commands":[
+            {
+               "description":"Get Dataset ",
+               "exec":"cd /home/student/projects && git clone https://github.com/datasets/geo-nuts-administrative-boundaries.git"
+            }
+         ],
+         "display":[
+            {
+               "name":"Developer Dashboard",
+               "url":"##DNS.host##/codeserver",
+               "enabled":true
+            }
+         ]
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"geo-nuts-administrative-boundaries-dataset",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"93c017923c5148660df262846f75066e",
+      "updated":"2020-09-24 11:51:51"
+   },
+   {
+      "id":"a5920ee1a7afd97b3b304d7e68c6552a",
+      "document":{
+         "name":"Geojson polygons:US Dataset",
+         "type":"dataset",
+         "description":"",
+         "logo":"_images/SalesStack.png",
+         "cover":"cover",
+         "meta":{
+            "Language":[
+               "None"
+            ],
+            "Dataset":[
+               "Public Dataset"
+            ],
+            "Install time":[
+               "1 min"
+            ]
+         },
+         "commands":[
+            {
+               "description":"Get Dataset ",
+               "exec":"cd /home/student/projects && git clone https://github.com/datasets/geo-admin1-us.git"
+            }
+         ],
+         "display":[
+            {
+               "name":"Developer Dashboard",
+               "url":"##DNS.host##/codeserver",
+               "enabled":true
+            }
+         ]
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"geo-admin1-us-dataset",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"a5920ee1a7afd97b3b304d7e68c6552a",
+      "updated":"2020-09-24 11:51:50"
+   },
+   {
+      "id":"03d61e7020af32c03caefd72370ba3ab",
+      "document":{
+         "name":"Geojson polygons:Countries Dataset",
+         "type":"dataset",
+         "description":"",
+         "logo":"_images/SalesStack.png",
+         "cover":"cover",
+         "meta":{
+            "Language":[
+               "None"
+            ],
+            "Dataset":[
+               "Public Dataset"
+            ],
+            "Install time":[
+               "1 min"
+            ]
+         },
+         "commands":[
+            {
+               "description":"Get Dataset ",
+               "exec":"cd /home/student/projects && git clone https://github.com/datasets/geo-ne-admin1.git"
+            }
+         ],
+         "display":[
+            {
+               "name":"Developer Dashboard",
+               "url":"##DNS.host##/codeserver",
+               "enabled":true
+            }
+         ]
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"geo-ne-admin1-dataset",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"03d61e7020af32c03caefd72370ba3ab",
+      "updated":"2020-09-24 11:51:50"
+   },
+   {
+      "id":"aa7b9672820e0932166a6334a868bf24",
+      "document":{
+         "name":"DNA Sequencing Costs Dataset",
+         "type":"dataset",
+         "stack_id":"genome-sequencing-costs-dataset",
+         "description":"",
+         "logo":"_images/SalesStack.png",
+         "cover":"cover",
+         "meta":{
+            "Language":[
+               "None"
+            ],
+            "Dataset":[
+               "Public Dataset"
+            ],
+            "Install time":[
+               "1 min"
+            ]
+         },
+         "commands":[
+            {
+               "description":"Get Dataset ",
+               "exec":"cd /home/student/projects && git clone https://github.com/datasets/genome-sequencing-costs.git"
+            }
+         ],
+         "display":[
+            {
+               "name":"Developer Dashboard",
+               "url":"##DNS.host##/codeserver",
+               "enabled":true
+            }
+         ]
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"genome-sequencing-costs-dataset",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"aa7b9672820e0932166a6334a868bf24",
+      "updated":"2020-09-28 09:17:50"
+   },
+   {
+      "id":"e38f7bf3b7f36ebf2e99ae7a378a8713",
+      "document":{
+         "name":"UK GDP Dataset",
+         "type":"dataset",
+         "stack_id":"gdp-uk-dataset",
+         "description":"",
+         "logo":"_images/SalesStack.png",
+         "cover":"cover",
+         "meta":{
+            "Language":[
+               "None"
+            ],
+            "Dataset":[
+               "Public Dataset"
+            ],
+            "Install time":[
+               "1 min"
+            ]
+         },
+         "commands":[
+            {
+               "description":"Get Dataset ",
+               "exec":"cd /home/student/projects && git clone https://github.com/datasets/gdp-uk.git"
+            }
+         ],
+         "display":[
+            {
+               "name":"Developer Dashboard",
+               "url":"##DNS.host##/codeserver",
+               "enabled":true
+            }
+         ]
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"gdp-uk-dataset",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"e38f7bf3b7f36ebf2e99ae7a378a8713",
+      "updated":"2020-09-28 09:17:49"
+   },
+   {
+      "id":"0e2aa2f91d863a08c5b2ef14a80684f5",
+      "document":{
+         "name":"World GDP Dataset",
+         "type":"dataset",
+         "description":"",
+         "stack_id":"gdp-world-dataset",
+         "logo":"_images/SalesStack.png",
+         "cover":"cover",
+         "meta":{
+            "Language":[
+               "None"
+            ],
+            "Dataset":[
+               "Public Dataset"
+            ],
+            "Install time":[
+               "1 min"
+            ]
+         },
+         "commands":[
+            {
+               "description":"Get Dataset ",
+               "exec":"cd /home/student/projects && git clone https://github.com/datasets/gdp.git"
+            }
+         ],
+         "display":[
+            {
+               "name":"Developer Dashboard",
+               "url":"##DNS.host##/codeserver",
+               "enabled":true
+            }
+         ]
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"gdp-world-dataset",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"0e2aa2f91d863a08c5b2ef14a80684f5",
+      "updated":"2020-09-28 09:17:49"
+   },
+   {
+      "id":"833a3546f97c60782c77a816c35c0354",
+      "document":{
+         "name":"US Consumer Price Index Dataset",
+         "type":"dataset",
+         "stack_id":"cpi-us-dataset",
+         "description":"",
+         "logo":"_images/SalesStack.png",
+         "cover":"cover",
+         "meta":{
+            "Language":[
+               "None"
+            ],
+            "Dataset":[
+               "Public Dataset"
+            ],
+            "Install time":[
+               "1 min"
+            ]
+         },
+         "commands":[
+            {
+               "description":"Get Dataset ",
+               "exec":"cd /home/student/projects && git clone https://github.com/datasets/cpi-us.git"
+            }
+         ],
+         "display":[
+            {
+               "name":"Developer Dashboard",
+               "url":"##DNS.host##/codeserver",
+               "enabled":true
+            }
+         ]
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"cpi-us-dataset",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"833a3546f97c60782c77a816c35c0354",
+      "updated":"2020-09-28 09:17:48"
+   },
+   {
+      "id":"912316441e33f720affb64923b8ab8c6",
+      "document":{
+         "name":"Classification of the Functions of Government  Dataset",
+         "type":"dataset",
+         "description":"",
+         "stack_id":"cofog-dataset",
+         "logo":"_images/SalesStack.png",
+         "cover":"cover",
+         "meta":{
+            "Language":[
+               "None"
+            ],
+            "Dataset":[
+               "Public Dataset"
+            ],
+            "Install time":[
+               "1 min"
+            ]
+         },
+         "commands":[
+            {
+               "description":"Get Dataset ",
+               "exec":"cd /home/student/projects && git clone https://github.com/datasets/cofog.git"
+            }
+         ],
+         "display":[
+            {
+               "name":"Developer Dashboard",
+               "url":"##DNS.host##/codeserver",
+               "enabled":true
+            }
+         ]
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"cofog-dataset",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"912316441e33f720affb64923b8ab8c6",
+      "updated":"2020-09-28 09:17:48"
+   },
+   {
+      "id":"6d50e5c8de54fdac80eaa9338ede7759",
+      "document":{
+         "name":"Cash Surplus-Deficit Dataset",
+         "type":"dataset",
+         "stack_id":"cash-surplus-deficit-dataset",
+         "description":"",
+         "logo":"_images/SalesStack.png",
+         "cover":"cover",
+         "meta":{
+            "Language":[
+               "None"
+            ],
+            "Dataset":[
+               "Public Dataset"
+            ],
+            "Install time":[
+               "1 min"
+            ]
+         },
+         "commands":[
+            {
+               "description":"Get Dataset ",
+               "exec":"cd /home/student/projects && git clone https://github.com/datasets/cash-surplus-deficit.git"
+            }
+         ],
+         "display":[
+            {
+               "name":"Developer Dashboard",
+               "url":"##DNS.host##/codeserver",
+               "enabled":true
+            }
+         ]
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"cash-surplus-deficit-dataset",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"6d50e5c8de54fdac80eaa9338ede7759",
+      "updated":"2020-09-28 09:17:48"
+   },
+   {
+      "id":"3e2f698d39067612842ab06549ed8d9f",
+      "document":{
+         "name":"Geo Data",
+         "type":"dataset",
+         "stack_id":"geo-json",
+         "description":"",
+         "logo":"_images/SalesStack.png",
+         "cover":"cover",
+         "meta":{
+            "Language":[
+               "None"
+            ],
+            "Dataset":[
+               "Public Dataset"
+            ],
+            "Install time":[
+               "2 min"
+            ]
+         },
+         "commands":[
+            {
+               "description":"Get Dataset ",
+               "exec":"cd /home/student/projects && git clone https://github.com/datasets/geodata.git"
+            }
+         ],
+         "display":[
+            {
+               "name":"Developer Dashboard",
+               "url":"##DNS.host##/codeserver",
+               "enabled":true
+            }
+         ]
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"geo-json",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"3e2f698d39067612842ab06549ed8d9f",
+      "updated":"2020-09-28 09:17:50"
+   },
+   {
+      "id":"fadadd138896ee01b49b34d677157b59",
+      "document":{
+         "name":"Covid API",
+         "type":"api",
+         "stack_id":"covid-api",
+         "description":"",
+         "logo":"_images/DataAPI.png",
+         "cover":"cover",
+         "meta":{
+            "Language":[
+               "Yaml"
+            ],
+            "API":[
+               "Public API"
+            ],
+            "Install time":[
+               "1 min"
+            ]
+         },
+         "commands":[
+            {
+               "description":"Get Dataset ",
+               "exec":"cd /home/student/projects && wget https://raw.githubusercontent.com/APIs-guru/openapi-directory/master/APIs/covid19-api.com/1.2.6/openapi.yaml"
+            }
+         ],
+         "display":[
+            {
+               "name":"Developer Dashboard",
+               "url":"##DNS.host##/codeserver",
+               "enabled":true
+            }
+         ]
+      },
+      "language":"en",
+      "catalog":{
+         "catalogId":"GbwBCWeO",
+         "document":{
+            "documentId":"covid-api",
+            "languages":[
+               "en"
+            ]
+         }
+      },
+      "hashCode":"fadadd138896ee01b49b34d677157b59",
+      "updated":"2020-09-28 09:22:40"
+   }
+]
