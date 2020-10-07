@@ -15,8 +15,8 @@
   ],
   "has_dataset": false,
   "has_api": true,
-  "git_url": "https://github.com/op-playground/wallmart-api.git",
-  "git_commit": "503b286b169e9408a82fdbcc25cc5d67eef6342c",
+  "git_url": "https://github.com/operator-playground-io/wallmart-api.git",
+  "git_commit": "d10646ec8324a88e659f65e2f2e1ecf704cb0622",
   "installTime": "3 minutes",
   "isStacksSaved": true
 },
@@ -36,10 +36,69 @@
   ],
   "has_dataset": false,
   "has_api": true,
-  "git_url": "https://github.com/op-playground/weather-api.git",
-  "git_commit": "f8b3b9ecf2225ab49b0f3ee59e0ef54d67aa7208",
+  "git_url": "https://github.com/operator-playground-io/weather-api.git",
+  "git_commit": "ce2732eae9c054a6a3e4b9cbd86ea6cb9ecda47f",
   "installTime": "3 minutes",
   "isStacksSaved": true
-}
+},
+  {
+  "title": "Population Dataset",
+  "description": "Population figures for countries, regions (e.g. Asia) and the world.",
+  "logo": "_images/dataset.png",
+  "enabled": true,
+  "language": [
+    "Dataset"
+  ],
+  "document": "data-logging-stack",
+  "stack_id": "population_dataset",
+  "type": "Dataset",
+  "categories": [
+    "Population"
+  ],
+  "has_dataset": true,
+  "has_api": false,
+  "git_url": "https://github.com/operator-playground-io/population-dataset.git",
+  "git_commit": "873ffd0fdcd509a8366088bc178d4d6f7edc7baf",
+  "installTime": "2 minutes",
+  "isStacksSaved": true
+},
+    
+{
+  "title": "Covid Dataset",
+  "description": "Dataset for covid data",
+  "logo": "_images/dataset.png",
+  "enabled": true,
+  "language": [
+    "Dataset"
+  ],
+  "document": "data-logging-stack",
+  "stack_id": "covid_dataset",
+  "type": "Dataset",
+  "categories": [
+    "Covid",
+    "Health"
+  ],
+  "has_dataset": true,
+  "has_api": false,
+  "git_url": "https://github.com/operator-playground-io/covid-dataset.git",
+  "git_commit": "2905fe4250c22d71200c933f5c9853afef7cb0d6",
+  "installTime": "2 minutes",
+  "isStacksSaved": true
+},
+  {
+      "title":"Contacts Application Stack",
+      "description":"",
+      "logo":"_images/stack.png",
+      "enabled":true,
+      "language": ["NodeJS"],
+      "stack_id" : "contacts-app-stack",
+      "type": "stack",
+      "categories": ["MVC", "PostgreSQL", "Express"],
+      "has_dataset": false,
+      "has_api": false,
+      "git_url": "https://github.com/Andi-Cirjaliu/edge-node-react-postgres-contacts-stack",
+      "git_commit": "b22c9090ccd375c162208d0b1f1bf41a7696190f",
+      "installTime":"10 minutes"
+   }
 
 ]
