@@ -120,6 +120,27 @@
   "git_commit": "c56c452273c41a9aa534320cb9db535f30028843",
   "installTime": "3 minutes",
   "isStacksSaved": true
+},
+  {
+  "title": "US Hiring Rates",
+  "description": "This dataset provides daily updates on the volume of US job listings",
+  "logo": "_images/dataset.png",
+  "enabled": true,
+  "language": [
+    "S3"
+  ],
+  "document": "data-logging-stack",
+  "stack_id": "us_hiring_rates_s3_dataset",
+  "type": "Dataset",
+  "categories": [
+    "Employment"
+  ],
+  "has_dataset": true,
+  "has_api": false,
+  "git_url": "https://github.com/operator-playground-io/us-hiring-rates.git",
+  "git_commit": "65398348dddae52d7be3ecb5edf52f0df3fc0e28",
+  "installTime": "3 minutes",
+  "isStacksSaved": true
 }
 
 ]
