@@ -138,7 +138,7 @@
   "has_dataset": true,
   "has_api": false,
   "git_url": "https://github.com/operator-playground-io/us-hiring-rates.git",
-  "git_commit": "5efc697e306f1c681d003692f1c21d6c5a95022a",
+  "git_commit": "f0df4b28b24df81b2aa1b2c7c00354d385f241e6",
   "installTime": "3 minutes",
   "isStacksSaved": true
 }
