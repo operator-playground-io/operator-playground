@@ -16,7 +16,7 @@
   "has_dataset": false,
   "has_api": true,
   "git_url": "https://github.com/operator-playground-io/wallmart-api.git",
-  "git_commit": "7b07fdb1d48c8970ed7d5e74bad374f5f3bc2b17",
+  "git_commit": "36bd2402e102b2f5ec76623245569e65c86da78f",
   "installTime": "3 minutes",
   "isStacksSaved": true
 },
