@@ -96,7 +96,7 @@
       "categories": ["MVC", "PostgreSQL", "Express"],
       "has_dataset": false,
       "has_api": false,
-      "git_url": "https://github.com/Andi-Cirjaliu/edge-node-react-postgres-contacts-stack",
+      "git_url": "https://github.com/operator-playground-io/edge-node-react-postgres-contacts-stack",
       "git_commit": "4b5bad6333158e6c4a9b2598dc82d3f1fa82eaf4",
       "installTime":"10 minutes"
    },
