@@ -97,7 +97,7 @@
       "has_dataset": false,
       "has_api": false,
       "git_url": "https://github.com/operator-playground-io/edge-node-react-postgres-contacts-stack",
-      "git_commit": "2d8aa34fad66cd80143f7da4eae57e44d4c7a899",
+      "git_commit": "f965acd1555317067aa2b9981043dc533f621040",
       "installTime":"10 minutes"
    },
   {
