@@ -37,7 +37,7 @@
   "has_dataset": false,
   "has_api": true,
   "git_url": "https://github.com/operator-playground-io/weather-api.git",
-  "git_commit": "7948c289d779876f9d28d92c2065b99655be61e0",
+  "git_commit": "36660e338e5b8f5223f2cb4ac50aa16e495eefc2",
   "installTime": "3 minutes",
   "isStacksSaved": true
 },
