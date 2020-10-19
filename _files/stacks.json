@@ -16,7 +16,7 @@
   "has_dataset": false,
   "has_api": true,
   "git_url": "https://github.com/operator-playground-io/wallmart-api.git",
-  "git_commit": "d338d53feffc7a626f363c84e4c3bded0a9666ac",
+  "git_commit": "d2c652beb9816236458755aa0bcf70cc20498a06",
   "installTime": "3 minutes",
   "isStacksSaved": true
 },
@@ -37,7 +37,7 @@
   "has_dataset": false,
   "has_api": true,
   "git_url": "https://github.com/operator-playground-io/weather-api.git",
-  "git_commit": "a12d694b5ced2365c98e16c20b4f7bf3a7d7539c",
+  "git_commit": "ef06611cc10ad55cd5f01b0cb63f21be9a15bc40",
   "installTime": "3 minutes",
   "isStacksSaved": true
 },
