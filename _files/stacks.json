@@ -86,6 +86,27 @@
   "isStacksSaved": true
 },
   {
+  "title": "Employment Dataset",
+  "description": "US Employment and Unemployment rates since 1940.",
+  "logo": "_images/dataset.png",
+  "enabled": true,
+  "language": [
+    "Dataset"
+  ],
+  "document": "data-logging-stack",
+  "stack_id": "employment_dataset",
+  "type": "dataset",
+  "categories": [
+    "employment"
+  ],
+  "has_dataset": true,
+  "has_api": false,
+  "git_url": "https://github.com/datasets/employment-us.git",
+  "git_commit": "47e7c36c3ced5115ae24cecc0c984dfe4b12e5dc",
+  "installTime": "2 minutes",
+  "isStacksSaved": true
+},
+  {
       "title":"Contacts Application Stack",
       "description":"",
       "logo":"_images/stack.png",
