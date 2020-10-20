@@ -97,12 +97,12 @@
   "stack_id": "employment_dataset",
   "type": "dataset",
   "categories": [
-    "employment"
+    "Employment"
   ],
   "has_dataset": true,
   "has_api": false,
-  "git_url": "https://github.com/datasets/employment-us.git",
-  "git_commit": "47e7c36c3ced5115ae24cecc0c984dfe4b12e5dc",
+  "git_url": "https://github.com/operator-playground-io/employment-dataset.git",
+  "git_commit": "b739788abcd82efdf41e2da6a520333cf9480b33",
   "installTime": "2 minutes",
   "isStacksSaved": true
 },
