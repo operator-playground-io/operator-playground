@@ -81,7 +81,7 @@
   "has_dataset": true,
   "has_api": false,
   "git_url": "https://github.com/operator-playground-io/covid-dataset.git",
-  "git_commit": "2905fe4250c22d71200c933f5c9853afef7cb0d6",
+  "git_commit": "5025c43bda95268e698f191f6fc08a4d9a11067c",
   "installTime": "2 minutes",
   "isStacksSaved": true
 },
