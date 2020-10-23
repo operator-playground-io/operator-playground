@@ -1,21 +1,21 @@
 [
 {
-  "title": "Wallmart API",
-  "description": "Wallmart API's for inventory, price, item and orders.",
+  "title": "Walmart API",
+  "description": "Walmart API's for inventory, price, item and orders.",
   "logo": "_images/api_collections.png",
   "enabled": true,
   "language": [
     "Yaml"
   ],
   "document": "data-logging-stack",
-  "stack_id": "wallmart_api",
+  "stack_id": "walmart_api",
   "type": "api",
   "categories": [
     "Public API"
   ],
   "has_dataset": false,
   "has_api": true,
-  "git_url": "https://github.com/operator-playground-io/wallmart-api.git",
+  "git_url": "https://github.com/operator-playground-io/walmart-api.git",
   "git_commit": "1681fbe2a7ef111e5bf0ced391b40c58a73fc3c6",
   "installTime": "3 minutes",
   "isStacksSaved": true
