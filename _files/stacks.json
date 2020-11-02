@@ -13,6 +13,8 @@
   "categories": [
     "Database"
   ],
+  "is_certified": true,
+  "has_support": true,
   "has_dataset": false,
   "has_api": false,
   "git_url": "https://github.com/operator-playground-io/crunchy-postgres",
