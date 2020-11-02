@@ -1,167 +1,211 @@
 [
-{
-  "title": "Walmart API",
-  "description": "Walmart API's for inventory, price, item and orders.",
-  "logo": "_images/api_collections.png",
-  "enabled": true,
-  "language": [
-    "Yaml"
-  ],
-  "document": "data-logging-stack",
-  "stack_id": "walmart_api",
-  "type": "api",
-  "categories": [
-    "Public API"
-  ],
-  "has_dataset": false,
-  "has_api": true,
-  "git_url": "https://github.com/operator-playground-io/walmart-api.git",
-  "git_commit": "df519085763fc0bbdfdf8c15845da55627301ca8",
-  "installTime": "3 minutes",
-  "isStacksSaved": true
-},
-{
-  "title": "Weather API",
-  "description": "Weather API with historical weather and 15-day forecast data",
-  "logo": "_images/api_collections.png",
-  "enabled": true,
-  "language": [
-    "Yaml"
-  ],
-  "document": "data-logging-stack",
-  "stack_id": "weather_api",
-  "type": "api",
-  "categories": [
-    "Public API"
-  ],
-  "has_dataset": false,
-  "has_api": true,
-  "git_url": "https://github.com/operator-playground-io/weather-api.git",
-  "git_commit": "7611bcf8b48812c075d2aac8760685b9fed8d4af",
-  "installTime": "3 minutes",
-  "isStacksSaved": true
-},
   {
-  "title": "Population Dataset",
-  "description": "Population figures for countries, regions (e.g. Asia) and the world.",
-  "logo": "_images/dataset.png",
-  "enabled": true,
-  "language": [
-    "Dataset"
-  ],
-  "document": "data-logging-stack",
-  "stack_id": "population_dataset",
-  "type": "dataset",
-  "categories": [
-    "Population"
-  ],
-  "has_dataset": true,
-  "has_api": false,
-  "git_url": "https://github.com/operator-playground-io/population-dataset.git",
-  "git_commit": "873ffd0fdcd509a8366088bc178d4d6f7edc7baf",
-  "installTime": "2 minutes",
-  "isStacksSaved": true
-},
-    
-{
-  "title": "Covid Dataset",
-  "description": "Dataset for covid data",
-  "logo": "_images/dataset.png",
-  "enabled": true,
-  "language": [
-    "Dataset"
-  ],
-  "document": "data-logging-stack",
-  "stack_id": "covid_dataset",
-  "type": "dataset",
-  "categories": [
-    "Covid",
-    "Health"
-  ],
-  "has_dataset": true,
-  "has_api": false,
-  "git_url": "https://github.com/operator-playground-io/covid-dataset.git",
-  "git_commit": "5025c43bda95268e698f191f6fc08a4d9a11067c",
-  "installTime": "2 minutes",
-  "isStacksSaved": true
-},
+    "title": "Walmart API",
+    "description": "Walmart API's for inventory, price, item and orders.",
+    "logo": "_images/api_collections.png",
+    "enabled": true,
+    "language": [
+      "Yaml"
+    ],
+    "category_label":[
+      "API"
+    ],
+    "document": "data-logging-stack",
+    "stack_id": "walmart_api",
+    "type": "api",
+    "categories": [
+      "Public API"
+    ],
+    "has_dataset": false,
+    "has_api": true,
+    "has_support": false,
+    "has_certification": true,
+    "git_url": "https://github.com/operator-playground-io/walmart-api.git",
+    "git_commit": "df519085763fc0bbdfdf8c15845da55627301ca8",
+    "installTime": "3 minutes",
+    "isStacksSaved": true
+  },
   {
-  "title": "Employment Dataset",
-  "description": "US Employment and Unemployment rates since 1940.",
-  "logo": "_images/dataset.png",
-  "enabled": true,
-  "language": [
-    "Dataset"
-  ],
-  "document": "data-logging-stack",
-  "stack_id": "employment_dataset",
-  "type": "dataset",
-  "categories": [
-    "Employment"
-  ],
-  "has_dataset": true,
-  "has_api": false,
-  "git_url": "https://github.com/operator-playground-io/employment-dataset.git",
-  "git_commit": "f3c9d9dfd430b25829f8d3891dd594de78c02077",
-  "installTime": "2 minutes",
-  "isStacksSaved": true
-},
+    "title": "Weather API",
+    "description": "Weather API with historical weather and 15-day forecast data",
+    "logo": "_images/api_collections.png",
+    "enabled": true,
+    "language": [
+      "Yaml"
+    ],
+    "category_label":[
+      "API"
+    ],
+    "document": "data-logging-stack",
+    "stack_id": "weather_api",
+    "type": "api",
+    "categories": [
+      "Public API"
+    ],
+    "has_dataset": false,
+    "has_api": true,
+    "has_support": true,
+    "has_certification": true,
+    "git_url": "https://github.com/operator-playground-io/weather-api.git",
+    "git_commit": "7611bcf8b48812c075d2aac8760685b9fed8d4af",
+    "installTime": "3 minutes",
+    "isStacksSaved": true
+  },
   {
-      "title":"Contacts Application Stack",
-      "description":"",
-      "logo":"_images/stack.png",
-      "enabled":true,
-      "language": ["NodeJS"],
-      "stack_id" : "contacts-app-stack",
-      "type": "stack",
-      "categories": ["MVC", "PostgreSQL", "Express"],
-      "has_dataset": false,
-      "has_api": false,
-      "git_url": "https://github.com/operator-playground-io/edge-node-react-postgres-contacts-stack",
-      "git_commit": "3c1ed94243fdd6eef5626289ba9cd2805d47bfd5",
-      "installTime":"10 minutes"
-   },
+    "title": "Population Dataset",
+    "description": "Population figures for countries, regions (e.g. Asia) and the world.",
+    "logo": "_images/dataset.png",
+    "enabled": true,
+    "language": [
+      "Dataset"
+    ],
+    "category_label":[
+      "Dataset"
+    ],
+    "document": "data-logging-stack",
+    "stack_id": "population_dataset",
+    "type": "dataset",
+    "categories": [
+      "Population"
+    ],
+    "has_dataset": true,
+    "has_api": false,
+    "has_support": false,
+    "has_certification": false,
+    "git_url": "https://github.com/operator-playground-io/population-dataset.git",
+    "git_commit": "873ffd0fdcd509a8366088bc178d4d6f7edc7baf",
+    "installTime": "2 minutes",
+    "isStacksSaved": true
+  },
   {
-  "title": "OpenAQ Dataset",
-  "description": "OpenAQ Dataset",
-  "logo": "_images/dataset.png",
-  "enabled": true,
-  "language": [
-    "S3"
-  ],
-  "document": "data-logging-stack",
-  "stack_id": "openaq_s3_dataset",
-  "type": "dataset",
-  "categories": [
-    "Public Dataset"
-  ],
-  "has_dataset": true,
-  "has_api": false,
-  "git_url": "https://github.com/operator-playground-io/openaq-dataset.git",
-  "git_commit": "b152b6768b4302a6d207e16f029b9d7a9eaed840",
-  "installTime": "3 minutes",
-  "isStacksSaved": true
-},
+    "title": "Covid Dataset",
+    "description": "Dataset for covid data",
+    "logo": "_images/dataset.png",
+    "enabled": true,
+    "language": [
+      "Dataset"
+    ],
+    "document": "data-logging-stack",
+    "stack_id": "covid_dataset",
+    "type": "dataset",
+    "categories": [
+      "Covid",
+      "Health"
+    ],
+    "category_label":[
+      "Dataset"
+    ],
+    "has_dataset": true,
+    "has_api": false,
+    "has_support": true,
+    "has_certification": false,
+    "git_url": "https://github.com/operator-playground-io/covid-dataset.git",
+    "git_commit": "5025c43bda95268e698f191f6fc08a4d9a11067c",
+    "installTime": "2 minutes",
+    "isStacksSaved": true
+  },
   {
-  "title": "US Hiring Rates",
-  "description": "This dataset provides daily updates on the volume of US job listings",
-  "logo": "_images/dataset.png",
-  "enabled": true,
-  "language": [
-    "S3"
-  ],
-  "document": "data-logging-stack",
-  "stack_id": "us_hiring_rates_s3_dataset",
-  "type": "dataset",
-  "categories": [
-    "Employment"
-  ],
-  "has_dataset": true,
-  "has_api": false,
-  "git_url": "https://github.com/operator-playground-io/us-hiring-rates.git",
-  "git_commit": "f43e8b70560152826040411247757c45dfeb8c18",
-  "installTime": "3 minutes",
-  "isStacksSaved": true
-}
-
+    "title": "Employment Dataset",
+    "description": "US Employment and Unemployment rates since 1940.",
+    "logo": "_images/dataset.png",
+    "enabled": true,
+    "language": [
+      "Dataset"
+    ],
+    "category_label":[
+      "Dataset"
+    ],
+    "document": "data-logging-stack",
+    "stack_id": "employment_dataset",
+    "type": "dataset",
+    "categories": [
+      "Employment"
+    ],
+    "has_dataset": true,
+    "has_api": false,
+    "has_support": false,
+    "has_certification": true,
+    "git_url": "https://github.com/operator-playground-io/employment-dataset.git",
+    "git_commit": "f3c9d9dfd430b25829f8d3891dd594de78c02077",
+    "installTime": "2 minutes",
+    "isStacksSaved": true
+  },
+  {
+    "title": "Contacts Application Stack",
+    "description": "",
+    "logo": "_images/stack.png",
+    "enabled": true,
+    "language": [
+      "NodeJS"
+    ],
+    "category_label":[
+      "Dataset"
+    ],
+    "stack_id": "contacts-app-stack",
+    "type": "stack",
+    "categories": [
+      "MVC",
+      "PostgreSQL",
+      "Express"
+    ],
+    "has_dataset": false,
+    "has_api": false,
+    "has_support": false,
+    "has_certification": false,
+    "git_url": "https://github.com/operator-playground-io/edge-node-react-postgres-contacts-stack",
+    "git_commit": "3c1ed94243fdd6eef5626289ba9cd2805d47bfd5",
+    "installTime": "10 minutes"
+  },
+  {
+    "title": "OpenAQ Dataset",
+    "description": "OpenAQ Dataset",
+    "logo": "_images/dataset.png",
+    "enabled": true,
+    "language": [
+      "S3"
+    ],
+    "category_label":[
+      "S3Dataset"
+    ],
+    "document": "data-logging-stack",
+    "stack_id": "openaq_s3_dataset",
+    "type": "dataset",
+    "categories": [
+      "Public Dataset"
+    ],
+    "has_dataset": true,
+    "has_api": false,
+    "has_support": true,
+    "has_certification": true,
+    "git_url": "https://github.com/operator-playground-io/openaq-dataset.git",
+    "git_commit": "b152b6768b4302a6d207e16f029b9d7a9eaed840",
+    "installTime": "3 minutes",
+    "isStacksSaved": true
+  },
+  {
+    "title": "US Hiring Rates",
+    "description": "This dataset provides daily updates on the volume of US job listings",
+    "logo": "_images/dataset.png",
+    "enabled": true,
+    "language": [
+      "S3"
+    ],
+    "category_label":[
+      "S3Dataset"
+    ],
+    "document": "data-logging-stack",
+    "stack_id": "us_hiring_rates_s3_dataset",
+    "type": "dataset",
+    "categories": [
+      "Employment"
+    ],
+    "has_dataset": true,
+    "has_api": false,
+    "has_support": false,
+    "has_certification": true,
+    "git_url": "https://github.com/operator-playground-io/us-hiring-rates.git",
+    "git_commit": "f43e8b70560152826040411247757c45dfeb8c18",
+    "installTime": "3 minutes",
+    "isStacksSaved": true
+  }
 ]
