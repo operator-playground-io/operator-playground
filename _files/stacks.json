@@ -11,7 +11,7 @@
   "stack_id": "Crunchy-PostgreSQL-Operator",
   "type": "stack",
   "categories": [
-    "PostgreSQL"
+    "Database"
   ],
   "has_dataset": false,
   "has_api": false,
