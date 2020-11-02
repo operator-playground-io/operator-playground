@@ -16,7 +16,7 @@
   "has_dataset": false,
   "has_api": false,
   "git_url": "https://github.com/operator-playground-io/crunchy-postgres",
-  "git_commit": "0865505dcafb7b2ba70f41d2f81e171e62810fd1",
+  "git_commit": "01039b63f946f79fa50efc8af2bcb87ba490faaf",
   "installTime": "5 minutes",
   "isStacksSaved": true
 },
