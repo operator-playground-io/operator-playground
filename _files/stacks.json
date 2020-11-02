@@ -128,21 +128,6 @@
   "isStacksSaved": true
 },
   {
-      "title":"Contacts Application",
-      "description":"",
-      "logo":"_images/stack.png",
-      "enabled":true,
-      "language": ["Operators Samples"],
-      "stack_id" : "contacts-app-stack",
-      "type": "stack",
-      "categories": ["MVC", "PostgreSQL", "Express"],
-      "has_dataset": false,
-      "has_api": false,
-      "git_url": "https://github.com/operator-playground-io/edge-node-react-postgres-contacts-stack",
-      "git_commit": "6169ab255623b6498454332abe8ab39989547ce6",
-      "installTime":"10 minutes"
-   },
-  {
   "title": "OpenAQ Dataset",
   "description": "OpenAQ Dataset",
   "logo": "_images/dataset.png",
