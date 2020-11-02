@@ -26,7 +26,7 @@
   "logo": "_images/api_collections.png",
   "enabled": true,
   "language": [
-    "Yaml"
+    "API"
   ],
   "document": "data-logging-stack",
   "stack_id": "walmart_api",
@@ -47,7 +47,7 @@
   "logo": "_images/api_collections.png",
   "enabled": true,
   "language": [
-    "Yaml"
+    "API"
   ],
   "document": "data-logging-stack",
   "stack_id": "weather_api",
@@ -68,7 +68,7 @@
   "logo": "_images/dataset.png",
   "enabled": true,
   "language": [
-    "Dataset"
+    "Datasets"
   ],
   "document": "data-logging-stack",
   "stack_id": "population_dataset",
@@ -90,7 +90,7 @@
   "logo": "_images/dataset.png",
   "enabled": true,
   "language": [
-    "Dataset"
+    "Datasets"
   ],
   "document": "data-logging-stack",
   "stack_id": "covid_dataset",
@@ -112,7 +112,7 @@
   "logo": "_images/dataset.png",
   "enabled": true,
   "language": [
-    "Dataset"
+    "Datasets"
   ],
   "document": "data-logging-stack",
   "stack_id": "employment_dataset",
@@ -148,7 +148,7 @@
   "logo": "_images/dataset.png",
   "enabled": true,
   "language": [
-    "S3"
+    "Datasets-S3"
   ],
   "document": "data-logging-stack",
   "stack_id": "openaq_s3_dataset",
@@ -169,7 +169,7 @@
   "logo": "_images/dataset.png",
   "enabled": true,
   "language": [
-    "S3"
+    "Datasets-S3"
   ],
   "document": "data-logging-stack",
   "stack_id": "us_hiring_rates_s3_dataset",
