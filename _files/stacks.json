@@ -4,12 +4,12 @@
   "description": "Crunchy Data PostgreSQL Operator",
   "logo": "_images/SalesStack.png",
   "enabled": true,
-  "language": [
+  "category_label": [
     "Operators"
   ],
   "document": "data-logging-stack",
   "stack_id": "Crunchy-PostgreSQL-Operator",
-  "type": "stack",
+  "type": "operators",
   "categories": [
     "Database"
   ],
@@ -27,7 +27,7 @@
   "description": "Walmart API's for inventory, price, item and orders.",
   "logo": "_images/api_collections.png",
   "enabled": true,
-  "language": [
+  "category_label": [
     "API"
   ],
   "document": "data-logging-stack",
@@ -50,7 +50,7 @@
   "description": "Weather API with historical weather and 15-day forecast data",
   "logo": "_images/api_collections.png",
   "enabled": true,
-  "language": [
+  "category_label": [
     "API"
   ],
   "document": "data-logging-stack",
@@ -73,7 +73,7 @@
   "description": "Population figures for countries, regions (e.g. Asia) and the world.",
   "logo": "_images/dataset.png",
   "enabled": true,
-  "language": [
+  "category_label": [
     "Datasets"
   ],
   "document": "data-logging-stack",
@@ -97,7 +97,7 @@
   "description": "Dataset for covid data",
   "logo": "_images/dataset.png",
   "enabled": true,
-  "language": [
+  "category_label": [
     "Datasets"
   ],
   "document": "data-logging-stack",
@@ -121,7 +121,7 @@
   "description": "US Employment and Unemployment rates since 1940.",
   "logo": "_images/dataset.png",
   "enabled": true,
-  "language": [
+  "category_label": [
     "Datasets"
   ],
   "document": "data-logging-stack",
@@ -144,7 +144,7 @@
   "description": "OpenAQ Dataset",
   "logo": "_images/dataset.png",
   "enabled": true,
-  "language": [
+  "category_label": [
     "Datasets-S3"
   ],
   "document": "data-logging-stack",
@@ -167,7 +167,7 @@
   "description": "This dataset provides daily updates on the volume of US job listings",
   "logo": "_images/dataset.png",
   "enabled": true,
-  "language": [
+  "category_label": [
     "Datasets-S3"
   ],
   "document": "data-logging-stack",
