@@ -21,8 +21,10 @@
       "headerTitle":"Operator Playground.io",
       "title":"Welcome to Operator-Playground.io",
       "description":[
-         "Operator Playground provides developers with a playground to quick start a stack which comprises of opensource packages. These stacks can be used for developing quick MVPs.",
-         "Users can select a pre-built operator stack from the available list or can choose to create a custom operator stack."
+         "Operators deliver the automation advantages of cloud services like provisioning, scaling, and backup/restore while being able to run anywhere that Kubernetes can run.",
+         "Operator Playgroung provides developers with a Kubernetes or Openshift playground to explore and learn rich set of Certified , Enterprise Supported and community Operators.",
+         "The Operator Playground Catalog also includes rich set of Datasets of Type CSV and S3 and a collection of Swagger APIs.",
+         "The playground will be available for 60 minutes after which time it will be destroyed. User can extend the duration as well."
       ],
       "banner":{
          "logo":"_images/prelogin.png"
