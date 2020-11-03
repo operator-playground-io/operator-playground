@@ -21,27 +21,35 @@
       "headerTitle":"Operator Playground.io",
       "title":"Welcome to Operator-Playground.io",
       "description":[
-         "Operator Playground provides developers with a playground to quick start a stack which comprises of opensource packages. These stacks can be used for developing quick MVPs.",
-         "Users can select a pre-built operator stack from the available list or can choose to create a custom operator stack."
+         "Operators deliver the automation advantages of cloud services like provisioning, scaling, and backup/restore while being able to run anywhere that Kubernetes can run.",
+         "Operator Playgroung provides developers with a Kubernetes or Openshift playground to explore and learn rich set of Certified , Enterprise Supported and community Operators.",
+         "The Operator Playground Catalog also includes rich set of Datasets of Type CSV and S3 and a collection of Swagger APIs.",
+         "The playground will be available for 60 minutes after which time it will be destroyed. User can extend the duration as well."
       ],
       "banner":{
          "logo":"_images/prelogin.png"
       },
       "keyFeatures":[
          {
-            "text":"Operator Playground leverages the power of Kubernetes / Openshift operators for building and deploying operator stacks"
+            "text":"Operator Playground leverages the power of Kubernetes / Openshift operators"
          },
          {
-            "text":"Pre built operator stacks for some of the most common development scenarios"
+            "text":"Users can try the Operators and their provided examples to explore and understand the operators"
          },
          {
-            "text":"Custom Operator Stack option to allow users to choose what opensource operators goes in the stack"
+            "text":"Hassle free deployment of operators with a click of a button"
          },
          {
-            "text":"Hassle free deployment of operator stack on a click of a button"
+            "text":"Supported User Guide for Operators for ease of use"
          },
          {
-            "text":"Detailed instruction on: #-What comprises the stack #-Architecture #-How to deploy stack (set of user instructions) #-An example that helps users to understand a use-case of application development with stack"
+            "text":"Rich set of Datasets of type S3 and CSV for use"
+         },
+         {
+            "text":"Collection of Swagger APIs for use on Operator Playground"
+         },
+         {
+            "text":"Detailed instruction on: #-About the Operator #-Architecture #-How to deploy stack (set of user instructions) #-An example that helps users to understand a use-case of application development with Operators"
          }
       ],
       "howto_img":"_images/chart.png",
