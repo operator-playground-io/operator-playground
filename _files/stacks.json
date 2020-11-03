@@ -5,11 +5,11 @@
   "logo": "_images/SalesStack.png",
   "enabled": true,
   "language": [
-    "API"
+    "Operators"
   ],
   "document": "data-logging-stack",
   "stack_id": "Crunchy-PostgreSQL-Operator",
-  "type": "api",
+  "type": "stack",
   "categories": [
     "Database"
   ],
