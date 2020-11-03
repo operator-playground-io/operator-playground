@@ -1,28 +1,5 @@
 [
  {
-  "title": "Crunchy Data PostgreSQL Operator",
-  "description": "Crunchy Data PostgreSQL Operator",
-  "logo": "_images/SalesStack.png",
-  "enabled": true,
-  "language": [
-    "Operators"
-  ],
-  "document": "data-logging-stack",
-  "stack_id": "Crunchy-PostgreSQL-Operator",
-  "type": "stack",
-  "categories": [
-    "Database"
-  ],
-  "is_certified": false,
-  "has_support": true,
-  "has_dataset": false,
-  "has_api": false,
-  "git_url": "https://github.com/operator-playground-io/openaq-dataset.git",
-  "git_commit": "b152b6768b4302a6d207e16f029b9d7a9eaed840",
-  "installTime": "5 minutes",
-  "isStacksSaved": true
-},
- {
   "title": "Walmart API",
   "description": "Walmart API's for inventory, price, item and orders.",
   "logo": "_images/api_collections.png",
@@ -43,6 +20,29 @@
   "git_url": "https://github.com/operator-playground-io/walmart-api.git",
   "git_commit": "df519085763fc0bbdfdf8c15845da55627301ca8",
   "installTime": "3 minutes",
+  "isStacksSaved": true
+},
+ {
+  "title": "Crunchy Data PostgreSQL Operator",
+  "description": "Crunchy Data PostgreSQL Operator",
+  "logo": "_images/SalesStack.png",
+  "enabled": true,
+  "language": [
+    "Operators"
+  ],
+  "document": "data-logging-stack",
+  "stack_id": "Crunchy-PostgreSQL-Operator",
+  "type": "stack",
+  "categories": [
+    "Database"
+  ],
+  "is_certified": false,
+  "has_support": true,
+  "has_dataset": false,
+  "has_api": false,
+  "git_url": "https://github.com/operator-playground-io/openaq-dataset.git",
+  "git_commit": "b152b6768b4302a6d207e16f029b9d7a9eaed840",
+  "installTime": "5 minutes",
   "isStacksSaved": true
 },
 {
