@@ -21,8 +21,8 @@
       "headerTitle":"Operator Playground.io",
       "title":"Welcome to Operator-Playground.io",
       "description":[
-         "-Operators deliver the automation advantages of cloud services like provisioning, scaling, and backup/restore while being able to run anywhere that Kubernetes can run.<br>",
-         "-Operator Playground provides developers with a Kubernetes or Openshift playground to explore and learn rich set of Certified , Enterprise Supported and community Operators.<br>",
+         "#-Operators deliver the automation advantages of cloud services like provisioning, scaling, and backup/restore while being able to run anywhere that Kubernetes can run.<br>",
+         "#-Operator Playground provides developers with a Kubernetes or Openshift playground to explore and learn rich set of Certified , Enterprise Supported and community Operators.<br>",
          "The Operator Playground Catalog also includes rich set of Datasets of Type CSV and S3 and a collection of Swagger APIs.<br>",
          "The playground will be available for 60 minutes after which time it will be destroyed. User can extend the duration as well."
       ],
