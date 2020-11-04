@@ -41,7 +41,7 @@
   "is_certified": true,
   "has_support": true,
   "git_url": "https://github.com/operator-playground-io/walmart-api.git",
-  "git_commit": "be217b406f2cb132b6efdae55d7da90b4ca69e96",
+  "git_commit": "7841e0e4be97d480e2f5658a1e754468a136e61c",
   "installTime": "3 minutes",
   "isStacksSaved": true
 },
@@ -64,7 +64,7 @@
   "is_certified": false,
   "has_support": false,
   "git_url": "https://github.com/operator-playground-io/weather-api.git",
-  "git_commit": "da7d5da0b853a1a9788223bfd1efb255c9e7991d",
+  "git_commit": "2ced8b074b188026cc2570fe10ee30b09db2609e",
   "installTime": "3 minutes",
   "isStacksSaved": true
 },
@@ -87,7 +87,7 @@
   "is_certified": true,
   "has_support": false,
   "git_url": "https://github.com/operator-playground-io/population-dataset.git",
-  "git_commit": "33af5cc19749cf9b75205d181678b1e9fffdc2cf",
+  "git_commit": "fcc8aaaeafea8e534ed069dcb10b96a131408467",
   "installTime": "2 minutes",
   "isStacksSaved": true
 },
@@ -112,7 +112,7 @@
   "is_certified": false,
   "has_support": true,
   "git_url": "https://github.com/operator-playground-io/covid-dataset.git",
-  "git_commit": "a96fa3fb4e54a5d7efc877b46117dd4afcadc533",
+  "git_commit": "41a13e03f242894059b86672eae49be5028f5ec4",
   "installTime": "2 minutes",
   "isStacksSaved": true
 },
@@ -135,7 +135,7 @@
   "is_certified": false,
   "has_support": true,
   "git_url": "https://github.com/operator-playground-io/employment-dataset.git",
-  "git_commit": "f3c9d9dfd430b25829f8d3891dd594de78c02077",
+  "git_commit": "b7587551842197f88d9e1ac5cb173854b1d9bcfb",
   "installTime": "2 minutes",
   "isStacksSaved": true
 },
