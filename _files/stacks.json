@@ -13,7 +13,7 @@
   "categories": [
     "Database"
   ],
-  "is_certified": false,
+  "is_certified": true,
   "has_support": true,
   "has_dataset": false,
   "has_api": false,
@@ -38,7 +38,7 @@
   ],
   "has_dataset": false,
   "has_api": true,
-  "is_certified": true,
+  "is_certified": false,
   "has_support": true,
   "git_url": "https://github.com/operator-playground-io/walmart-api.git",
   "git_commit": "9b1388d95c0853500d11fa3e68e5bccce62dabfb",
@@ -84,7 +84,7 @@
   ],
   "has_dataset": true,
   "has_api": false,
-  "is_certified": true,
+  "is_certified": false,
   "has_support": false,
   "git_url": "https://github.com/operator-playground-io/population-dataset.git",
   "git_commit": "fcc8aaaeafea8e534ed069dcb10b96a131408467",
