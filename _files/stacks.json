@@ -90,7 +90,7 @@
   "is_certified": false,
   "has_support": false,
   "git_url": "https://github.com/operator-playground-io/population-dataset.git",
-  "git_commit": "fcc8aaaeafea8e534ed069dcb10b96a131408467",
+  "git_commit": "06ee308b86da4882300cd382cd30d529df3fd324",
   "installTime": "2 minutes",
   "isStacksSaved": true
 },
@@ -118,7 +118,7 @@
   "is_certified": false,
   "has_support": true,
   "git_url": "https://github.com/operator-playground-io/covid-dataset.git",
-  "git_commit": "41a13e03f242894059b86672eae49be5028f5ec4",
+  "git_commit": "dcfd60597a60a632159a8143907e7eb9b6c2f0c2",
   "installTime": "2 minutes",
   "isStacksSaved": true
 },
@@ -170,7 +170,7 @@
   "is_certified": false,
   "has_support": true,
   "git_url": "https://github.com/operator-playground-io/openaq-dataset.git",
-  "git_commit": "769cf06cc3f1a4501922c68f064a18918ffbd4d4",
+  "git_commit": "e8c016106f78ad4618d291ca0d938257b5e0d8e9",
   "installTime": "3 minutes",
   "isStacksSaved": true
 },
@@ -196,7 +196,7 @@
   "is_certified": false,
   "has_support": true,
   "git_url": "https://github.com/operator-playground-io/us-hiring-rates.git",
-  "git_commit": "dc66978bc1aa0c9fdfbec9e974098d9756608921",
+  "git_commit": "8bfe4427bfccc4e0faa2a4e891d8f05442ba0e04",
   "installTime": "3 minutes",
   "isStacksSaved": true
 }
