@@ -144,7 +144,7 @@
   "is_certified": false,
   "has_support": true,
   "git_url": "https://github.com/operator-playground-io/employment-dataset.git",
-  "git_commit": "ef4c8a346b8f4a775f4864966264612bf3db0b58",
+  "git_commit": "a986b41582a52c5fedd7454fa25e7349440b2fab",
   "installTime": "2 minutes",
   "isStacksSaved": true
 },
@@ -154,7 +154,7 @@
   "logo": "_images/dataset.png",
   "enabled": true,
   "language": [
-    "Datasets"
+    "Datasets-S3"
   ],
   "document": "data-logging-stack",
   "stack_id": "openaq_s3_dataset",
@@ -180,7 +180,7 @@
   "logo": "_images/dataset.png",
   "enabled": true,
   "language": [
-    "Datasets"
+    "Datasets-S3"
   ],
   "document": "data-logging-stack",
   "stack_id": "us_hiring_rates_s3_dataset",
