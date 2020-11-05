@@ -90,7 +90,7 @@
   "is_certified": false,
   "has_support": false,
   "git_url": "https://github.com/operator-playground-io/population-dataset.git",
-  "git_commit": "06ee308b86da4882300cd382cd30d529df3fd324",
+  "git_commit": "58d0d64a02a381f5ebdbb7efb93656956e171a90",
   "installTime": "2 minutes",
   "isStacksSaved": true
 },
@@ -118,7 +118,7 @@
   "is_certified": false,
   "has_support": true,
   "git_url": "https://github.com/operator-playground-io/covid-dataset.git",
-  "git_commit": "dcfd60597a60a632159a8143907e7eb9b6c2f0c2",
+  "git_commit": "917d1efae34d0ad66f4a10ba35d7f3e32b7d2987",
   "installTime": "2 minutes",
   "isStacksSaved": true
 },
