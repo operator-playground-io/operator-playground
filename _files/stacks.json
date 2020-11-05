@@ -154,7 +154,7 @@
   "logo": "_images/dataset.png",
   "enabled": true,
   "language": [
-    "Datasets-S3"
+    "Datasets"
   ],
   "document": "data-logging-stack",
   "stack_id": "openaq_s3_dataset",
@@ -180,7 +180,7 @@
   "logo": "_images/dataset.png",
   "enabled": true,
   "language": [
-    "Datasets-S3"
+    "Datasets"
   ],
   "document": "data-logging-stack",
   "stack_id": "us_hiring_rates_s3_dataset",
