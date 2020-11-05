@@ -170,7 +170,7 @@
   "is_certified": false,
   "has_support": true,
   "git_url": "https://github.com/operator-playground-io/openaq-dataset.git",
-  "git_commit": "94fed13ba272efcf050ccfb3832f74fcefa8ddeb",
+  "git_commit": "b4f38818aba0469afbbdb0f4da6a1799aae22f6d",
   "installTime": "3 minutes",
   "isStacksSaved": true
 },
@@ -196,7 +196,7 @@
   "is_certified": false,
   "has_support": true,
   "git_url": "https://github.com/operator-playground-io/us-hiring-rates.git",
-  "git_commit": "2ca75846c08aa43cc9427aba4b70a83e70d3f72c",
+  "git_commit": "6c8c256b48aacc91a219ec870d630361bd5b5cb3",
   "installTime": "3 minutes",
   "isStacksSaved": true
 }
