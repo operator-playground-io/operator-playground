@@ -196,7 +196,7 @@
   "is_certified": false,
   "has_support": true,
   "git_url": "https://github.com/operator-playground-io/us-hiring-rates.git",
-  "git_commit": "6c8c256b48aacc91a219ec870d630361bd5b5cb3",
+  "git_commit": "8197a87ff0919250a1b3df3bac63c227c38ac416",
   "installTime": "3 minutes",
   "isStacksSaved": true
 }
