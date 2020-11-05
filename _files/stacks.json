@@ -82,6 +82,9 @@
   "categories": [
     "Population"
   ],
+   "tag": [
+    "CSV"
+  ],
   "has_dataset": true,
   "has_api": false,
   "is_certified": false,
@@ -107,6 +110,9 @@
     "Covid",
     "Health"
   ],
+ "tag": [
+    "CSV"
+  ],
   "has_dataset": true,
   "has_api": false,
   "is_certified": false,
@@ -130,12 +136,15 @@
   "categories": [
     "Employment"
   ],
+   "tag": [
+    "CSV"
+  ],
   "has_dataset": true,
   "has_api": false,
   "is_certified": false,
   "has_support": true,
   "git_url": "https://github.com/operator-playground-io/employment-dataset.git",
-  "git_commit": "b7587551842197f88d9e1ac5cb173854b1d9bcfb",
+  "git_commit": "ef4c8a346b8f4a775f4864966264612bf3db0b58",
   "installTime": "2 minutes",
   "isStacksSaved": true
 },
@@ -152,6 +161,9 @@
   "type": "dataset",
   "categories": [
     "Public Dataset"
+  ],
+   "tag": [
+    "S3"
   ],
   "has_dataset": true,
   "has_api": false,
@@ -175,6 +187,9 @@
   "type": "dataset",
   "categories": [
     "Employment"
+  ],
+   "tag": [
+    "S3"
   ],
   "has_dataset": true,
   "has_api": false,
