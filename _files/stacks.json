@@ -170,7 +170,7 @@
   "is_certified": false,
   "has_support": false,
   "git_url": "https://github.com/operator-playground-io/openaq-dataset.git",
-  "git_commit": "c07b81eeff8c013b32d7d9bfa30c9d03e5901da8",
+  "git_commit": "9a9ea49b22b3b7e0efc0127ae3c2458580c6c279",
   "installTime": "3 minutes",
   "isStacksSaved": true
 },
