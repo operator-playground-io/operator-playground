@@ -28,7 +28,9 @@
       ],
       "banner":{
          "logo":"_images/Header.png",
-         "logo_1":"_images/Header.png"
+         "logo_1":"_images/Header.png",
+         "logo2":"_images/Logo.png",
+         "background_img":"_images/Background.png"
       },
       "keyFeatures":[
          {
