@@ -41,7 +41,7 @@
   "is_certified": false,
   "has_support": false,
   "git_url": "https://github.com/operator-playground-io/walmart-api.git",
-  "git_commit": "2c6bb4214e0739763173d4759b0d78ddee654999",
+  "git_commit": "d360b2cec674b4419d1b352c73b54c1a1abe2fae",
   "installTime": "3 minutes",
   "isStacksSaved": true
 },
@@ -64,7 +64,7 @@
   "is_certified": false,
   "has_support": false,
   "git_url": "https://github.com/operator-playground-io/weather-api.git",
-  "git_commit": "d8c9bc3c637eac01fa954af2ddd358e4560831ec",
+  "git_commit": "86cff281ee0665df8015f2b538c03cbc1312038d",
   "installTime": "3 minutes",
   "isStacksSaved": true
 },
