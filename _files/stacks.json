@@ -94,34 +94,6 @@
   "installTime": "2 minutes",
   "isStacksSaved": true
 },
-    
-{
-  "title": "Covid Dataset",
-  "description": "Dataset for covid data",
-  "logo": "_images/dataset.png",
-  "enabled": true,
-  "category_label": [
-    "Datasets"
-  ],
-  "document": "data-logging-stack",
-  "stack_id": "covid_dataset",
-  "type": "dataset",
-  "categories": [
-    "Covid",
-    "Health"
-  ],
- "tag": [
-    "CSV"
-  ],
-  "has_dataset": true,
-  "has_api": false,
-  "is_certified": false,
-  "has_support": false,
-  "git_url": "https://github.com/operator-playground-io/covid-dataset.git",
-  "git_commit": "917d1efae34d0ad66f4a10ba35d7f3e32b7d2987",
-  "installTime": "2 minutes",
-  "isStacksSaved": true
-},
   {
   "title": "Employment Dataset",
   "description": "US Employment and Unemployment rates since 1940.",
