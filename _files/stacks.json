@@ -8,7 +8,7 @@
      "Operators"
    ],
    "document": "data-logging-stack",
-   "stack_id": "Mariadb-Operator",
+   "stack_id": "mariadb-operator",
    "type": "stack",
    "categories": [
      "Database"
@@ -18,7 +18,7 @@
    "has_dataset": false,
    "has_api": false,
    "git_url": "https://github.com/aradhana14nov/MariaDB-Operator-Playground.git",
-   "git_commit": "f15848b823ba8446c1058f24b501c965e229e551",
+   "git_commit": "f7cfc2aed29501313d5968a2afc621a12643b032",
    "installTime": "5 minutes",
    "isStacksSaved": true
  },
