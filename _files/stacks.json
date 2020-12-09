@@ -1,27 +1,27 @@
 [
  {
-   "title": "MariaDB Operator",
-   "description": "MariaDB Operator",
-   "logo": "_images/SalesStack.png",
-   "enabled": true,
-   "category_label": [
-     "Operators"
-   ],
-   "document": "data-logging-stack",
-   "stack_id": "mariadb-operator",
-   "type": "stack",
-   "categories": [
-     "Database"
-   ],
-   "is_certified": true,
-   "has_support": true,
-   "has_dataset": false,
-   "has_api": false,
-   "git_url": "https://github.com/aradhana14nov/MariaDB-Operator-Playground.git",
-   "git_commit": "f7cfc2aed29501313d5968a2afc621a12643b032",
-   "installTime": "5 minutes",
-   "isStacksSaved": true
- },
+  "title": "Elastic Cloud Operator",
+  "description": "Elastic Cloud Operator",
+  "logo": "_images/SalesStack.png",
+  "enabled": true,
+  "category_label": [
+    "Operators"
+  ],
+  "document": "data-logging-stack",
+  "stack_id": "elastic-cloud-operator",
+  "type": "stack",
+  "categories": [
+    "Database"
+  ],
+  "is_certified": true,
+  "has_support": true,
+  "has_dataset": false,
+  "has_api": false,
+  "git_url": "https://github.com/operator-playground-io/elastic-cloud-operator.git",
+  "git_commit": "4b5734319ae0af464a37ea05116fea6dca784408",
+  "installTime": "5 minutes",
+  "isStacksSaved": true
+},
  {
   "title": "etcd Operator",
   "description": "etcd Operator",
@@ -66,6 +66,55 @@
   "git_url": "https://github.com/operator-playground-io/crunchy-postgres.git",
   "git_commit": "03db7b82faa945f15d9d4daf0a5640d76d32ba04",
   "installTime": "5 minutes",
+  "isStacksSaved": true
+},
+ {
+   "title": "MariaDB Operator",
+   "description": "MariaDB Operator",
+   "logo": "_images/SalesStack.png",
+   "enabled": true,
+   "category_label": [
+     "Operators"
+   ],
+   "document": "data-logging-stack",
+   "stack_id": "mariadb-operator",
+   "type": "stack",
+   "categories": [
+     "Database"
+   ],
+   "is_certified": true,
+   "has_support": true,
+   "has_dataset": false,
+   "has_api": false,
+   "git_url": "https://github.com/aradhana14nov/MariaDB-Operator-Playground.git",
+   "git_commit": "f7cfc2aed29501313d5968a2afc621a12643b032",
+   "installTime": "5 minutes",
+   "isStacksSaved": true
+ },
+ {
+  "title": "Employment Dataset",
+  "description": "US Employment and Unemployment rates since 1940.",
+  "logo": "_images/dataset.png",
+  "enabled": true,
+  "category_label": [
+    "Datasets"
+  ],
+  "document": "data-logging-stack",
+  "stack_id": "employment_dataset",
+  "type": "dataset",
+  "categories": [
+    "Employment"
+  ],
+   "tag": [
+    "CSV"
+  ],
+  "has_dataset": true,
+  "has_api": false,
+  "is_certified": false,
+  "has_support": false,
+  "git_url": "https://github.com/operator-playground-io/employment-dataset.git",
+  "git_commit": "1ce09f4bebaf598c69f21eb9341d94f2b2233ed2",
+  "installTime": "2 minutes",
   "isStacksSaved": true
 },
  {
@@ -140,32 +189,7 @@
   "installTime": "2 minutes",
   "isStacksSaved": true
 },
-  {
-  "title": "Employment Dataset",
-  "description": "US Employment and Unemployment rates since 1940.",
-  "logo": "_images/dataset.png",
-  "enabled": true,
-  "category_label": [
-    "Datasets"
-  ],
-  "document": "data-logging-stack",
-  "stack_id": "employment_dataset",
-  "type": "dataset",
-  "categories": [
-    "Employment"
-  ],
-   "tag": [
-    "CSV"
-  ],
-  "has_dataset": true,
-  "has_api": false,
-  "is_certified": false,
-  "has_support": false,
-  "git_url": "https://github.com/operator-playground-io/employment-dataset.git",
-  "git_commit": "1ce09f4bebaf598c69f21eb9341d94f2b2233ed2",
-  "installTime": "2 minutes",
-  "isStacksSaved": true
-},
+  
   {
   "title": "OpenAQ Dataset",
   "description": "OpenAQ Dataset",
