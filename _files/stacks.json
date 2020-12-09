@@ -46,6 +46,52 @@
   "isStacksSaved": true
 },
  {
+  "title": "Prometheus Operator",
+  "description": "Prometheus Operator",
+  "logo": "_images/SalesStack.png",
+  "enabled": true,
+  "category_label": [
+    "Operators"
+  ],
+  "document": "data-logging-stack",
+  "stack_id": "prometheus-operator",
+  "type": "stack",
+  "categories": [
+    "Monitoring"
+  ],
+  "is_certified": true,
+  "has_support": true,
+  "has_dataset": false,
+  "has_api": false,
+  "git_url": "https://github.com/operator-playground-io/prometheus-operator",
+  "git_commit": "ded846644e4a1092db9149a19b8e8b2524788480",
+  "installTime": "5 minutes",
+  "isStacksSaved": true
+},
+ {
+  "title": "Grafana Operator",
+  "description": "Grafana Operator",
+  "logo": "_images/SalesStack.png",
+  "enabled": true,
+  "category_label": [
+    "Operators"
+  ],
+  "document": "data-logging-stack",
+  "stack_id": "grafana-operator",
+  "type": "stack",
+  "categories": [
+    "Monitoring"
+  ],
+  "is_certified": true,
+  "has_support": true,
+  "has_dataset": false,
+  "has_api": false,
+  "git_url": "https://github.com/operator-playground-io/grafana-operator",
+  "git_commit": "16a571f2137569e6c9c03f63de5044e99202612a",
+  "installTime": "5 minutes",
+  "isStacksSaved": true
+},
+ {
   "title": "Crunchy Data PostgreSQL Operator",
   "description": "Crunchy Data PostgreSQL Operator",
   "logo": "_images/SalesStack.png",
