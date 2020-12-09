@@ -18,7 +18,7 @@
   "has_dataset": false,
   "has_api": false,
   "git_url": "https://github.com/operator-playground-io/elastic-cloud-operator.git",
-  "git_commit": "26290625fd62b1190a9c99eeec6d8149d59c659a",
+  "git_commit": "650909cc445c64114e320c4b078aa75e65a40dda",
   "installTime": "5 minutes",
   "isStacksSaved": true
 },
@@ -133,7 +133,7 @@
    "has_dataset": false,
    "has_api": false,
    "git_url": "https://github.com/aradhana14nov/MariaDB-Operator-Playground.git",
-   "git_commit": "1821ffa651273d4c50ad9d1f68b9c08a7ee755e6",
+   "git_commit": "56065618b9b6cd18e8f901f4c31e7bac67026422",
    "installTime": "5 minutes",
    "isStacksSaved": true
  },
