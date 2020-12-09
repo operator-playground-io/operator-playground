@@ -64,7 +64,7 @@
   "has_dataset": false,
   "has_api": false,
   "git_url": "https://github.com/operator-playground-io/prometheus-main",
-  "git_commit": "74e6544611eeffeaef5f793f93a075b6aa39839a",
+  "git_commit": "d0a9a78f4a810f647918267cbabb39bcef2f6690",
   "installTime": "5 minutes",
   "isStacksSaved": true
 },
@@ -87,7 +87,7 @@
   "has_dataset": false,
   "has_api": false,
   "git_url": "https://github.com/operator-playground-io/grafana-main",
-  "git_commit": "2a08fe5c15d311b752376528b42f4840438b92d2",
+  "git_commit": "b300e4e3ac12ff2c346725b2956a971e2f04c68f",
   "installTime": "5 minutes",
   "isStacksSaved": true
 },
