@@ -18,7 +18,7 @@
   "has_dataset": false,
   "has_api": false,
   "git_url": "https://github.com/operator-playground-io/elastic-cloud-operator.git",
-  "git_commit": "f598777ce3ddbaef674fcb94c95c4fb0376676e5",
+  "git_commit": "2117281b9c11e7017de215090844766e7a5d1a47",
   "installTime": "5 minutes",
   "isStacksSaved": true
 },
@@ -41,53 +41,7 @@
   "has_dataset": false,
   "has_api": false,
   "git_url": "https://github.com/operator-playground-io/etcd-operator.git",
-  "git_commit": "e7a66234e0404837865ba1114ada838a881e58d9",
-  "installTime": "5 minutes",
-  "isStacksSaved": true
-},
- {
-  "title": "Prometheus Operator",
-  "description": "Prometheus Operator",
-  "logo": "_images/SalesStack.png",
-  "enabled": true,
-  "category_label": [
-    "Operators"
-  ],
-  "document": "data-logging-stack",
-  "stack_id": "prometheus-operator",
-  "type": "stack",
-  "categories": [
-    "Monitoring"
-  ],
-  "is_certified": false,
-  "has_support": true,
-  "has_dataset": false,
-  "has_api": false,
-  "git_url": "https://github.com/operator-playground-io/prometheus-main",
-  "git_commit": "3dcaca11c55098fd54d3cbb7214510a05343398f",
-  "installTime": "5 minutes",
-  "isStacksSaved": true
-},
- {
-  "title": "Grafana Operator",
-  "description": "Grafana Operator",
-  "logo": "_images/SalesStack.png",
-  "enabled": true,
-  "category_label": [
-    "Operators"
-  ],
-  "document": "data-logging-stack",
-  "stack_id": "grafana-operator",
-  "type": "stack",
-  "categories": [
-    "Monitoring"
-  ],
-  "is_certified": false,
-  "has_support": true,
-  "has_dataset": false,
-  "has_api": false,
-  "git_url": "https://github.com/operator-playground-io/grafana-main",
-  "git_commit": "f44d64a664fe1b90a7e5572f3e906f6e43f05771",
+  "git_commit": "55a64c75908fbbebd3df53bdd57f60ddb6195019",
   "installTime": "5 minutes",
   "isStacksSaved": true
 },
@@ -114,29 +68,6 @@
   "installTime": "5 minutes",
   "isStacksSaved": true
 },
- {
-   "title": "MariaDB Operator",
-   "description": "MariaDB Operator",
-   "logo": "_images/SalesStack.png",
-   "enabled": true,
-   "category_label": [
-     "Operators"
-   ],
-   "document": "data-logging-stack",
-   "stack_id": "mariadb-operator",
-   "type": "stack",
-   "categories": [
-     "Database"
-   ],
-   "is_certified": false,
-   "has_support": true,
-   "has_dataset": false,
-   "has_api": false,
-   "git_url": "https://github.com/aradhana14nov/MariaDB-Operator-Playground.git",
-   "git_commit": "60bc62270a9eaa22dc964d18bb7cdc9a25455926",
-   "installTime": "5 minutes",
-   "isStacksSaved": true
- },
  {
   "title": "Employment Dataset",
   "description": "US Employment and Unemployment rates since 1940.",
