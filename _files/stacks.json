@@ -133,7 +133,7 @@
    "has_dataset": false,
    "has_api": false,
    "git_url": "https://github.com/aradhana14nov/MariaDB-Operator-Playground.git",
-   "git_commit": "56065618b9b6cd18e8f901f4c31e7bac67026422",
+   "git_commit": "fd3ca3e58ab8b0c3ddf3e49cd24614f59f15927f",
    "installTime": "5 minutes",
    "isStacksSaved": true
  },
