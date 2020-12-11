@@ -24,10 +24,10 @@
           "Operator Playground provides ready to use pre-configured Kubernetes environment for experimentation.<br><br>",
 "Bringing the promise of operators to Kubernetes and OpenShift to assemble your own stack.  Deploy in the cloud or your data center or local laptop with ready to use logic, api and data without burdening yourself with installation details. You can work as team or use your own project namespace."
       ],
-      "description":["<Home page description goes here>"],
-      "description_admin":["<admin description goes here>"],
-      "description_operator": ["<operator description goes here>"],
-      "description_dataset": ["<dataset description goes here>"],
+      "description":["Home page description goes here"],
+      "description_admin":["admin description goes here"],
+      "description_operator": ["operator description goes here"],
+      "description_dataset": ["dataset description goes here"],
       "banner":{
          "logo":"_images/Header.png",
          "logo_1":"_images/Header.png",
@@ -59,26 +59,26 @@
       ],
       "keyFeatures_admin":[
          {
-            "text":"<admin key feature 1>"
+            "text":"admin key feature 1"
          },
          {
-            "text":"<admin key feature 2>"
+            "text":"admin key feature 2"
          }
       ],
        "keyFeatures_operator":[
          {
-            "text":"<operator key feature 1>"
+            "text":"operator key feature 1"
          },
          {
-            "text":"<operator key feature 2>"
+            "text":"operator key feature 2"
          }
       ],
        "keyFeatures_dataset":[
          {
-            "text":"<dataset key feature 1>"
+            "text":"dataset key feature 1"
          },
          {
-            "text":"<dataset key feature 2>"
+            "text":"dataset key feature 2"
          }
       ],
       "howto_img":"_images/chart.png",
