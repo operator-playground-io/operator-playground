@@ -98,8 +98,7 @@
       ],
       "defaultVMDuration":"1",
       "stacks":"_files/stacks.json",
-      "stacks":"_files/stacks_admin.json",
-      "stacks":"_files/stacks_dataset.json",
+     
       "stacks_test":"_files/stacks_new.json",
       "appLayout":"accordion",
       "appTheme":"g90",
