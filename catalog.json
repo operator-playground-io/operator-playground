@@ -1,6 +1,6 @@
 {
    "id":"GbwBCWeO",
-   "title":"Operator Playground Home",
+   "title":"Kubernetes Playground Home",
    "owners":{
       "8J2FDdi":[
          "all"
@@ -18,12 +18,15 @@
       
    },
    "info":{
-      "headerTitle":"Operator Playground.io",
-      "title":"Welcome to Operator-Playground.io",
+      "headerTitle":"Kubernetes Playground.io",
+      "title":"Welcome to Kubernetes-Playground.io",
       "description":[
           "Operator Playground provides ready to use pre-configured Kubernetes environment for experimentation.<br><br>",
 "Bringing the promise of operators to Kubernetes and OpenShift to assemble your own stack.  Deploy in the cloud or your data center or local laptop with ready to use logic, api and data without burdening yourself with installation details. You can work as team or use your own project namespace."
       ],
+      "description_admin":["<admin description goes here>"],
+      "description_operator": ["<operator description goes here>"],
+      "description_dataset": ["<dataset description goes here>"],
       "banner":{
          "logo":"_images/Header.png",
          "logo_1":"_images/Header.png",
@@ -53,6 +56,30 @@
             "text":"Detailed instruction on: #-About the Operator #-Architecture #-How to deploy Operator (set of user instructions) #-An example that helps users to understand a use-case of application development with Operators."
          }
       ],
+      "keyFeatures_admin":[
+         {
+            "text":"<admin key feature 1>"
+         },
+         {
+            "text":"<admin key feature 2>"
+         }
+      ],
+       "keyFeatures_operator":[
+         {
+            "text":"<operator key feature 1>"
+         },
+         {
+            "text":"<operator key feature 2>"
+         }
+      ],
+       "keyFeatures_dataset":[
+         {
+            "text":"<dataset key feature 1>"
+         },
+         {
+            "text":"<dataset key feature 2>"
+         }
+      ],
       "howto_img":"_images/chart.png",
       "postLogin_title":"Free sponsered trial environments on IBM Cloud",
       "postLogin_description":[
@@ -71,6 +98,8 @@
       ],
       "defaultVMDuration":"1",
       "stacks":"_files/stacks.json",
+      "stacks":"_files/stacks_admin.json",
+      "stacks":"_files/stacks_dataset.json",
       "stacks_test":"_files/stacks_new.json",
       "appLayout":"accordion",
       "appTheme":"g90",
