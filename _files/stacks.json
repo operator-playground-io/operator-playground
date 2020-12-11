@@ -218,6 +218,32 @@
   "git_commit": "b6cd1b0aef5c2fcb8d95dd43cce5c81418fd77df",
   "installTime": "3 minutes",
   "isStacksSaved": true
+},
+ {
+  "title": "Cash Surplus Deficit Dataset",
+  "description": "Cash Surplus/Deficit (% of GDP), from 1990 to 2013.",
+  "logo": "_images/dataset.png",
+  "enabled": true,
+  "category_label": [
+    "Datasets"
+  ],
+  "document": "data-logging-stack",
+  "stack_id": "cash_surplus_deficit_dataset",
+  "type": "dataset",
+  "categories": [
+    "Economy"
+  ],
+  "tag": [
+    "CSV"
+  ],
+  "has_dataset": true,
+  "has_api": false,
+  "is_certified": false,
+  "has_support": false,
+  "git_url": "https://github.com/datasets/cash-surplus-deficit",
+  "git_commit": "3393357d8ec3a5ad5981ead391b6b740a0fbb810",
+  "installTime": "2 minutes",
+  "isStacksSaved": true
 }
 
 ]
