@@ -20,10 +20,11 @@
    "info":{
       "headerTitle":"Kubernetes Playground.io",
       "title":"Welcome to Kubernetes-Playground.io",
-      "description":[
+      "description_back":[
           "Operator Playground provides ready to use pre-configured Kubernetes environment for experimentation.<br><br>",
 "Bringing the promise of operators to Kubernetes and OpenShift to assemble your own stack.  Deploy in the cloud or your data center or local laptop with ready to use logic, api and data without burdening yourself with installation details. You can work as team or use your own project namespace."
       ],
+      "description":["<Home page description goes here>"],
       "description_admin":["<admin description goes here>"],
       "description_operator": ["<operator description goes here>"],
       "description_dataset": ["<dataset description goes here>"],
