@@ -19,7 +19,7 @@
    },
    "info":{
       "headerTitle":"Kubernetes Playground.io",
-      "logo":"_images/KP_logo.png"
+      "logo":"_images/KP_logo.png",
       "title":"Welcome to Kubernetes-Playground.io",
       "description":[
           "Operator Playground provides ready to use pre-configured Kubernetes environment for experimentation.<br><br>",
