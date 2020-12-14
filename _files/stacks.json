@@ -241,7 +241,7 @@
   "is_certified": false,
   "has_support": false,
   "git_url": "https://github.com/datasets/cash-surplus-deficit",
-  "git_commit": "9e2ea53bcf6a91c6ad682f171027e78bfd619912",
+  "git_commit": "d65f135c37322fb273e4e226c79a1c7cb93d9066",
   "installTime": "2 minutes",
   "isStacksSaved": true
 }
