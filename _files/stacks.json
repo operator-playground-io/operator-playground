@@ -41,7 +41,7 @@
   "has_dataset": false,
   "has_api": false,
   "git_url": "https://github.com/operator-playground-io/etcd-operator.git",
-  "git_commit": "58e03fee86a8f05ae48049e5c001422c4a3af4ca",
+  "git_commit": "5f6689f4ffcb67bb244676eb1a2570cb0ca4b52a",
   "installTime": "5 minutes",
   "isStacksSaved": true
 },
@@ -64,7 +64,7 @@
   "has_dataset": false,
   "has_api": false,
   "git_url": "https://github.com/operator-playground-io/crunchy-postgres.git",
-  "git_commit": "03db7b82faa945f15d9d4daf0a5640d76d32ba04",
+  "git_commit": "2de9181f480e8e92935eaf139a3e896653e1f2c1",
   "installTime": "5 minutes",
   "isStacksSaved": true
 },
@@ -90,7 +90,7 @@
   "is_certified": false,
   "has_support": false,
   "git_url": "https://github.com/operator-playground-io/employment-dataset.git",
-  "git_commit": "1ce09f4bebaf598c69f21eb9341d94f2b2233ed2",
+  "git_commit": "87da8fc87690d1108f17871bcdacbf15837250df",
   "installTime": "2 minutes",
   "isStacksSaved": true
 },
