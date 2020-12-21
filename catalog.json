@@ -22,11 +22,11 @@
       "logo":"_images/KP_logo.png",
       "title":"Welcome to Kubernetes-Playground.io",
       "description":[
-         "Operator Playground provides ready to use pre-configured Kubernetes environment for experimentation.<br><br>",
-         "Bringing the promise of operators to Kubernetes and OpenShift to assemble your own stack.  Deploy in the cloud or your data center or local laptop with ready to use logic, api and data without burdening yourself with installation details. You can work as team or use your own project namespace."
+         "Our Kubernetes Playgrounds provide a pre-configured easy to explore environment with step-by-step guide to assist you in gaining familiarity with Opensource technologies built around it. These skills help you stay competitive in your current job as well as in future ones.<br><br>",
+         "A good grasp on the basic container technologies are needed, whether you are an administrator, programmer or data scientist."
       ],
       "description_admin":[
-         "admin description goes here"
+         "Admin Playground - Explore Kubernetes basics, Create and Manage Kubernetes deployments, Scaling etc. A good grasp on basic container management and devops in Kubernetes is a must whether you are an administrator or programmer."
       ],
       "description_operator":[
          "operator description goes here"
