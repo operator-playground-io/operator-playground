@@ -246,25 +246,25 @@
   "isStacksSaved": true
 },
  {
-    "title": "Helm",
-    "description": "Helm",
+    "title": "Kafka",
+    "description": "Kafka",
     "logo": "_images/SalesStack.png",
     "enabled": true,
     "category_label": [
       "Helm"
-    ],
+    ], 
     "document": "",
     "stack_id": "kafka-bitnami-chart",
     "type": "Helm",
     "categories": [
-      "Helm-chart"
+      "Streaming & Messaging"
     ],
     "is_certified": true,
     "has_support": true,
     "has_dataset": false,
     "has_api": false,
     "git_url": "https://github.com/operator-playground-io/Kafka-chart.git",
-    "git_commit": "e58ee163fdedc800e7fbc49b1bf27d4e7de48c7b",
+    "git_commit": "bbc8b0c3fad997c47e5b65c276b53eef27db5c95",
     "installTime": "5 minutes",
     "isStacksSaved": true
   }
