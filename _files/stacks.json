@@ -287,7 +287,7 @@
     "has_dataset": false,
     "has_api": false,
     "git_url": "https://github.com/operator-playground-io/Docker.git",
-    "git_commit": "47659c225ab6a8fa1f9e6350cc09ab6191191c16",
+    "git_commit": "fb9546f8293b204370b6b77f9e5e5b7825fe1556",
     "installTime": "",
     "isStacksSaved": true
   }
