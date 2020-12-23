@@ -246,6 +246,29 @@
   "isStacksSaved": true
 },
  {
+  "title": "Grafana Operator",
+  "description": "Grafana Operator",
+  "logo": "_images/SalesStack.png",
+  "enabled": true,
+  "category_label": [
+    "Operators"
+  ],
+  "document": "data-logging-stack",
+  "stack_id": "grafana-operator",
+  "type": "stack",
+  "categories": [
+    "Monitoring"
+  ],
+  "is_certified": true,
+  "has_support": true,
+  "has_dataset": false,
+  "has_api": false,
+  "git_url": "https://github.com/operator-playground-io/Grafana-Operator-Playground-tile.git",
+  "git_commit": "6aef07f42aef698324e06f8086631fda03f525d3",
+  "installTime": "5 minutes",
+  "isStacksSaved": true
+},
+ {
     "title": "Kafka",
     "description": "Kafka",
     "logo": "_images/SalesStack.png",
