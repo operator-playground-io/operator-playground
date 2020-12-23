@@ -108,17 +108,17 @@
       "admin_stacks":"_files/admin_stacks.json",
       "poolDetails":{
         "developer": {
-            poolId:"k8s-ibm",
-            onDemand: false
+            "poolId":"k8s-ibm",
+            "onDemand": false
          },
         "data-scientist": {
-            poolId:"data-explorer-ibm",
-            onDemand: true,
-            onDemandPoolId: "data-explorer-ondemand-ibm"
+            "poolId":"data-explorer-ibm",
+            "onDemand": true,
+            "onDemandPoolId": "data-explorer-ondemand-ibm"
          },
         "admin": {
-            poolId:"k8s-ibm",
-            onDemand: false
+            "poolId":"k8s-ibm",
+            "onDemand": false
          }
       },
       "appLayout":"accordion",
