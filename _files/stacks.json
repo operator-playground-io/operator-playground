@@ -269,7 +269,7 @@
     "isStacksSaved": true
   },
  {
-    "title": "Docker",
+    "title": "Learn Docker",
     "description": "Docker",
     "logo": "_images/SalesStack.png",
     "enabled": true,
@@ -287,7 +287,7 @@
     "has_dataset": false,
     "has_api": false,
     "git_url": "https://github.com/operator-playground-io/Docker.git",
-    "git_commit": "5b12bed5090943f61d1c982275074b1604c66a26",
+    "git_commit": "47659c225ab6a8fa1f9e6350cc09ab6191191c16",
     "installTime": "",
     "isStacksSaved": true
   }
