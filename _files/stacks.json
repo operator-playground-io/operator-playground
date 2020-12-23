@@ -269,6 +269,29 @@
   "isStacksSaved": true
 },
  {
+  "title": "Prometheus Operator",
+  "description": "Prometheus Operator",
+  "logo": "_images/SalesStack.png",
+  "enabled": true,
+  "category_label": [
+    "Operators"
+  ],
+  "document": "data-logging-stack",
+  "stack_id": "prometheus-operator",
+  "type": "stack",
+  "categories": [
+    "Monitoring"
+  ],
+  "is_certified": true,
+  "has_support": true,
+  "has_dataset": false,
+  "has_api": false,
+  "git_url": "https://github.com/operator-playground-io/Prometheus-Operator-Playground-tile.git",
+  "git_commit": "0a6683a669c6f8ad22fe754d6b200747d5f2bc88",
+  "installTime": "5 minutes",
+  "isStacksSaved": true
+},
+ {
     "title": "Kafka",
     "description": "Kafka",
     "logo": "_images/SalesStack.png",
