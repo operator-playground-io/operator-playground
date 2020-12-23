@@ -107,6 +107,7 @@
       "stacks":"_files/stacks.json",
       "admin_stacks":"_files/admin_stacks.json",
       "poolDetails":{
+        "buttonText": "Get VM",
         "developer": {
             "poolId":"k8s-ibm",
             "onDemand": false
