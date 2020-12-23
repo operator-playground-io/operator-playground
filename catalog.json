@@ -106,24 +106,21 @@
       "defaultVMDuration":"1",
       "stacks":"_files/stacks.json",
       "admin_stacks":"_files/admin_stacks.json",
-      "pool":[
-         {
-         userType: "developer",
-         poolId:"k8s-ibm",
-         onDemand: false
+      "poolDetails":{
+        "developer": {
+            poolId:"k8s-ibm",
+            onDemand: false
          },
-         {
-         userType: "data-scientist",  
-         poolId:"data-explorer-ibm",
-         onDemand: true,
-         onDemandPoolId: "data-explorer-ondemand-ibm"
+        "data-scientist": {
+            poolId:"data-explorer-ibm",
+            onDemand: true,
+            onDemandPoolId: "data-explorer-ondemand-ibm"
          },
-         {
-         userType: "developer",  
-         poolId:"k8s-ibm",
-         onDemand: false
+        "admin": {
+            poolId:"k8s-ibm",
+            onDemand: false
          }
-      ],
+      },
       "appLayout":"accordion",
       "appTheme":"g90",
       "footer":"__private/footer.md",
