@@ -333,7 +333,7 @@
     "has_dataset": false,
     "has_api": false,
     "git_url": "https://github.com/operator-playground-io/Kafka-chart.git",
-    "git_commit": "63c238f6dc2f53475efb0a0e0cc655f7e719b99d",
+    "git_commit": "ac91958b81c9f356dca58f93bba0d46ad8d2d638",
     "installTime": "5 minutes",
     "isStacksSaved": true
   },
