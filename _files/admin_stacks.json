@@ -21,5 +21,144 @@
   "git_commit": "9d7ba6bb7d7e9d6c28eddeedb1ee51dc24060078",
   "installTime": "5 minutes",
   "isStacksSaved": true
-}
+},
+ {
+  "title": "Grafana Operator",
+  "description": "Grafana Operator",
+  "logo": "_images/SalesStack.png",
+  "enabled": true,
+  "category_label": [
+    "Operators"
+  ],
+  "document": "data-logging-stack",
+  "stack_id": "grafana-operator",
+  "type": "stack",
+  "categories": [
+    "Monitoring"
+  ],
+  "is_certified": true,
+  "has_support": true,
+  "has_dataset": false,
+  "has_api": false,
+  "git_url": "https://github.com/operator-playground-io/Grafana-Operator-Playground-tile.git",
+  "git_commit": "3b827f8388bfb9505d18f178eea0843c0539d3e7",
+  "installTime": "5 minutes",
+  "isStacksSaved": true
+},
+ {
+  "title": "Prometheus Operator",
+  "description": "Prometheus Operator",
+  "logo": "_images/SalesStack.png",
+  "enabled": true,
+  "category_label": [
+    "Operators"
+  ],
+  "document": "data-logging-stack",
+  "stack_id": "prometheus-operator",
+  "type": "stack",
+  "categories": [
+    "Monitoring"
+  ],
+  "is_certified": true,
+  "has_support": true,
+  "has_dataset": false,
+  "has_api": false,
+  "git_url": "https://github.com/operator-playground-io/Prometheus-Operator-Playground-tile.git",
+  "git_commit": "0008a35443738c256c6de992e13df04569f7f12d",
+  "installTime": "5 minutes",
+  "isStacksSaved": true
+},
+ {
+   "title": "MariaDB Operator",
+   "description": "MariaDB Operator",
+   "logo": "_images/SalesStack.png",
+   "enabled": true,
+   "category_label": [
+     "Operators"
+   ],
+   "document": "data-logging-stack",
+   "stack_id": "mariadb-operator",
+   "type": "stack",
+   "categories": [
+     "Database"
+   ],
+   "is_certified": true,
+   "has_support": true,
+   "has_dataset": false,
+   "has_api": false,
+   "git_url": "https://github.com/operator-playground-io/MariaDB-Operator-Playground-tile.git",
+   "git_commit": "58970154c16639c090960000f747030d23acf3c7",
+   "installTime": "5 minutes",
+   "isStacksSaved": true
+ },
+ 
+ {
+    "title": "Kafka",
+    "description": "Kafka",
+    "logo": "_images/SalesStack.png",
+    "enabled": true,
+    "category_label": [
+      "Helm"
+    ], 
+    "document": "",
+    "stack_id": "kafka-bitnami-chart",
+    "type": "Helm",
+    "categories": [
+      "Streaming & Messaging"
+    ],
+    "is_certified": true,
+    "has_support": true,
+    "has_dataset": false,
+    "has_api": false,
+    "git_url": "https://github.com/operator-playground-io/Kafka-chart.git",
+    "git_commit": "ac91958b81c9f356dca58f93bba0d46ad8d2d638",
+    "installTime": "5 minutes",
+    "isStacksSaved": true
+  },
+  {
+    "title": "Learn Docker",
+    "description": "Docker",
+    "logo": "_images/SalesStack.png",
+    "enabled": true,
+    "category_label": [
+      "Course"
+    ], 
+    "document": "",
+    "stack_id": "docker-course",
+    "type": "Course",
+    "categories": [
+      "Containerization"
+    ],
+    "is_certified": true,
+    "has_support": true,
+    "has_dataset": false,
+    "has_api": false,
+    "git_url": "https://github.com/operator-playground-io/Docker-tile.git",
+    "git_commit": "c628d4874d2aba4802556298928adf767b60b25c",
+    "installTime": "",
+    "isStacksSaved": true
+  },
+  {
+    "title": "Learn Kubernetes",
+    "description": "Kubernetes",
+    "logo": "_images/SalesStack.png",
+    "enabled": true,
+    "category_label": [
+      "Course"
+    ], 
+    "document": "",
+    "stack_id": "kubernetes-course",
+    "type": "Course",
+    "categories": [
+      "Orchestration"
+    ],
+    "is_certified": true,
+    "has_support": true,
+    "has_dataset": false,
+    "has_api": false,
+    "git_url": "https://github.com/operator-playground-io/Kubernetes-tile.git",
+    "git_commit": "8d95a7559cc6c1ca6aef38fdec46396607cef82f",
+    "installTime": "",
+    "isStacksSaved": true
+  }
 ]
