@@ -87,7 +87,7 @@
   "has_dataset": false,
   "has_api": false,
   "git_url": "https://github.com/operator-playground-io/elastic-cloud-operator.git",
-  "git_commit": "9d7ba6bb7d7e9d6c28eddeedb1ee51dc24060078",
+  "git_commit": "2185452f0ffb1e9db451525667aef3dee1b97168",
   "installTime": "5 minutes",
   "isStacksSaved": true
 },
@@ -110,7 +110,7 @@
   "has_dataset": false,
   "has_api": false,
   "git_url": "https://github.com/operator-playground-io/etcd-operator.git",
-  "git_commit": "5f6689f4ffcb67bb244676eb1a2570cb0ca4b52a",
+  "git_commit": "da1a05b8d3b5e61aafdc75f78bf733dbb3e93d52",
   "installTime": "5 minutes",
   "isStacksSaved": true
 },
