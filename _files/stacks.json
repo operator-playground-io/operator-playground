@@ -356,7 +356,7 @@
     "has_dataset": false,
     "has_api": false,
     "git_url": "https://github.com/operator-playground-io/Docker-tile.git",
-    "git_commit": "3ee5793c6c2e85c77c21039907df4e02a767f282",
+    "git_commit": "c628d4874d2aba4802556298928adf767b60b25c",
     "installTime": "",
     "isStacksSaved": true
   },
@@ -379,7 +379,7 @@
     "has_dataset": false,
     "has_api": false,
     "git_url": "https://github.com/operator-playground-io/Kubernetes-tile.git",
-    "git_commit": "c628d4874d2aba4802556298928adf767b60b25c",
+    "git_commit": "8d95a7559cc6c1ca6aef38fdec46396607cef82f",
     "installTime": "",
     "isStacksSaved": true
   }
