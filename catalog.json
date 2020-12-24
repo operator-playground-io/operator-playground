@@ -113,9 +113,8 @@
             "onDemand": false
          },
         "data-scientist": {
-            "poolId":"data-explorer-ibm",
-            "onDemand": true,
-            "onDemandPoolId": "data-explorer-ondemand-ibm"
+            "poolId":"data-explorer-ondemand-ibm",
+            "onDemand": true
          },
         "admin": {
             "poolId":"k8s-ibm",
