@@ -379,7 +379,7 @@
     "has_dataset": false,
     "has_api": false,
     "git_url": "https://github.com/operator-playground-io/Kubernetes-tile.git",
-    "git_commit": "d3d239f4dd92fefd7e2b255f2660b2035a9f1ed6",
+    "git_commit": "283edfa6938125eed0bfe48e7b681e0347ce1d1e",
     "installTime": "",
     "isStacksSaved": true
   }
