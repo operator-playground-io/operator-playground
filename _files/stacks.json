@@ -337,7 +337,7 @@
     "installTime": "5 minutes",
     "isStacksSaved": true
   },
- {
+  {
     "title": "Learn Docker",
     "description": "Docker",
     "logo": "_images/SalesStack.png",
@@ -360,7 +360,7 @@
     "installTime": "",
     "isStacksSaved": true
   },
- {
+  {
     "title": "Learn Kubernetes",
     "description": "Kubernetes",
     "logo": "_images/SalesStack.png",
