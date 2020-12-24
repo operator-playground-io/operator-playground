@@ -355,8 +355,8 @@
     "has_support": true,
     "has_dataset": false,
     "has_api": false,
-    "git_url": "https://github.com/operator-playground-io/Docker.git",
-    "git_commit": "8bc452c5828779508f85e565758401db43062b8b",
+    "git_url": "https://github.com/operator-playground-io/Docker-tile.git",
+    "git_commit": "ca900eebeb4a934538cddc0653e53d48409fc0dc",
     "installTime": "",
     "isStacksSaved": true
   }
