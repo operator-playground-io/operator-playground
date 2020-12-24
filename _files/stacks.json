@@ -336,52 +336,6 @@
     "git_commit": "ac91958b81c9f356dca58f93bba0d46ad8d2d638",
     "installTime": "5 minutes",
     "isStacksSaved": true
-  },
-  {
-    "title": "Learn Docker",
-    "description": "Docker",
-    "logo": "_images/SalesStack.png",
-    "enabled": true,
-    "category_label": [
-      "Course"
-    ], 
-    "document": "",
-    "stack_id": "docker-course",
-    "type": "Course",
-    "categories": [
-      "Containerization"
-    ],
-    "is_certified": true,
-    "has_support": true,
-    "has_dataset": false,
-    "has_api": false,
-    "git_url": "https://github.com/operator-playground-io/Docker-tile.git",
-    "git_commit": "c628d4874d2aba4802556298928adf767b60b25c",
-    "installTime": "",
-    "isStacksSaved": true
-  },
-  {
-    "title": "Learn Kubernetes",
-    "description": "Kubernetes",
-    "logo": "_images/SalesStack.png",
-    "enabled": true,
-    "category_label": [
-      "Course"
-    ], 
-    "document": "",
-    "stack_id": "kubernetes-course",
-    "type": "Course",
-    "categories": [
-      "Orchestration"
-    ],
-    "is_certified": true,
-    "has_support": true,
-    "has_dataset": false,
-    "has_api": false,
-    "git_url": "https://github.com/operator-playground-io/Kubernetes-tile.git",
-    "git_commit": "8d95a7559cc6c1ca6aef38fdec46396607cef82f",
-    "installTime": "",
-    "isStacksSaved": true
   }
 
 ]
