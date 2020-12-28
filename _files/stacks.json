@@ -317,7 +317,7 @@
  {
     "title": "Kafka",
     "description": "Kafka",
-    "logo": "_images/SalesStack.png",
+    "logo": "_images/Custom.png",
     "enabled": true,
     "category_label": [
       "Helm"
@@ -333,7 +333,7 @@
     "has_dataset": false,
     "has_api": false,
     "git_url": "https://github.com/operator-playground-io/Kafka-chart.git",
-    "git_commit": "eaf2eca5e8c2f7da58f0bdfc13a3656b7d58ba2f",
+    "git_commit": "d5fdd08fa7b42307684392445fefc9dee56e37cb",
     "installTime": "5 minutes",
     "isStacksSaved": true
   }
