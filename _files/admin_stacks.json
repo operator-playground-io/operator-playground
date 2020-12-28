@@ -134,8 +134,8 @@
     "has_dataset": false,
     "has_api": false,
     "git_url": "https://github.com/operator-playground-io/Docker-tile.git",
-    "git_commit": "c628d4874d2aba4802556298928adf767b60b25c",
-    "installTime": "",
+    "git_commit": "ce35bfece40232f4fcf04db81a48dfb99d7f59ff",
+    "courseDuration": "1 hour",
     "isStacksSaved": true
   },
   {
