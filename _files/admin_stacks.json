@@ -1,28 +1,5 @@
 [
  {
-  "title": "Elastic Cloud Operator",
-  "description": "Elastic Cloud Operator",
-  "logo": "_images/SalesStack.png",
-  "enabled": true,
-  "category_label": [
-    "Operators"
-  ],
-  "document": "data-logging-stack",
-  "stack_id": "elastic-cloud-operator",
-  "type": "stack",
-  "categories": [
-    "Database"
-  ],
-  "is_certified": false,
-  "has_support": true,
-  "has_dataset": false,
-  "has_api": false,
-  "git_url": "https://github.com/operator-playground-io/elastic-cloud-operator.git",
-  "git_commit": "2185452f0ffb1e9db451525667aef3dee1b97168",
-  "installTime": "5 minutes",
-  "isStacksSaved": true
-},
- {
   "title": "Grafana Operator",
   "description": "Grafana Operator",
   "logo": "_images/SalesStack.png",
