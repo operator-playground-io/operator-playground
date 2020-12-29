@@ -136,5 +136,28 @@
     "git_commit": "5a7b647c4d941ce596feb057f4e3f19e18e0b2f2",
     "courseDuration": "30 minutes",
     "isStacksSaved": true
+  },
+ {
+    "title": "Learn Git",
+    "description": "Git",
+    "logo": "_images/SalesStack.png",
+    "enabled": true,
+    "category_label": [
+      "Course"
+    ], 
+    "document": "",
+    "stack_id": "git-course",
+    "type": "Course",
+    "categories": [
+      "Version control tool"
+    ],
+    "is_certified": true,
+    "has_support": true,
+    "has_dataset": false,
+    "has_api": false,
+    "git_url": "https://github.com/operator-playground-io/git-course-tile.git",
+    "git_commit": "32ae99e14772ac73b62a353cb1c85cefae74d891",
+    "courseDuration": "30 minutes",
+    "isStacksSaved": true
   }
 ]
