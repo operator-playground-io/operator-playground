@@ -347,11 +347,14 @@
     "Operator"
   ],
   "tag": [],
-  "stack_id": "Grafana_Operator_operator_1609309826387",
+  "stack_id": "Grafana_Operator-operator_1609309826387",
   "categories": [
     "Monitoring"
   ],
-   "is_certified": true,
+  "is_certified": true,
+  "has_support": true,
+  "has_dataset": false,
+  "has_api": false,
   "git_url": "https://github.com/operator-playground-io/test-Operator-tile.git",
   "git_commit": "e647af08b81141baa3bcbc2826f9debdbc2bdbde",
   "installTime": "5 minutes"
