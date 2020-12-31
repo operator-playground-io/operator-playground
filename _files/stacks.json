@@ -353,7 +353,6 @@
   ],
    "is_certified": true,
   "has_support": true,
-  "has_dataset": false,
   "git_url": "https://github.com/operator-playground-io/test-Operator-tile.git",
   "git_commit": "e647af08b81141baa3bcbc2826f9debdbc2bdbde",
   "installTime": "5 minutes"
