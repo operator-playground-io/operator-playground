@@ -360,6 +360,30 @@
   "git_url": "https://github.com/operator-playground-io/test-Operator-tile.git",
   "git_commit": "f3f093eab5cf7f1dfbedc6c5c963ba7a49f71083",
   "installTime": "2 minutes"
- }
+ },
+ {
+  "title": "test-API-tile",
+  "description": "API-tile",
+  "logo": "_images/git_logo.png",
+  "enabled": true,
+  "category_label": [
+    "API"
+  ],
+  "document": "",
+  "stack_id": "test-API-tile-api_1609504316093",
+  "de_catalog_id": "test-API-tile-api_1609504316093",
+  "type": "API",
+  "categories": [
+    "Public API"
+  ],
+  "tag": [],
+  "has_api": true,
+  "has_dataset": true,
+  "is_certified": false,
+  "has_support": false,
+  "git_url": "https://github.com/operator-playground-io/test-API-tile.git",
+  "git_commit": "2563dca681b457bc8bbea47c226c182377b6f1e7",
+  "installTime": "5 minutes"
+}
 
 ]
