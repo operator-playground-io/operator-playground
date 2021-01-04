@@ -68,7 +68,7 @@
       },
       "keyFeatures":[
          {
-            "text":"Operator Playground leverages the power of Kubernetes / Openshift operators."
+            "text":"Operator Playground leverages the power of Kubernetes operators / Helm charts."
          },
          {
             "text":"Users can try the Operators and their provided examples to explore and understand the operators."
@@ -80,7 +80,7 @@
             "text":"Supported User Guide for Operators for ease of use."
          },
          {
-            "text":"Collection of Swagger APIs for use on Operator Playground."
+            "text":"Collection of Swagger APIs for use on Developer Playground."
          },
          {
             "text":"Rich set of Datasets of type S3 and CSV for use."
