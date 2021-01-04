@@ -25,12 +25,15 @@
          "Our Kubernetes Playgrounds provide a pre-configured easy to explore environment with step-by-step guide to assist you in gaining familiarity with Opensource technologies built around it. These skills help you stay competitive in your current job as well as in future ones.<br><br>",
          "A good grasp on the basic container technologies are needed, whether you are an administrator, programmer or data scientist."
       ],
+      "title_admin": "Admin Playground",
       "description_admin":[
          "Admin Playground - Explore Kubernetes basics, Create and Manage Kubernetes deployments, Scaling etc. A good grasp on basic container management and devops in Kubernetes is a must whether you are an administrator or programmer."
       ],
+      "title_operator": "Developer Playground",
       "description_operator":[
          "operator description goes here"
       ],
+      "title_dataset": "Data Scientist Playground",
       "description_dataset":[
          "Data Science Playground provides ready to use pre-configured data science environment for experimentation.Bringing the promise of notebooks to Kubernetes and OpenShift as an Operator pattern. Deploy in the cloud or your data center or local laptop with ready to use data and notebooks without burdening yourself with installation details. You can work as team or use your own project namespace."
       ],
