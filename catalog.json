@@ -68,7 +68,7 @@
       },
       "keyFeatures":[
          {
-            "text":"Operator Playground leverages the power of Kubernetes operators / Helm charts."
+            "text":"Kubernetes Playground leverages the power of Kubernetes operators / Helm charts."
          },
          {
             "text":"Users can try the Operators and their provided examples to explore and understand the operators."
