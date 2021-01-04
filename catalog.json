@@ -37,18 +37,21 @@
       "login":[
          {
             "type": "ibm",
+            "title": "IBM SSO",
             "cookie_name": "edgesso",
             "redirect_url": "https://labs.developer.ibm.com/labs/learn.html?redirect=",
             "logo": "_images/ibm_login.png"
          },
          {
             "type": "github",
+            "title": "Github",
             "cookie_name": "ghsso",
             "redirect_url": "https://labs.developer.ibm.com/edge/oauth/authorize?redirect=",
             "logo": "_images/github_login.png"
          },
          {
             "type": "google",
+            "title": "Google",
             "cookie_name": "gsso",
             "redirect_url": "",
             "logo": "_images/google_login.png"
