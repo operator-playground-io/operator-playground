@@ -409,6 +409,30 @@
   "git_url": "https://github.com/operator-playground-io/operator-tile-test.git",
   "git_commit": "9e4eac1e842de7a2be84faee7f9d38c61782fd9c",
   "installTime": "5 minutes"
+},
+ {
+  "title": "Weather API Test",
+  "description": "Weather API with historical weather and 15-day forecast data",
+  "logo": "_images/whale.png",
+  "enabled": true,
+  "category_label": [
+    "API"
+  ],
+  "document": "",
+  "stack_id": "Weather_API_Test-api_1609759419696",
+  "de_catalog_id": "Weather_API_Test-api_1609759419696",
+  "type": "API",
+  "categories": [
+    "Public API"
+  ],
+  "tag": [],
+  "has_api": true,
+  "has_dataset": false,
+  "is_certified": false,
+  "has_support": false,
+  "git_url": "https://github.com/operator-playground-io/weather-test-api-tile",
+  "git_commit": "0901a93ad9d8d6e6cefec2d6d5a5a78490cfb51e",
+  "installTime": "3 minutes"
 }
 
 ]
