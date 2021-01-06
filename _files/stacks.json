@@ -433,6 +433,29 @@
   "git_url": "https://github.com/operator-playground-io/weather-test-api-tile",
   "git_commit": "0901a93ad9d8d6e6cefec2d6d5a5a78490cfb51e",
   "installTime": "3 minutes"
+},
+ {
+  "title": "Redis",
+  "description": "Redis",
+  "logo": "_images/logo.jpg",
+  "enabled": true,
+  "category_label": [
+    "Helm"
+  ],
+  "document": "data-logging-stack",
+  "stack_id": "redis-bitnami-chart",
+  "type": "Helm",
+  "categories": [
+    "Database"
+  ],
+  "is_certified": true,
+  "has_support": true,
+  "has_dataset": false,
+  "has_api": false,
+  "git_url": "https://github.com/operator-playground-io/redis-chart-tile.git",
+  "git_commit": "a58a3e0eaedbade085dd03ebf2687921a098c0fb",
+  "installTime": "5 minutes",
+  "isStacksSaved": true
 }
 
 ]
