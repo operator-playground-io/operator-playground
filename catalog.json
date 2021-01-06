@@ -129,7 +129,7 @@
             "enabled":true
          }
       ],
-      "defaultVMDuration":"1",
+      "defaultVMDuration":"3",
       "stacks":"_files/stacks.json",
       "admin_stacks":"_files/admin_stacks.json",
       "poolDetails":{
