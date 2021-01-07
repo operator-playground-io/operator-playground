@@ -453,7 +453,7 @@
   "has_dataset": false,
   "has_api": false,
   "git_url": "https://github.com/operator-playground-io/redis-chart-tile.git",
-  "git_commit": "7ef8538e735303f39a59ea7aa3ad7439eeb0aba6",
+  "git_commit": "68d475b46a94bb00bacfece202be6ee2cea22b14",
   "installTime": "5 minutes",
   "isStacksSaved": true
 }
