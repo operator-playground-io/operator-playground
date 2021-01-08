@@ -437,7 +437,7 @@
  {
   "title": "Redis",
   "description": "Redis",
-  "logo": "_images/logo-redis.jpg",
+  "logo": "_images/redis-logo-small.png",
   "enabled": true,
   "category_label": [
     "Helm"
