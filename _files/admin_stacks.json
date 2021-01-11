@@ -69,7 +69,7 @@
    "isStacksSaved": true
  },
  {
-    "title": "Kafka",
+    "title": "Kafka Helm Chart",
     "description": "Kafka",
     "logo": "_images/Custom.png",
     "enabled": true,
@@ -91,6 +91,52 @@
     "installTime": "5 minutes",
     "isStacksSaved": true
   },
+ {
+  "title": "Redis Helm Chart",
+  "description": "Redis",
+  "logo": "_images/redis-logo-small.png",
+  "enabled": true,
+  "category_label": [
+    "Helm"
+  ],
+  "document": "data-logging-stack",
+  "stack_id": "redis-bitnami-chart",
+  "type": "Helm",
+  "categories": [
+    "Database"
+  ],
+  "is_certified": true,
+  "has_support": true,
+  "has_dataset": false,
+  "has_api": false,
+  "git_url": "https://github.com/operator-playground-io/redis-chart-tile.git",
+  "git_commit": "faeb06293f0a116a9393bd1135bbd44f9e384e96",
+  "installTime": "5 minutes",
+  "isStacksSaved": true
+},
+ {
+  "title": "WordPress Helm Chart",
+  "description": "WordPress Helm Chart",
+  "logo": "_images/SalesStack.png",
+  "enabled": true,
+  "category_label": [
+    "Helm"
+  ],
+  "document": "data-logging-stack",
+  "stack_id": "wordpress",
+  "type": "stack",
+  "categories": [
+    "CMS"
+  ],
+  "is_certified": true,
+  "has_support": true,
+  "has_dataset": false,
+  "has_api": false,
+  "git_url": "https://github.com/operator-playground-io/WordPress-Helm-Chart-tile.git",
+  "git_commit": "ab706f8447ccf7014263f5f8607525cd80981dda",
+  "installTime": "5 minutes",
+  "isStacksSaved": true
+},
   {
     "title": "Learn Docker",
     "description": "Docker",
