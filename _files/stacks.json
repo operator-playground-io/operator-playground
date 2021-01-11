@@ -23,7 +23,7 @@
   },
  {
   "title": "Redis Helm Chart",
-  "description": "Redis",
+  "description": "Redis Helm Chart",
   "logo": "_images/redis-logo-small.png",
   "enabled": true,
   "category_label": [
@@ -40,7 +40,7 @@
   "has_dataset": false,
   "has_api": false,
   "git_url": "https://github.com/operator-playground-io/redis-chart-tile.git",
-  "git_commit": "faeb06293f0a116a9393bd1135bbd44f9e384e96",
+  "git_commit": "fcfdbe449e05c65a206af48866682f96691cd390",
   "installTime": "5 minutes",
   "isStacksSaved": true
 },
