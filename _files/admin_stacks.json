@@ -2,7 +2,7 @@
  {
   "title": "Grafana Operator",
   "description": "Grafana Operator",
-  "logo": "_images/SalesStack.png",
+  "logo": "_images/grafana-logo-2.png",
   "enabled": true,
   "category_label": [
     "Operators"
@@ -25,7 +25,7 @@
  {
   "title": "Prometheus Operator",
   "description": "Prometheus Operator",
-  "logo": "_images/SalesStack.png",
+  "logo": "_images/prometheus-logo.png",
   "enabled": true,
   "category_label": [
     "Operators"
@@ -48,7 +48,7 @@
  {
    "title": "MariaDB Operator",
    "description": "MariaDB Operator",
-   "logo": "_images/SalesStack.png",
+   "logo": "_images/mariadb-logo-1.jpg",
    "enabled": true,
    "category_label": [
      "Operators"
@@ -71,7 +71,7 @@
  {
     "title": "Kafka Helm Chart",
     "description": "Kafka",
-    "logo": "_images/Custom.png",
+    "logo": "_images/kafka-logo.jpg",
     "enabled": true,
     "category_label": [
       "Helm"
@@ -117,7 +117,7 @@
  {
   "title": "WordPress Helm Chart",
   "description": "WordPress Helm Chart",
-  "logo": "_images/SalesStack.png",
+  "logo": "_images/wordpress-logo.jpg",
   "enabled": true,
   "category_label": [
     "Helm"
