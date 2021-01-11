@@ -70,7 +70,7 @@
  {
   "title": "Grafana Operator",
   "description": "Grafana Operator",
-  "logo": "_images/grafana-logo-1.png",
+  "logo": "_images/grafana-logo-2.png",
   "enabled": true,
   "category_label": [
     "Operators"
