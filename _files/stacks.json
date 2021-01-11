@@ -185,7 +185,7 @@
  {
   "title": "Crunchy Data PostgreSQL Operator",
   "description": "Crunchy Data PostgreSQL Operator",
-  "logo": "_images/SalesStack.png",
+  "logo": "_images/crunchy-logo.png",
   "enabled": true,
   "category_label": [
     "Operators"
