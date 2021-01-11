@@ -140,7 +140,7 @@
   {
     "title": "Learn Docker",
     "description": "Docker",
-    "logo": "_images/SalesStack.png",
+    "logo": "_images/docker-logo.jpg",
     "enabled": true,
     "category_label": [
       "Course"
@@ -163,7 +163,7 @@
   {
     "title": "Learn Kubernetes",
     "description": "Kubernetes",
-    "logo": "_images/SalesStack.png",
+    "logo": "_images/k8s-logo.png",
     "enabled": true,
     "category_label": [
       "Course"
@@ -186,7 +186,7 @@
  {
     "title": "Learn Git",
     "description": "Git",
-    "logo": "_images/SalesStack.png",
+    "logo": "_images/git-logo.png",
     "enabled": true,
     "category_label": [
       "Course"
