@@ -1,4 +1,72 @@
-[
+[ {
+    "title": "Kafka Helm Chart",
+    "description": "Kafka",
+    "logo": "_images/Custom.png",
+    "enabled": true,
+    "category_label": [
+      "Helm"
+    ], 
+    "document": "",
+    "stack_id": "kafka-bitnami-chart",
+    "type": "Helm",
+    "categories": [
+      "Streaming & Messaging"
+    ],
+    "is_certified": true,
+    "has_support": true,
+    "has_dataset": false,
+    "has_api": false,
+    "git_url": "https://github.com/operator-playground-io/Kafka-chart.git",
+    "git_commit": "d5fdd08fa7b42307684392445fefc9dee56e37cb",
+    "installTime": "5 minutes",
+    "isStacksSaved": true
+  },
+ {
+  "title": "Redis Helm Chart",
+  "description": "Redis",
+  "logo": "_images/redis-logo-small.png",
+  "enabled": true,
+  "category_label": [
+    "Helm"
+  ],
+  "document": "data-logging-stack",
+  "stack_id": "redis-bitnami-chart",
+  "type": "Helm",
+  "categories": [
+    "Database"
+  ],
+  "is_certified": true,
+  "has_support": true,
+  "has_dataset": false,
+  "has_api": false,
+  "git_url": "https://github.com/operator-playground-io/redis-chart-tile.git",
+  "git_commit": "faeb06293f0a116a9393bd1135bbd44f9e384e96",
+  "installTime": "5 minutes",
+  "isStacksSaved": true
+},
+ {
+  "title": "WordPress Helm Chart",
+  "description": "WordPress Helm Chart",
+  "logo": "_images/SalesStack.png",
+  "enabled": true,
+  "category_label": [
+    "Helm"
+  ],
+  "document": "data-logging-stack",
+  "stack_id": "wordpress",
+  "type": "stack",
+  "categories": [
+    "CMS"
+  ],
+  "is_certified": true,
+  "has_support": true,
+  "has_dataset": false,
+  "has_api": false,
+  "git_url": "https://github.com/operator-playground-io/WordPress-Helm-Chart-tile.git",
+  "git_commit": "ab706f8447ccf7014263f5f8607525cd80981dda",
+  "installTime": "5 minutes",
+  "isStacksSaved": true
+},
  {
   "title": "Grafana Operator",
   "description": "Grafana Operator",
@@ -135,6 +203,33 @@
   "git_url": "https://github.com/operator-playground-io/crunchy-postgres.git",
   "git_commit": "2de9181f480e8e92935eaf139a3e896653e1f2c1",
   "installTime": "5 minutes",
+  "isStacksSaved": true
+},
+ ,
+ {
+  "title": "Cash Surplus Deficit Dataset",
+  "description": "Cash Surplus/Deficit (% of GDP), from 1990 to 2013.",
+  "logo": "_images/dataset.png",
+  "enabled": true,
+  "category_label": [
+    "Datasets"
+  ],
+  "document": "data-logging-stack",
+  "stack_id": "cash_surplus_deficit_dataset",
+  "type": "dataset",
+  "categories": [
+    "Economy"
+  ],
+  "tag": [
+    "CSV"
+  ],
+  "has_dataset": true,
+  "has_api": false,
+  "is_certified": false,
+  "has_support": false,
+  "git_url": "https://github.com/operator-playground-io/cash-surplus-deficit-dataset.git",
+  "git_commit": "c93c4c3092d8821dcc80113b32ca8eb4520e31ef",
+  "installTime": "2 minutes",
   "isStacksSaved": true
 },
  {
@@ -287,101 +382,5 @@
   "git_commit": "b6cd1b0aef5c2fcb8d95dd43cce5c81418fd77df",
   "installTime": "3 minutes",
   "isStacksSaved": true
-},
- {
-  "title": "Cash Surplus Deficit Dataset",
-  "description": "Cash Surplus/Deficit (% of GDP), from 1990 to 2013.",
-  "logo": "_images/dataset.png",
-  "enabled": true,
-  "category_label": [
-    "Datasets"
-  ],
-  "document": "data-logging-stack",
-  "stack_id": "cash_surplus_deficit_dataset",
-  "type": "dataset",
-  "categories": [
-    "Economy"
-  ],
-  "tag": [
-    "CSV"
-  ],
-  "has_dataset": true,
-  "has_api": false,
-  "is_certified": false,
-  "has_support": false,
-  "git_url": "https://github.com/operator-playground-io/cash-surplus-deficit-dataset.git",
-  "git_commit": "c93c4c3092d8821dcc80113b32ca8eb4520e31ef",
-  "installTime": "2 minutes",
-  "isStacksSaved": true
-},
- {
-    "title": "Kafka",
-    "description": "Kafka",
-    "logo": "_images/Custom.png",
-    "enabled": true,
-    "category_label": [
-      "Helm"
-    ], 
-    "document": "",
-    "stack_id": "kafka-bitnami-chart",
-    "type": "Helm",
-    "categories": [
-      "Streaming & Messaging"
-    ],
-    "is_certified": true,
-    "has_support": true,
-    "has_dataset": false,
-    "has_api": false,
-    "git_url": "https://github.com/operator-playground-io/Kafka-chart.git",
-    "git_commit": "d5fdd08fa7b42307684392445fefc9dee56e37cb",
-    "installTime": "5 minutes",
-    "isStacksSaved": true
-  },
- {
-  "title": "Redis",
-  "description": "Redis",
-  "logo": "_images/redis-logo-small.png",
-  "enabled": true,
-  "category_label": [
-    "Helm"
-  ],
-  "document": "data-logging-stack",
-  "stack_id": "redis-bitnami-chart",
-  "type": "Helm",
-  "categories": [
-    "Database"
-  ],
-  "is_certified": true,
-  "has_support": true,
-  "has_dataset": false,
-  "has_api": false,
-  "git_url": "https://github.com/operator-playground-io/redis-chart-tile.git",
-  "git_commit": "faeb06293f0a116a9393bd1135bbd44f9e384e96",
-  "installTime": "5 minutes",
-  "isStacksSaved": true
-},
- {
-  "title": "WordPress Helm Chart",
-  "description": "WordPress Helm Chart",
-  "logo": "_images/SalesStack.png",
-  "enabled": true,
-  "category_label": [
-    "Helm"
-  ],
-  "document": "data-logging-stack",
-  "stack_id": "wordpress",
-  "type": "stack",
-  "categories": [
-    "CMS"
-  ],
-  "is_certified": true,
-  "has_support": true,
-  "has_dataset": false,
-  "has_api": false,
-  "git_url": "https://github.com/operator-playground-io/WordPress-Helm-Chart-tile.git",
-  "git_commit": "ab706f8447ccf7014263f5f8607525cd80981dda",
-  "installTime": "5 minutes",
-  "isStacksSaved": true
 }
-
 ]
