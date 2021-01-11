@@ -86,7 +86,7 @@
   "has_dataset": false,
   "has_api": false,
   "git_url": "https://github.com/operator-playground-io/MinIO-Operator-tile.git",
-  "git_commit": "8a9110dd89aad05d466e61d17ff0003c571510c4",
+  "git_commit": "510d60e0c7da988dd1392ff68989d2b0e39cf024",
   "installTime": "5 minutes",
   "isStacksSaved": true
 },
