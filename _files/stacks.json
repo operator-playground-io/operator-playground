@@ -139,7 +139,7 @@
  {
   "title": "Elastic Cloud Operator",
   "description": "Elastic Cloud Operator",
-  "logo": "_images/SalesStack.png",
+  "logo": "_images/elastic-cloud-logo.png",
   "enabled": true,
   "category_label": [
     "Operators"
