@@ -116,7 +116,7 @@
  {
    "title": "MariaDB Operator",
    "description": "MariaDB Operator",
-   "logo": "_images/mariadb-logo.jpg",
+   "logo": "_images/mariadb-logo-1.jpg",
    "enabled": true,
    "category_label": [
      "Operators"
