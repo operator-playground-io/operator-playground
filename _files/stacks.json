@@ -162,7 +162,7 @@
  {
   "title": "etcd Operator",
   "description": "etcd Operator",
-  "logo": "_images/SalesStack.png",
+  "logo": "_images/etcd-logo.png",
   "enabled": true,
   "category_label": [
     "Operators"
