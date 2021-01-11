@@ -93,7 +93,7 @@
  {
   "title": "Prometheus Operator",
   "description": "Prometheus Operator",
-  "logo": "_images/SalesStack.png",
+  "logo": "_images/prometheus-logo.png",
   "enabled": true,
   "category_label": [
     "Operators"
