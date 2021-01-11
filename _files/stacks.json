@@ -70,7 +70,7 @@
  {
   "title": "MinIO Operator",
   "description": "MinIO Operator",
-  "logo": "_images/SalesStack.png",
+  "logo": "_images/minio-logo.png",
   "enabled": true,
   "category_label": [
     "Operators"
