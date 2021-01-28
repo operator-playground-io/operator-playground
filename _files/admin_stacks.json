@@ -117,7 +117,7 @@
  {
   "title": "WordPress Helm Chart",
   "description": "WordPress Helm Chart",
-  "logo": "_images/wordpress-logo1.png",
+  "logo": "_images/wordpress-logo.jpg",
   "enabled": true,
   "category_label": [
     "Helm"
