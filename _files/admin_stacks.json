@@ -18,7 +18,7 @@
   "has_dataset": false,
   "has_api": false,
   "git_url": "https://github.com/operator-playground-io/Grafana-Operator-Playground-tile.git",
-  "git_commit": "e0f4657c8d193ea7fc5c173e97a939bc3d42b19a",
+  "git_commit": "9cf19ce650d0caacf2a1139ece742a01b253b8bf",
   "installTime": "5 minutes",
   "isStacksSaved": true
 },
