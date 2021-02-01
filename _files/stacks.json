@@ -162,7 +162,7 @@
  {
   "title": "Elastic Cloud Operator",
   "description": "Elastic Cloud Operator",
-  "logo": "_images/elastic-cloud-logo.png",
+  "logo": "_images/elastic-cloud-logo-1.png",
   "enabled": true,
   "category_label": [
     "Operators"
@@ -178,7 +178,7 @@
   "has_dataset": false,
   "has_api": false,
   "git_url": "https://github.com/operator-playground-io/elastic-cloud-operator.git",
-  "git_commit": "03ba98f6a37a74c08e8fe7752d394813ef5ab397",
+  "git_commit": "9ee0b2988dbbf9fd71a9a3dc4e3c448f8d4d471b",
   "installTime": "5 minutes",
   "isStacksSaved": true
 },
