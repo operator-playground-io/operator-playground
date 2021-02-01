@@ -254,7 +254,7 @@
  {
   "title": "Community Jaeger Operator",
   "description": "Community Jaeger Operator",
-  "logo": "_images/SalesStack.png",
+  "logo": "_images/jaeger-logo.png",
   "enabled": true,
   "category_label": [
     "Operators"
@@ -270,7 +270,7 @@
   "has_dataset": false,
   "has_api": false,
   "git_url": "https://github.com/operator-playground-io/community-jaeger-operator-tile.git",
-  "git_commit": "8c0d2bbed065a947621c49bd42343e8e5e7cf3a0",
+  "git_commit": "49b0d1e3a72cf8f5264dc53ca969d3672662a215",
   "installTime": "5 minutes",
   "isStacksSaved": true
 },
