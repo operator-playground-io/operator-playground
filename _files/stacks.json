@@ -208,7 +208,7 @@
  {
   "title": "Crunchy Data PostgreSQL Operator",
   "description": "Crunchy Data PostgreSQL Operator",
-  "logo": "_images/crunchy-logo.png",
+  "logo": "_images/crunchy-logo-1.png",
   "enabled": true,
   "category_label": [
     "Operators"
@@ -224,7 +224,7 @@
   "has_dataset": false,
   "has_api": false,
   "git_url": "https://github.com/operator-playground-io/crunchy-postgres.git",
-  "git_commit": "b26323d7bc8ab8100cf03053060eeec52bb36825",
+  "git_commit": "685082a6ba3b3369b411712f4aa3ed6acd5a9fac",
   "installTime": "5 minutes",
   "isStacksSaved": true
 },
