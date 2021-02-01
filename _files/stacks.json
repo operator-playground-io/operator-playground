@@ -139,7 +139,7 @@
  {
    "title": "MariaDB Operator",
    "description": "MariaDB Operator",
-   "logo": "_images/mariadb-logo-1.jpg",
+   "logo": "_images/mariadb-logo-2.jpg",
    "enabled": true,
    "category_label": [
      "Operators"
@@ -155,7 +155,7 @@
    "has_dataset": false,
    "has_api": false,
    "git_url": "https://github.com/operator-playground-io/MariaDB-Operator-Playground-tile.git",
-   "git_commit": "a4f1fc814abae3636cbd9c23b914256821c2fe04",
+   "git_commit": "9eb3657a3222e04c8c49af69615f56854941cbeb",
    "installTime": "5 minutes",
    "isStacksSaved": true
  },
