@@ -24,7 +24,7 @@
  {
   "title": "Redis Helm Chart",
   "description": "Redis Helm Chart",
-  "logo": "_images/redis-logo-small.png",
+  "logo": "_images/redis-logo-small-2.png",
   "enabled": true,
   "category_label": [
     "Helm"
@@ -93,7 +93,7 @@
  {
   "title": "Grafana Operator",
   "description": "Grafana Operator",
-  "logo": "_images/grafana-logo-2.png",
+  "logo": "_images/grafana-logo-3.png",
   "enabled": true,
   "category_label": [
     "Operators"
@@ -109,7 +109,7 @@
   "has_dataset": false,
   "has_api": false,
   "git_url": "https://github.com/operator-playground-io/Grafana-Operator-Playground-tile.git",
-  "git_commit": "79a778e11dcaa2eb40d7b31186372387bf5cda65",
+  "git_commit": "3f418133c0c208199ec47b2c4e4aa3d575d82f83",
   "installTime": "5 minutes",
   "isStacksSaved": true
 },
