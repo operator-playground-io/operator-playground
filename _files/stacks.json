@@ -17,7 +17,7 @@
     "has_dataset": false,
     "has_api": false,
     "git_url": "https://github.com/operator-playground-io/Kafka-chart-tile.git",
-    "git_commit": "b0c30c33ad4bbebdf1ef699b793787f7601e4d71",
+    "git_commit": "fbc42d5acfcd650a946c391c6dd7362f301606fa",
     "installTime": "5 minutes",
     "isStacksSaved": true
   },
@@ -229,8 +229,8 @@
   "isStacksSaved": true
 },
  {
-  "title": "jenkins Operator",
-  "description": "jenkins Operator",
+  "title": "Jenkins Operator",
+  "description": "Jenkins Operator",
   "logo": "_images/jenkins-logo-1.png",
   "enabled": true,
   "category_label": [
