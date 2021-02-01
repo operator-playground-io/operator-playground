@@ -185,7 +185,7 @@
  {
   "title": "etcd Operator",
   "description": "etcd Operator",
-  "logo": "_images/etcd-logo.png",
+  "logo": "_images/etcd-logo-1.png",
   "enabled": true,
   "category_label": [
     "Operators"
@@ -201,7 +201,7 @@
   "has_dataset": false,
   "has_api": false,
   "git_url": "https://github.com/operator-playground-io/etcd-operator.git",
-  "git_commit": "43506ca9f363fb1c2f71cc68cb211e5f6bfd2952",
+  "git_commit": "dacb1dc3e6bc582e737eb2d48b8c9522d26813bd",
   "installTime": "5 minutes",
   "isStacksSaved": true
 },
