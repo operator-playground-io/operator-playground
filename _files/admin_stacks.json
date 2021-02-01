@@ -64,7 +64,7 @@
    "has_dataset": false,
    "has_api": false,
    "git_url": "https://github.com/operator-playground-io/MariaDB-Operator-Playground-tile.git",
-   "git_commit": "e9e35956b17eb0f17408299919f993b65d6e2f25",
+   "git_commit": "c05d02f98d5ad9d9d5c5ee385b14262a28785a4e",
    "installTime": "5 minutes",
    "isStacksSaved": true
  },
