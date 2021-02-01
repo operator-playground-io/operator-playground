@@ -70,7 +70,7 @@
  {
   "title": "MinIO Operator",
   "description": "MinIO Operator",
-  "logo": "_images/minio-logo.png",
+  "logo": "_images/minio-logo-1.png",
   "enabled": true,
   "category_label": [
     "Operators"
@@ -86,7 +86,7 @@
   "has_dataset": false,
   "has_api": false,
   "git_url": "https://github.com/operator-playground-io/MinIO-Operator-tile.git",
-  "git_commit": "25da16938813f46c8d7b4de05bfda6999c3f0d30",
+  "git_commit": "b0c30c33ad4bbebdf1ef699b793787f7601e4d71",
   "installTime": "5 minutes",
   "isStacksSaved": true
 },
