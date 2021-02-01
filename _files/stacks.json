@@ -231,7 +231,7 @@
  {
   "title": "jenkins Operator",
   "description": "jenkins Operator",
-  "logo": "_images/jenkins-logo.jpg",
+  "logo": "_images/jenkins-logo-1.jpg",
   "enabled": true,
   "category_label": [
     "Operators"
@@ -247,7 +247,7 @@
   "has_dataset": false,
   "has_api": false,
   "git_url": "https://github.com/operator-playground-io/Jenkins-operator-tile.git",
-  "git_commit": "bbac88cda1cd31567546e34a8f813a64b9da8660",
+  "git_commit": "6d808ffc75801f43978c5826fa7acc2371dfe2a4",
   "installTime": "5 minutes",
   "isStacksSaved": true
 },
