@@ -116,7 +116,7 @@
  {
   "title": "Prometheus Operator",
   "description": "Prometheus Operator",
-  "logo": "_images/prometheus-logo.png",
+  "logo": "_images/prometheus-logo-1.png",
   "enabled": true,
   "category_label": [
     "Operators"
@@ -132,7 +132,7 @@
   "has_dataset": false,
   "has_api": false,
   "git_url": "https://github.com/operator-playground-io/Prometheus-Operator-Playground-tile.git",
-  "git_commit": "4a43522c737b0e6dd0cddc3df440ba33e9eedad1",
+  "git_commit": "3dece93fdd1a496ea92816f8a1fad900e56589e1",
   "installTime": "5 minutes",
   "isStacksSaved": true
 },
