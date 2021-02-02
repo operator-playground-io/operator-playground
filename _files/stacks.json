@@ -86,7 +86,7 @@
   "has_dataset": false,
   "has_api": false,
   "git_url": "https://github.com/operator-playground-io/kubeapps-bitnami-helm-chart-tile.git",
-  "git_commit": "ec1be5540ec4d201cc81b8e3efbdbd87fb316eab",
+  "git_commit": "5223a66b29320e965e2fef586c4aae77dcc718a8",
   "installTime": "10 minutes",
   "isStacksSaved": true
 },
