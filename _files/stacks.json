@@ -91,6 +91,29 @@
   "isStacksSaved": true
 },
  {
+  "title": "Kong Operator",
+  "description": "Kong Operator",
+  "logo": "_images/kong-logo.png",
+  "enabled": true,
+  "category_label": [
+    "Operators"
+  ],
+  "document": "data-logging-stack",
+  "stack_id": "kong-operator",
+  "type": "stack",
+  "categories": [
+    "Networking"
+  ],
+  "is_certified": true,
+  "has_support": true,
+  "has_dataset": false,
+  "has_api": false,
+  "git_url": "https://github.com/operator-playground-io/kong-operator-tile.git",
+  "git_commit": "78062f6223364d7c314ff14c7332dfefe67d6cbe",
+  "installTime": "5 minutes",
+  "isStacksSaved": true
+},
+ {
   "title": "MinIO Operator",
   "description": "MinIO Operator",
   "logo": "_images/minio-logo-1.png",
