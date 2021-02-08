@@ -319,7 +319,7 @@
   "is_certified": false,
   "has_support": false,
   "git_url": "https://github.com/operator-playground-io/cash-surplus-deficit-dataset.git",
-  "git_commit": "c93c4c3092d8821dcc80113b32ca8eb4520e31ef",
+  "git_commit": "77e77947c5bf6ffcd335ebcea0ace8ad8e2334c6",
   "installTime": "2 minutes",
   "isStacksSaved": true
 },
