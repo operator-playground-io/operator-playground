@@ -224,7 +224,7 @@
   "has_dataset": false,
   "has_api": false,
   "git_url": "https://github.com/operator-playground-io/elastic-cloud-operator.git",
-  "git_commit": "ac89dbb12406a86e6dbdc09b50982e2137853787",
+  "git_commit": "99010cd7150a76ba8ce9137d01d22dffafd65ea4",
   "installTime": "5 minutes",
   "isStacksSaved": true
 },
