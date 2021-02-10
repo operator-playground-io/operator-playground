@@ -12,7 +12,7 @@
     "categories": [
       "Streaming & Messaging"
     ],
-    "is_certified": true,
+    "is_certified": false,
     "has_support": true,
     "has_dataset": false,
     "has_api": false,
@@ -35,7 +35,7 @@
   "categories": [
     "Database"
   ],
-  "is_certified": true,
+  "is_certified": false,
   "has_support": true,
   "has_dataset": false,
   "has_api": false,
@@ -58,7 +58,7 @@
   "categories": [
     "CMS"
   ],
-  "is_certified": true,
+  "is_certified": false,
   "has_support": true,
   "has_dataset": false,
   "has_api": false,
@@ -81,7 +81,7 @@
   "categories": [
     "Deploying and Managing"
   ],
-  "is_certified": true,
+  "is_certified": false,
   "has_support": true,
   "has_dataset": false,
   "has_api": false,
@@ -104,7 +104,7 @@
   "categories": [
     "Networking"
   ],
-  "is_certified": true,
+  "is_certified": false,
   "has_support": true,
   "has_dataset": false,
   "has_api": false,
@@ -127,7 +127,7 @@
   "categories": [
     "Storage"
   ],
-  "is_certified": true,
+  "is_certified": false,
   "has_support": true,
   "has_dataset": false,
   "has_api": false,
@@ -150,7 +150,7 @@
   "categories": [
     "Monitoring"
   ],
-  "is_certified": true,
+  "is_certified": false,
   "has_support": true,
   "has_dataset": false,
   "has_api": false,
@@ -173,7 +173,7 @@
   "categories": [
     "Monitoring"
   ],
-  "is_certified": true,
+  "is_certified": false,
   "has_support": true,
   "has_dataset": false,
   "has_api": false,
@@ -196,7 +196,7 @@
    "categories": [
      "Database"
    ],
-   "is_certified": true,
+   "is_certified": false,
    "has_support": true,
    "has_dataset": false,
    "has_api": false,
@@ -288,7 +288,7 @@
   "categories": [
     "Integration & Delivery"
   ],
-  "is_certified": true,
+  "is_certified": false,
   "has_support": true,
   "has_dataset": false,
   "has_api": false,
@@ -311,7 +311,7 @@
   "categories": [
     "Logging and Tracing"
   ],
-  "is_certified": true,
+  "is_certified": false,
   "has_support": true,
   "has_dataset": false,
   "has_api": false,
