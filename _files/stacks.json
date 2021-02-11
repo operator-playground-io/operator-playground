@@ -496,5 +496,28 @@
   "git_commit": "b6cd1b0aef5c2fcb8d95dd43cce5c81418fd77df",
   "installTime": "3 minutes",
   "isStacksSaved": true
-}
+  },
+ {
+    "title": "RabbitMq Helm chart",
+    "description": "RabbitMq",
+    "logo": "",
+    "enabled": true,
+    "category_label": [
+      "Helm"
+    ], 
+    "document": "",
+    "stack_id": "RabbitMq-bitnami-chart",
+    "type": "Helm",
+    "categories": [
+      "Conterization"
+    ],
+    "is_certified": false,
+    "has_support": true,
+    "has_dataset": false,
+    "has_api": false,
+    "git_url": "https://github.com/operator-playground-io/RabbitMq.git",
+    "git_commit": "90a5772334343080c85b2682bd878f449150ffe7",
+    "installTime": "5 minutes",
+    "isStacksSaved": true
+  }
 ]
