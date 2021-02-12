@@ -516,7 +516,7 @@
     "has_dataset": false,
     "has_api": false,
     "git_url": "https://github.com/operator-playground-io/RabbitMq.git",
-    "git_commit": "9913bd07c9631bcc8975b029e6af25e4adac8187",
+    "git_commit": "e4cc57f4192607b418a9a516dee0d66b01100bfc",
     "installTime": "5 minutes",
     "isStacksSaved": true
   }
