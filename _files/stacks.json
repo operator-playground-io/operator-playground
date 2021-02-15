@@ -500,7 +500,7 @@
  {
     "title": "RabbitMq Helm chart",
     "description": "RabbitMq",
-    "logo": "",
+    "logo": "rabbitmq-logo.png",
     "enabled": true,
     "category_label": [
       "Helm"
