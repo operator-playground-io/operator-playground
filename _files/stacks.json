@@ -500,7 +500,7 @@
  {
     "title": "RabbitMq Helm chart",
     "description": "RabbitMq",
-    "logo": "rabbitmq-logo.png",
+    "logo": "_images/rabbitmq-logo.png",
     "enabled": true,
     "category_label": [
       "Helm"
@@ -516,7 +516,7 @@
     "has_dataset": false,
     "has_api": false,
     "git_url": "https://github.com/operator-playground-io/RabbitMq.git",
-    "git_commit": "7a95b0e420743bf844a0c0fc5ede37eb4d8ad0d7",
+    "git_commit": "1819614985b1e9c88cb24bd528dbbbfcf4a07355",
     "installTime": "5 minutes",
     "isStacksSaved": true
   }
