@@ -12,6 +12,9 @@
     "categories": [
       "Streaming & Messaging"
     ],
+    "managed_by": [
+      "Public"
+    ],
     "is_certified": false,
     "has_support": true,
     "has_dataset": false,
@@ -34,6 +37,9 @@
   "type": "Helm",
   "categories": [
     "Database"
+  ],
+   "managed_by": [
+    "Public"
   ],
   "is_certified": false,
   "has_support": true,
@@ -58,6 +64,9 @@
   "categories": [
     "CMS"
   ],
+  "managed_by": [
+    "Public"
+  ],
   "is_certified": false,
   "has_support": true,
   "has_dataset": false,
@@ -74,6 +83,9 @@
   "enabled": true,
   "category_label": [
     "Helm"
+  ],
+  "managed_by": [
+    "Public"
   ],
   "document": "data-logging-stack",
   "stack_id": "kubeapps",
