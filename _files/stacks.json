@@ -116,6 +116,9 @@
   "categories": [
     "Networking"
   ],
+  "managed_by": [
+    "Kong Inc."
+  ],
   "is_certified": false,
   "has_support": true,
   "has_dataset": false,
@@ -140,6 +143,9 @@
   "categories": [
     "Storage"
   ],
+  "managed_by": [
+    "MinIO Inc."
+  ],
   "is_certified": false,
   "has_support": true,
   "has_dataset": false,
@@ -162,6 +168,9 @@
   "type": "stack",
   "categories": [
     "Monitoring"
+  ],
+  "managed_by": [
+    "Red Hat"
   ],
   "is_certified": false,
   "has_support": true,
@@ -186,6 +195,9 @@
   "categories": [
     "Monitoring"
   ],
+  "managed_by": [
+    "Red Hat"
+  ],
   "is_certified": false,
   "has_support": true,
   "has_dataset": false,
@@ -209,6 +221,9 @@
    "categories": [
      "Database"
    ],
+   "managed_by": [
+     "Manoj Dhanorkar"
+   ],
    "is_certified": false,
    "has_support": true,
    "has_dataset": false,
@@ -221,7 +236,7 @@
  {
   "title": "Elastic Cloud Operator",
   "description": "Elastic Cloud Operator",
-  "logo": "_images/elastic-logo-1.jpg",
+  "logo": "_images/elastic-cloud-logo-1.png",
   "enabled": true,
   "category_label": [
     "Operators"
@@ -232,12 +247,15 @@
   "categories": [
     "Database"
   ],
+  "managed_by": [
+    "Elastic"
+  ],
   "is_certified": false,
   "has_support": true,
   "has_dataset": false,
   "has_api": false,
   "git_url": "https://github.com/operator-playground-io/elastic-cloud-operator.git",
-  "git_commit": "b9c76c0ec435fa1ac55d0842e6b149aa8c5953ed",
+  "git_commit": "99010cd7150a76ba8ce9137d01d22dffafd65ea4",
   "installTime": "5 minutes",
   "isStacksSaved": true
 },
@@ -254,6 +272,9 @@
   "type": "stack",
   "categories": [
     "Database"
+  ],
+  "managed_by": [
+    "CNCF"
   ],
   "is_certified": false,
   "has_support": true,
@@ -278,6 +299,9 @@
   "categories": [
     "Database"
   ],
+  "managed_by": [
+    "Crunchy Data"
+  ],
   "is_certified": false,
   "has_support": true,
   "has_dataset": false,
@@ -301,6 +325,9 @@
   "categories": [
     "Integration & Delivery"
   ],
+  "managed_by": [
+    "VirtusLab"
+  ],
   "is_certified": false,
   "has_support": true,
   "has_dataset": false,
@@ -323,6 +350,9 @@
   "type": "stack",
   "categories": [
     "Logging and Tracing"
+  ],
+  "managed_by": [
+    "CNCF"
   ],
   "is_certified": false,
   "has_support": true,
@@ -348,6 +378,9 @@
    "categories": [
      "Security"
    ],
+   "managed_by": [
+     "CNCF"
+   ],
    "is_certified": false,
    "has_support": true,
    "has_dataset": false,
@@ -370,6 +403,9 @@
   "type": "dataset",
   "categories": [
     "Economy"
+  ],
+  "managed_by": [
+    "Public"
   ],
   "tag": [
     "CSV"
@@ -397,6 +433,9 @@
   "categories": [
     "Employment"
   ],
+  "managed_by": [
+    "Public"
+  ],
    "tag": [
     "CSV"
   ],
@@ -423,6 +462,9 @@
   "categories": [
     "Public API"
   ],
+  "managed_by": [
+    "Public"
+  ],
   "has_dataset": false,
   "has_api": true,
   "is_certified": false,
@@ -445,6 +487,9 @@
   "type": "api",
   "categories": [
     "Public API"
+  ],
+  "managed_by": [
+    "Public"
   ],
   "has_dataset": false,
   "has_api": true,
@@ -472,6 +517,9 @@
    "tag": [
     "CSV"
   ],
+  "managed_by": [
+    "Public"
+  ],
   "has_dataset": true,
   "has_api": false,
   "is_certified": false,
@@ -489,6 +537,9 @@
   "enabled": true,
   "category_label": [
     "Datasets"
+  ],
+  "managed_by": [
+    "Public"
   ],
   "document": "data-logging-stack",
   "stack_id": "openaq_s3_dataset",
@@ -522,6 +573,9 @@
   "categories": [
     "Employment"
   ],
+  "managed_by": [
+    "Public"
+  ],
    "tag": [
     "S3"
   ],
@@ -547,6 +601,9 @@
     "type": "Helm",
     "categories": [
       "Conterization"
+    ],
+    "managed_by": [
+      "Public"
     ],
     "is_certified": false,
     "has_support": true,
