@@ -386,7 +386,7 @@
    "has_dataset": false,
    "has_api": false,
    "git_url": "https://github.com/operator-playground-io/Keycloak-Operator.git",
-   "git_commit": "d66e9cf4930f034568e5ea27d5cf6bc30fbde277",
+   "git_commit": "c0502553978dd1229203534aca43f5bdfcd849ce",
    "installTime": "5 minutes",
    "isStacksSaved": true
  },
