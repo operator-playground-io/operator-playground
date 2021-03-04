@@ -72,7 +72,7 @@
   "has_dataset": false,
   "has_api": false,
   "git_url": "https://github.com/operator-playground-io/WordPress-Helm-Chart-tile.git",
-  "git_commit": "fd0baefdab5c9b27a7e293d7cf33dae7b4f7fcb5",
+  "git_commit": "a9c0caa63f6667f4685a35a35261f1c0402f5692",
   "installTime": "10 minutes",
   "isStacksSaved": true
 },
