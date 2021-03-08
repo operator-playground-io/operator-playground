@@ -72,7 +72,7 @@
   "has_dataset": false,
   "has_api": false,
   "git_url": "https://github.com/operator-playground-io/WordPress-Helm-Chart-tile.git",
-  "git_commit": "a0f42135154ece0bb182eeb90d91047e6b031ad0",
+  "git_commit": "9a458c2daf8e1448b423ea74222a4f6b7af59060",
   "installTime": "10 minutes",
   "isStacksSaved": true
 },
@@ -98,7 +98,7 @@
   "has_dataset": false,
   "has_api": false,
   "git_url": "https://github.com/operator-playground-io/kubeapps-bitnami-helm-chart-tile.git",
-  "git_commit": "30fdfd6f63070b1c684862487b7aa0bf26025fb0",
+  "git_commit": "a69157f8af6cfc788573ee04d4ab974105d46e63",
   "installTime": "10 minutes",
   "isStacksSaved": true
 },
