@@ -391,6 +391,32 @@
    "isStacksSaved": true
  },
  {
+  "title": "RobinIo Operator",
+  "description": "RobinIo Operator",
+  "logo": "_images/robin-logo-1.png",
+  "enabled": true,
+  "category_label": [
+    "Operators"
+  ],
+  "document": "data-logging-stack",
+  "stack_id": "robinio-operator",
+  "type": "stack",
+  "categories": [
+    "Database"
+  ],
+  "managed_by": [
+    "Robin"
+  ],
+  "is_certified": false,
+  "has_support": true,
+  "has_dataset": false,
+  "has_api": false,
+  "git_url": "https://github.com/operator-playground-io/Robin.io-Operator-Playground-tile",
+  "git_commit": "c0476f6c66963668606c22b2c2cbe2ada1f51e5c",
+  "installTime": "5 minutes",
+  "isStacksSaved": true
+},
+ {
   "title": "Cash Surplus Deficit Dataset",
   "description": "Cash Surplus/Deficit (% of GDP), from 1990 to 2013.",
   "logo": "_images/dataset.png",
