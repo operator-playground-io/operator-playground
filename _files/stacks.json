@@ -391,8 +391,8 @@
    "isStacksSaved": true
  },
  {
-  "title": "RobinIo Operator",
-  "description": "RobinIo Operator",
+  "title": "Robin Cloud Native Storage",
+  "description": "Robin Cloud Native Storage",
   "logo": "_images/robin-logo-1.png",
   "enabled": true,
   "category_label": [
