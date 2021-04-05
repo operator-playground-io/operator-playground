@@ -281,7 +281,7 @@
   "has_dataset": false,
   "has_api": false,
   "git_url": "https://github.com/operator-playground-io/etcd-operator.git",
-  "git_commit": "0bd3a131cfb981150739c5504bdaa8fa9d389626",
+  "git_commit": "276d3c561a16868aa04dd49ba2dcb342bd3d4142",
   "installTime": "5 minutes",
   "isStacksSaved": true
 },
