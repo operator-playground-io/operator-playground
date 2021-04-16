@@ -402,7 +402,7 @@
   "stack_id": "robinio-operator",
   "type": "stack",
   "categories": [
-    "Database"
+    "Storage"
   ],
   "managed_by": [
     "Robin"
