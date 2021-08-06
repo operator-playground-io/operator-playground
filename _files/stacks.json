@@ -1,4 +1,31 @@
-[ {
+[ 
+  {
+   "title": "MariaDB Operator",
+   "description": "MariaDB Operator",
+   "logo": "_images/mariadb-logo-3.png",
+   "enabled": true,
+   "category_label": [
+     "Operators"
+   ],
+   "document": "data-logging-stack",
+   "stack_id": "mariadb-operator",
+   "type": "stack",
+   "categories": [
+     "Database"
+   ],
+   "managed_by": [
+     "Manoj Dhanorkar"
+   ],
+   "is_certified": false,
+   "has_support": true,
+   "has_dataset": false,
+   "has_api": false,
+   "git_url": "https://github.com/operator-playground-io/MariaDB-Operator-Playground-tile.git",
+   "git_commit": "52c62eeb34eaa41a03bb5acdc2d110bd57e42c5c",
+   "installTime": "5 minutes",
+   "isStacksSaved": true
+ },
+  {
   "title": "Robin Cloud Native Storage",
   "description": "Robin Cloud Native Storage",
   "logo": "_images/robin-logo-1.png",
@@ -233,32 +260,6 @@
   "installTime": "5 minutes",
   "isStacksSaved": true
 },
- {
-   "title": "MariaDB Operator",
-   "description": "MariaDB Operator",
-   "logo": "_images/mariadb-logo-3.png",
-   "enabled": true,
-   "category_label": [
-     "Operators"
-   ],
-   "document": "data-logging-stack",
-   "stack_id": "mariadb-operator",
-   "type": "stack",
-   "categories": [
-     "Database"
-   ],
-   "managed_by": [
-     "Manoj Dhanorkar"
-   ],
-   "is_certified": false,
-   "has_support": true,
-   "has_dataset": false,
-   "has_api": false,
-   "git_url": "https://github.com/operator-playground-io/MariaDB-Operator-Playground-tile.git",
-   "git_commit": "52c62eeb34eaa41a03bb5acdc2d110bd57e42c5c",
-   "installTime": "5 minutes",
-   "isStacksSaved": true
- },
  {
   "title": "Elasticsearch Operator",
   "description": "Elasticsearch Operator",
