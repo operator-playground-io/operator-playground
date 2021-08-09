@@ -21,7 +21,7 @@
     "has_dataset": false,
     "has_api": false,
     "git_url": "https://github.com/operator-playground-io/Workload-Migration-Sample-tile.git",
-    "git_commit": "a71f3ce4ccfacb6daf7a5a83a632e0d1acc42a55",
+    "git_commit": "2e783fabd72a8cfb82a6840416710f2c1ce2d498",
     "installTime": "5 minutes",
     "isStacksSaved": true
  },
