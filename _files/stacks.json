@@ -1,5 +1,31 @@
 [ 
   {
+    "name": "Workload Migration Sample",
+    "description": "Workload Migration Sample",
+    "logo": "_images/migration-logo.png",
+    "enabled": true,
+    "category_label": [
+        "Operators"
+    ],
+    "document": "data-logging-stack",
+    "stack_id": "workload-migration-sample",
+    "type": "stack",
+    "categories": [
+        "Database"
+    ],
+    "managed_by": [
+        "IBM Edge"
+    ],
+    "is_certified": false,
+    "has_support": true,
+    "has_dataset": false,
+    "has_api": false,
+    "git_url": "https://github.com/operator-playground-io/Workload-Migration-Sample-tile.git",
+    "git_commit": "98f698d716e6c17f94d5cb0f6dd62384b3080bc4",
+    "installTime": "5 minutes",
+    "isStacksSaved": true
+ },
+  {
    "title": "MariaDB Operator",
    "description": "MariaDB Operator",
    "logo": "_images/mariadb-logo-3.png",
