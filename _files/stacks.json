@@ -1,0 +1,670 @@
+[ 
+  {
+    "title": "Workload Migration Pattern",
+    "description": "Workload Migration Pattern",
+    "logo": "_images/migration-logo.png",
+    "enabled": true,
+    "category_label": [
+        "Operators"
+    ],
+    "document": "data-logging-stack",
+    "stack_id": "workload-migration-sample",
+    "type": "stack",
+    "categories": [
+        "Database"
+    ],
+    "managed_by": [
+        "IBM Edge"
+    ],
+    "is_certified": false,
+    "has_support": true,
+    "has_dataset": false,
+    "has_api": false,
+    "git_url": "https://github.com/operator-playground-io/Workload-Migration-Sample-tile.git",
+    "git_commit": "2e783fabd72a8cfb82a6840416710f2c1ce2d498",
+    "installTime": "5 minutes",
+    "isStacksSaved": true
+ },
+  {
+   "title": "MariaDB Operator",
+   "description": "MariaDB Operator",
+   "logo": "_images/mariadb-logo-3.png",
+   "enabled": true,
+   "category_label": [
+     "Operators"
+   ],
+   "document": "data-logging-stack",
+   "stack_id": "mariadb-operator",
+   "type": "stack",
+   "categories": [
+     "Database"
+   ],
+   "managed_by": [
+     "Manoj Dhanorkar"
+   ],
+   "is_certified": false,
+   "has_support": true,
+   "has_dataset": false,
+   "has_api": false,
+   "git_url": "https://github.com/operator-playground-io/MariaDB-Operator-Playground-tile.git",
+   "git_commit": "0510e179c52295a5b85aa8fa6d33fddb5b86d0da",
+   "installTime": "5 minutes",
+   "isStacksSaved": true
+ },
+  {
+  "title": "Robin Cloud Native Storage",
+  "description": "Robin Cloud Native Storage",
+  "logo": "_images/robin-logo-1.png",
+  "enabled": true,
+  "category_label": [
+    "Operators"
+  ],
+  "document": "data-logging-stack",
+  "stack_id": "robinio-operator",
+  "type": "stack",
+  "categories": [
+    "Storage"
+  ],
+  "managed_by": [
+    "Robin"
+  ],
+  "is_certified": false,
+  "has_support": true,
+  "has_dataset": false,
+  "has_api": false,
+  "git_url": "https://github.com/operator-playground-io/Robin.io-Operator-Playground-tile",
+  "git_commit": "733fa74ac1b9970e18e2041d1eacf49cd2e28414",
+  "installTime": "5 minutes",
+  "isStacksSaved": true
+},
+{
+    "title": "Kafka Helm Chart",
+    "description": "Kafka",
+    "logo": "_images/kafka-logo-1.jpg",
+    "enabled": true,
+    "category_label": [
+      "Helm"
+    ], 
+    "document": "",
+    "stack_id": "kafka-bitnami-chart",
+    "type": "Helm",
+    "categories": [
+      "Streaming & Messaging"
+    ],
+    "managed_by": [
+      "Public"
+    ],
+    "is_certified": false,
+    "has_support": true,
+    "has_dataset": false,
+    "has_api": false,
+    "git_url": "https://github.com/operator-playground-io/Kafka-chart-tile.git",
+    "git_commit": "5859f5287d3f113980e6ef4a4c0b4abbf73814b3",
+    "installTime": "5 minutes",
+    "isStacksSaved": true
+  },
+ {
+  "title": "Redis Helm Chart",
+  "description": "Redis Helm Chart",
+  "logo": "_images/redis-logo-small-2.png",
+  "enabled": true,
+  "category_label": [
+    "Helm"
+  ],
+  "document": "data-logging-stack",
+  "stack_id": "redis-bitnami-chart",
+  "type": "Helm",
+  "categories": [
+    "Database"
+  ],
+   "managed_by": [
+    "Public"
+  ],
+  "is_certified": false,
+  "has_support": true,
+  "has_dataset": false,
+  "has_api": false,
+  "git_url": "https://github.com/operator-playground-io/redis-chart-tile.git",
+  "git_commit": "af53b1a9fa073f7859105d40c00e9af1f668b445",
+  "installTime": "2 minutes",
+  "isStacksSaved": true
+},
+ {
+  "title": "WordPress Helm Chart",
+  "description": "WordPress Helm Chart",
+  "logo": "_images/wordpress-logo-1.jpg",
+  "enabled": true,
+  "category_label": [
+    "Helm"
+  ],
+  "document": "data-logging-stack",
+  "stack_id": "wordpress",
+  "type": "stack",
+  "categories": [
+    "CMS"
+  ],
+  "managed_by": [
+    "Public"
+  ],
+  "is_certified": false,
+  "has_support": true,
+  "has_dataset": false,
+  "has_api": false,
+  "git_url": "https://github.com/operator-playground-io/WordPress-Helm-Chart-tile.git",
+  "git_commit": "9a458c2daf8e1448b423ea74222a4f6b7af59060",
+  "installTime": "10 minutes",
+  "isStacksSaved": true
+},
+ {
+  "title": "Kubeapps Helm Chart",
+  "description": "Kubeapps Helm Chart",
+  "logo": "_images/kubeapps-logo.png",
+  "enabled": true,
+  "category_label": [
+    "Helm"
+  ],
+  "managed_by": [
+    "Public"
+  ],
+  "document": "data-logging-stack",
+  "stack_id": "kubeapps",
+  "type": "stack",
+  "categories": [
+    "Deploying and Managing"
+  ],
+  "is_certified": false,
+  "has_support": true,
+  "has_dataset": false,
+  "has_api": false,
+  "git_url": "https://github.com/operator-playground-io/kubeapps-bitnami-helm-chart-tile.git",
+  "git_commit": "a69157f8af6cfc788573ee04d4ab974105d46e63",
+  "installTime": "10 minutes",
+  "isStacksSaved": true
+},
+ {
+  "title": "Kong Operator",
+  "description": "Kong Operator",
+  "logo": "_images/kong-logo.png",
+  "enabled": true,
+  "category_label": [
+    "Operators"
+  ],
+  "document": "data-logging-stack",
+  "stack_id": "kong-operator",
+  "type": "stack",
+  "categories": [
+    "Networking"
+  ],
+  "managed_by": [
+    "Kong Inc."
+  ],
+  "is_certified": false,
+  "has_support": true,
+  "has_dataset": false,
+  "has_api": false,
+  "git_url": "https://github.com/operator-playground-io/kong-operator-tile.git",
+  "git_commit": "8bc2e311a8d1cc1ccc66c60b870e320834bb532e",
+  "installTime": "5 minutes",
+  "isStacksSaved": true
+},
+ 
+ {
+  "title": "MinIO Operator",
+  "description": "MinIO Operator",
+  "logo": "_images/minio-logo-1.png",
+  "enabled": true,
+  "category_label": [
+    "Operators"
+  ],
+  "document": "data-logging-stack",
+  "stack_id": "minio-operator",
+  "type": "stack",
+  "categories": [
+    "Storage"
+  ],
+  "managed_by": [
+    "MinIO Inc."
+  ],
+  "is_certified": false,
+  "has_support": true,
+  "has_dataset": false,
+  "has_api": false,
+  "git_url": "https://github.com/operator-playground-io/MinIO-Operator-tile.git",
+  "git_commit": "2f2b1ad1a26110686734ce0c3fa3f7837308e9c0",
+  "installTime": "5 minutes",
+  "isStacksSaved": true
+},
+ {
+  "title": "Grafana Operator",
+  "description": "Grafana Operator",
+  "logo": "_images/grafana-logo-3.png",
+  "enabled": true,
+  "category_label": [
+    "Operators"
+  ],
+  "document": "data-logging-stack",
+  "stack_id": "grafana-operator",
+  "type": "stack",
+  "categories": [
+    "Monitoring"
+  ],
+  "managed_by": [
+    "Red Hat"
+  ],
+  "is_certified": false,
+  "has_support": true,
+  "has_dataset": false,
+  "has_api": false,
+  "git_url": "https://github.com/operator-playground-io/Grafana-Operator-Playground-tile.git",
+  "git_commit": "0b2bb612eaa6d724e5d2a5442047dd208b86f579",
+  "installTime": "5 minutes",
+  "isStacksSaved": true
+},
+ {
+  "title": "Prometheus Operator",
+  "description": "Prometheus Operator",
+  "logo": "_images/prometheus-logo-1.png",
+  "enabled": true,
+  "category_label": [
+    "Operators"
+  ],
+  "document": "data-logging-stack",
+  "stack_id": "prometheus-operator",
+  "type": "stack",
+  "categories": [
+    "Monitoring"
+  ],
+  "managed_by": [
+    "Red Hat"
+  ],
+  "is_certified": false,
+  "has_support": true,
+  "has_dataset": false,
+  "has_api": false,
+  "git_url": "https://github.com/operator-playground-io/Prometheus-Operator-Playground-tile.git",
+  "git_commit": "c4de116a2679478787b0465e1675bcce24d28cc4",
+  "installTime": "5 minutes",
+  "isStacksSaved": true
+},
+ {
+  "title": "Elasticsearch Operator",
+  "description": "Elasticsearch Operator",
+  "logo": "_images/elastic-logo-1.jpg",
+  "enabled": true,
+  "category_label": [
+    "Operators"
+  ],
+  "document": "data-logging-stack",
+  "stack_id": "elastic-cloud-operator",
+  "type": "stack",
+  "categories": [
+    "Database"
+  ],
+  "managed_by": [
+    "Elastic"
+  ],
+  "is_certified": false,
+  "has_support": true,
+  "has_dataset": false,
+  "has_api": false,
+  "git_url": "https://github.com/operator-playground-io/elastic-cloud-operator.git",
+  "git_commit": "7b63a5485497b31151ffa30b4403bbe57f140c5f",
+  "installTime": "5 minutes",
+  "isStacksSaved": true
+},
+ {
+  "title": "etcd Operator",
+  "description": "etcd Operator",
+  "logo": "_images/etcd-logo-1.png",
+  "enabled": true,
+  "category_label": [
+    "Operators"
+  ],
+  "document": "data-logging-stack",
+  "stack_id": "etcd-operator",
+  "type": "stack",
+  "categories": [
+    "Database"
+  ],
+  "managed_by": [
+    "CNCF"
+  ],
+  "is_certified": false,
+  "has_support": true,
+  "has_dataset": false,
+  "has_api": false,
+  "git_url": "https://github.com/operator-playground-io/etcd-operator.git",
+  "git_commit": "73180c614574ca47ce028675d37c4d430bcc8008",
+  "installTime": "5 minutes",
+  "isStacksSaved": true
+},
+ {
+  "title": "Crunchy Data PostgreSQL Operator",
+  "description": "Crunchy Data PostgreSQL Operator",
+  "logo": "_images/crunchy-logo-1.png",
+  "enabled": true,
+  "category_label": [
+    "Operators"
+  ],
+  "document": "data-logging-stack",
+  "stack_id": "Crunchy-PostgreSQL-Operator",
+  "type": "stack",
+  "categories": [
+    "Database"
+  ],
+  "managed_by": [
+    "Crunchy Data"
+  ],
+  "is_certified": false,
+  "has_support": true,
+  "has_dataset": false,
+  "has_api": false,
+  "git_url": "https://github.com/operator-playground-io/crunchy-postgres.git",
+  "git_commit": "a876cd3d547f8c3ed156972d048403fb980d1c35",
+  "installTime": "5 minutes",
+  "isStacksSaved": true
+},
+ {
+  "title": "Jenkins Operator",
+  "description": "Jenkins Operator",
+  "logo": "_images/jenkins-logo-1.png",
+  "enabled": true,
+  "category_label": [
+    "Operators"
+  ],
+  "document": "data-logging-stack",
+  "stack_id": "jenkins-operator",
+  "type": "stack",
+  "categories": [
+    "Integration & Delivery"
+  ],
+  "managed_by": [
+    "VirtusLab"
+  ],
+  "is_certified": false,
+  "has_support": true,
+  "has_dataset": false,
+  "has_api": false,
+  "git_url": "https://github.com/operator-playground-io/Jenkins-operator-tile.git",
+  "git_commit": "40d1438dd86ceec8e20db5be54d367ea12002f62",
+  "installTime": "5 minutes",
+  "isStacksSaved": true
+},
+ {
+  "title": "Community Jaeger Operator",
+  "description": "Community Jaeger Operator",
+  "logo": "_images/jaeger-logo.png",
+  "enabled": true,
+  "category_label": [
+    "Operators"
+  ],
+  "document": "data-logging-stack",
+  "stack_id": "community-jaeger-operator",
+  "type": "stack",
+  "categories": [
+    "Logging and Tracing"
+  ],
+  "managed_by": [
+    "CNCF"
+  ],
+  "is_certified": false,
+  "has_support": true,
+  "has_dataset": false,
+  "has_api": false,
+  "git_url": "https://github.com/operator-playground-io/community-jaeger-operator-tile.git",
+  "git_commit": "1945bab8c87b76da1b493fad1acb6a267fa8da06",
+  "installTime": "5 minutes",
+  "isStacksSaved": true
+},
+ 
+ {
+   "title": "Keycloak Operator",
+   "description": "Keycloak Operator",
+   "logo": "_images/keycloak-logo.png",
+   "enabled": true,
+   "category_label": [
+     "Operators"
+   ],
+   "document": "data-logging-stack",
+   "stack_id": "keycloak-operator",
+   "type": "stack",
+   "categories": [
+     "Security"
+   ],
+   "managed_by": [
+     "CNCF"
+   ],
+   "is_certified": false,
+   "has_support": true,
+   "has_dataset": false,
+   "has_api": false,
+   "git_url": "https://github.com/operator-playground-io/Keycloak-Operator.git",
+   "git_commit": "16dce79b42a49636d258fc1529098e6c21bb7698",
+   "installTime": "5 minutes",
+   "isStacksSaved": true
+ },
+ {
+  "title": "Cash Surplus Deficit Dataset",
+  "description": "Cash Surplus/Deficit (% of GDP), from 1990 to 2013.",
+  "logo": "_images/dataset.png",
+  "enabled": true,
+  "category_label": [
+    "Datasets"
+  ],
+  "document": "data-logging-stack",
+  "stack_id": "cash_surplus_deficit_dataset",
+  "type": "dataset",
+  "categories": [
+    "Economy"
+  ],
+  "managed_by": [
+    "Public"
+  ],
+  "tag": [
+    "CSV"
+  ],
+  "has_dataset": true,
+  "has_api": false,
+  "is_certified": false,
+  "has_support": false,
+  "git_url": "https://github.com/operator-playground-io/cash-surplus-deficit-dataset.git",
+  "git_commit": "77e77947c5bf6ffcd335ebcea0ace8ad8e2334c6",
+  "installTime": "2 minutes",
+  "isStacksSaved": true
+},
+ {
+  "title": "Employment Dataset",
+  "description": "US Employment and Unemployment rates since 1940.",
+  "logo": "_images/dataset.png",
+  "enabled": true,
+  "category_label": [
+    "Datasets"
+  ],
+  "document": "data-logging-stack",
+  "stack_id": "employment_dataset",
+  "type": "dataset",
+  "categories": [
+    "Employment"
+  ],
+  "managed_by": [
+    "Public"
+  ],
+   "tag": [
+    "CSV"
+  ],
+  "has_dataset": true,
+  "has_api": false,
+  "is_certified": false,
+  "has_support": false,
+  "git_url": "https://github.com/operator-playground-io/employment-dataset.git",
+  "git_commit": "87da8fc87690d1108f17871bcdacbf15837250df",
+  "installTime": "2 minutes",
+  "isStacksSaved": true
+},
+ {
+  "title": "Walmart API",
+  "description": "Walmart API's for inventory, price, item and orders.",
+  "logo": "_images/api_collections.png",
+  "enabled": true,
+  "category_label": [
+    "API"
+  ],
+  "document": "data-logging-stack",
+  "stack_id": "walmart_api",
+  "type": "api",
+  "categories": [
+    "Public API"
+  ],
+  "managed_by": [
+    "Public"
+  ],
+  "has_dataset": false,
+  "has_api": true,
+  "is_certified": false,
+  "has_support": false,
+  "git_url": "https://github.com/operator-playground-io/walmart-api.git",
+  "git_commit": "98d401c6acfd95dcab1a16912e9b0fc67d7c87eb",
+  "installTime": "3 minutes",
+  "isStacksSaved": true
+},
+{
+  "title": "Weather API",
+  "description": "Weather API with historical weather and 15-day forecast data",
+  "logo": "_images/api_collections.png",
+  "enabled": true,
+  "category_label": [
+    "API"
+  ],
+  "document": "data-logging-stack",
+  "stack_id": "weather_api",
+  "type": "api",
+  "categories": [
+    "Public API"
+  ],
+  "managed_by": [
+    "Public"
+  ],
+  "has_dataset": false,
+  "has_api": true,
+  "is_certified": false,
+  "has_support": false,
+  "git_url": "https://github.com/operator-playground-io/weather-api.git",
+  "git_commit": "1adec00128e8d05ff54c64789061d0074fe217dd",
+  "installTime": "3 minutes",
+  "isStacksSaved": true
+},
+  {
+  "title": "Population Dataset",
+  "description": "Population figures for countries, regions (e.g. Asia) and the world.",
+  "logo": "_images/dataset.png",
+  "enabled": true,
+  "category_label": [
+    "Datasets"
+  ],
+  "document": "data-logging-stack",
+  "stack_id": "population_dataset",
+  "type": "dataset",
+  "categories": [
+    "Population"
+  ],
+   "tag": [
+    "CSV"
+  ],
+  "managed_by": [
+    "Public"
+  ],
+  "has_dataset": true,
+  "has_api": false,
+  "is_certified": false,
+  "has_support": false,
+  "git_url": "https://github.com/operator-playground-io/population-dataset.git",
+  "git_commit": "58d0d64a02a381f5ebdbb7efb93656956e171a90",
+  "installTime": "2 minutes",
+  "isStacksSaved": true
+},
+  
+  {
+  "title": "OpenAQ Dataset",
+  "description": "OpenAQ Dataset",
+  "logo": "_images/dataset.png",
+  "enabled": true,
+  "category_label": [
+    "Datasets"
+  ],
+  "managed_by": [
+    "Public"
+  ],
+  "document": "data-logging-stack",
+  "stack_id": "openaq_s3_dataset",
+  "type": "dataset",
+  "categories": [
+    "Public Dataset"
+  ],
+   "tag": [
+    "S3"
+  ],
+  "has_dataset": true,
+  "has_api": false,
+  "is_certified": false,
+  "has_support": false,
+  "git_url": "https://github.com/operator-playground-io/openaq-dataset.git",
+  "git_commit": "9a9ea49b22b3b7e0efc0127ae3c2458580c6c279",
+  "installTime": "3 minutes",
+  "isStacksSaved": true
+},
+  {
+  "title": "US Hiring Rates",
+  "description": "This dataset provides daily updates on the volume of US job listings",
+  "logo": "_images/dataset.png",
+  "enabled": true,
+  "category_label": [
+    "Datasets"
+  ],
+  "document": "data-logging-stack",
+  "stack_id": "us_hiring_rates_s3_dataset",
+  "type": "dataset",
+  "categories": [
+    "Employment"
+  ],
+  "managed_by": [
+    "Public"
+  ],
+   "tag": [
+    "S3"
+  ],
+  "has_dataset": true,
+  "has_api": false,
+  "is_certified": false,
+  "has_support": false,
+  "git_url": "https://github.com/operator-playground-io/us-hiring-rates.git",
+  "git_commit": "b6cd1b0aef5c2fcb8d95dd43cce5c81418fd77df",
+  "installTime": "3 minutes",
+  "isStacksSaved": true
+  },
+ {
+    "title": "RabbitMq Helm chart",
+    "description": "RabbitMq",
+    "logo": "_images/rabbitmq-logo.png",
+    "enabled": true,
+    "category_label": [
+      "Helm"
+    ], 
+    "document": "",
+    "stack_id": "RabbitMq-bitnami-chart",
+    "type": "Helm",
+    "categories": [
+      "Conterization"
+    ],
+    "managed_by": [
+      "Public"
+    ],
+    "is_certified": false,
+    "has_support": true,
+    "has_dataset": false,
+    "has_api": false,
+    "git_url": "https://github.com/operator-playground-io/RabbitMq.git",
+    "git_commit": "884083d42b36a8e5afeaf59a6990406089370fd6",
+    "installTime": "5 minutes",
+    "isStacksSaved": true
+  }
+]
