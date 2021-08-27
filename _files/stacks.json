@@ -51,32 +51,6 @@
    "installTime": "5 minutes",
    "isStacksSaved": true
  },
-  {
-  "title": "Robin Cloud Native Storage",
-  "description": "Robin Cloud Native Storage",
-  "logo": "_images/robin-logo-1.png",
-  "enabled": true,
-  "category_label": [
-    "Operators"
-  ],
-  "document": "data-logging-stack",
-  "stack_id": "robinio-operator",
-  "type": "stack",
-  "categories": [
-    "Storage"
-  ],
-  "managed_by": [
-    "Robin"
-  ],
-  "is_certified": false,
-  "has_support": true,
-  "has_dataset": false,
-  "has_api": false,
-  "git_url": "https://github.com/operator-playground-io/Robin.io-Operator-Playground-tile",
-  "git_commit": "733fa74ac1b9970e18e2041d1eacf49cd2e28414",
-  "installTime": "5 minutes",
-  "isStacksSaved": true
-},
 {
     "title": "Kafka Helm Chart",
     "description": "Kafka",
@@ -235,58 +209,6 @@
   "isStacksSaved": true
 },
  {
-  "title": "Grafana Operator",
-  "description": "Grafana Operator",
-  "logo": "_images/grafana-logo-3.png",
-  "enabled": true,
-  "category_label": [
-    "Operators"
-  ],
-  "document": "data-logging-stack",
-  "stack_id": "grafana-operator",
-  "type": "stack",
-  "categories": [
-    "Monitoring"
-  ],
-  "managed_by": [
-    "Red Hat"
-  ],
-  "is_certified": false,
-  "has_support": true,
-  "has_dataset": false,
-  "has_api": false,
-  "git_url": "https://github.com/operator-playground-io/Grafana-Operator-Playground-tile.git",
-  "git_commit": "0b2bb612eaa6d724e5d2a5442047dd208b86f579",
-  "installTime": "5 minutes",
-  "isStacksSaved": true
-},
- {
-  "title": "Prometheus Operator",
-  "description": "Prometheus Operator",
-  "logo": "_images/prometheus-logo-1.png",
-  "enabled": true,
-  "category_label": [
-    "Operators"
-  ],
-  "document": "data-logging-stack",
-  "stack_id": "prometheus-operator",
-  "type": "stack",
-  "categories": [
-    "Monitoring"
-  ],
-  "managed_by": [
-    "Red Hat"
-  ],
-  "is_certified": false,
-  "has_support": true,
-  "has_dataset": false,
-  "has_api": false,
-  "git_url": "https://github.com/operator-playground-io/Prometheus-Operator-Playground-tile.git",
-  "git_commit": "c4de116a2679478787b0465e1675bcce24d28cc4",
-  "installTime": "5 minutes",
-  "isStacksSaved": true
-},
- {
   "title": "Elasticsearch Operator",
   "description": "Elasticsearch Operator",
   "logo": "_images/elastic-logo-1.jpg",
@@ -364,59 +286,6 @@
   "installTime": "5 minutes",
   "isStacksSaved": true
 },
- {
-  "title": "Jenkins Operator",
-  "description": "Jenkins Operator",
-  "logo": "_images/jenkins-logo-1.png",
-  "enabled": true,
-  "category_label": [
-    "Operators"
-  ],
-  "document": "data-logging-stack",
-  "stack_id": "jenkins-operator",
-  "type": "stack",
-  "categories": [
-    "Integration & Delivery"
-  ],
-  "managed_by": [
-    "VirtusLab"
-  ],
-  "is_certified": false,
-  "has_support": true,
-  "has_dataset": false,
-  "has_api": false,
-  "git_url": "https://github.com/operator-playground-io/Jenkins-operator-tile.git",
-  "git_commit": "40d1438dd86ceec8e20db5be54d367ea12002f62",
-  "installTime": "5 minutes",
-  "isStacksSaved": true
-},
- {
-  "title": "Community Jaeger Operator",
-  "description": "Community Jaeger Operator",
-  "logo": "_images/jaeger-logo.png",
-  "enabled": true,
-  "category_label": [
-    "Operators"
-  ],
-  "document": "data-logging-stack",
-  "stack_id": "community-jaeger-operator",
-  "type": "stack",
-  "categories": [
-    "Logging and Tracing"
-  ],
-  "managed_by": [
-    "CNCF"
-  ],
-  "is_certified": false,
-  "has_support": true,
-  "has_dataset": false,
-  "has_api": false,
-  "git_url": "https://github.com/operator-playground-io/community-jaeger-operator-tile.git",
-  "git_commit": "1945bab8c87b76da1b493fad1acb6a267fa8da06",
-  "installTime": "5 minutes",
-  "isStacksSaved": true
-},
- 
  {
    "title": "Keycloak Operator",
    "description": "Keycloak Operator",
