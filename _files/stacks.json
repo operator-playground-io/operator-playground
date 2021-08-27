@@ -21,7 +21,7 @@
     "has_dataset": false,
     "has_api": false,
     "git_url": "https://github.com/operator-playground-io/Workload-Migration-Sample-tile.git",
-    "git_commit": "2e783fabd72a8cfb82a6840416710f2c1ce2d498",
+    "git_commit": "3f032f3dba02654fd3ea25d7f69d7a6c961be15c",
     "installTime": "5 minutes",
     "isStacksSaved": true
  },
@@ -125,7 +125,7 @@
   "has_dataset": false,
   "has_api": false,
   "git_url": "https://github.com/operator-playground-io/WordPress-Helm-Chart-tile.git",
-  "git_commit": "9a458c2daf8e1448b423ea74222a4f6b7af59060",
+  "git_commit": "b54209fb32a9f703cc8f642d4da1d5b9f57a2c69",
   "installTime": "10 minutes",
   "isStacksSaved": true
 },
@@ -151,7 +151,7 @@
   "has_dataset": false,
   "has_api": false,
   "git_url": "https://github.com/operator-playground-io/kubeapps-bitnami-helm-chart-tile.git",
-  "git_commit": "a69157f8af6cfc788573ee04d4ab974105d46e63",
+  "git_commit": "337dae45c0aba2b12005a7f5f9680083e7418f27",
   "installTime": "10 minutes",
   "isStacksSaved": true
 },
