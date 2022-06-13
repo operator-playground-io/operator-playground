@@ -19,6 +19,7 @@
    },
    "info":{
       "headerTitle":"StarterKit for Kubernetes solutions",
+      "subHeader": "Subheader text",
       "logo":"_images/KP_logo.png",
       "title":"Welcome to Partner Starter Patterns",
       "description":[
