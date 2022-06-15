@@ -151,7 +151,7 @@
       "has_dataset":false,
       "has_api":false,
       "git_url":"https://github.com/operator-playground-io/nginx-app.git",
-      "git_commit":"fa09df4199101b28f9c78478c9443e650a374d95",
+      "git_commit":"a01940c891040d764472e2349fa5d733d060460f",
       "installTime":"5 minutes",
       "isStacksSaved":true
    },
@@ -177,7 +177,7 @@
       "has_dataset":false,
       "has_api":false,
       "git_url":"https://github.com/operator-playground-io/postgres-app.git",
-      "git_commit":"0a1c1457478acf78f5fc8bd9ace6e23f21d0b009",
+      "git_commit":"3aefc13ce5ee7693ecd3980fd58c79027c542c7f",
       "installTime":"20 minutes",
       "isStacksSaved":true
    }
