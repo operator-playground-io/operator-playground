@@ -151,7 +151,7 @@
       "has_dataset":false,
       "has_api":false,
       "git_url":"https://github.com/operator-playground-io/nginx-app.git",
-      "git_commit":"3967eccd2928e285e76da93de88c85cc5b47c30c",
+      "git_commit":"c9b6e1edc6faf4f78a12c4e26f70e0a8b42fc128",
       "installTime":"5 minutes",
       "isStacksSaved":true
    },
