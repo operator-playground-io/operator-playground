@@ -128,5 +128,57 @@
       "git_commit":"73180c614574ca47ce028675d37c4d430bcc8008",
       "installTime":"5 minutes",
       "isStacksSaved":true
+   },
+   {
+      "title":"Nginx Container Application",
+      "description":"Nginx Container Application",
+      "logo":"_images/nginx-logo.png",
+      "enabled":true,
+      "category_label":[
+         "Container"
+      ],
+      "document":"nginx-app",
+      "stack_id":"nginx-app",
+      "type":"stack",
+      "categories":[
+         "Container"
+      ],
+      "managed_by":[
+         "Edge"
+      ],
+      "is_certified":false,
+      "has_support":false,
+      "has_dataset":false,
+      "has_api":false,
+      "git_url":"https://github.com/operator-playground-io/nginx-app.git",
+      "git_commit":"fa09df4199101b28f9c78478c9443e650a374d95",
+      "installTime":"5 minutes",
+      "isStacksSaved":true
+   },
+   {
+      "title":"PostgreSQL Container Application",
+      "description":"PostgreSQL Container Application",
+      "logo":"_images/PostgreSQL-logo.png",
+      "enabled":true,
+      "category_label":[
+         "Database"
+      ],
+      "document":"postgres-app",
+      "stack_id":"postgres-app",
+      "type":"stack",
+      "categories":[
+         "Database"
+      ],
+      "managed_by":[
+         "Edge"
+      ],
+      "is_certified":false,
+      "has_support":false,
+      "has_dataset":false,
+      "has_api":false,
+      "git_url":"https://github.com/operator-playground-io/postgres-app.git",
+      "git_commit":"0a1c1457478acf78f5fc8bd9ace6e23f21d0b009",
+      "installTime":"20 minutes",
+      "isStacksSaved":true
    }
 ]
