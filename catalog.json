@@ -27,7 +27,7 @@
       "certifySubheaderText": "Subheader text for certify",
       "logo":"_images/KP_logo.png",
       "title":"Welcome to Partner Starter Patterns",
-      "packageStarterUrl": "https://www.google.com",
+      "packageStarterUrl": "https://demo-container-stage.mybluemix.net/products/cloud-pak-for-network-automation/demos/use-cases/",
       "description":[
          "Our Partner starter patterns provide a pre-configured easy way to explore partner offerings with step-by-step guide to assist you in gaining familiarity with Opensource technologies built around it. These skills help you stay competitive in your current job as well as in future ones.<br><br>",
          "A good grasp on the basic container technologies are needed, whether you are an administrator, programmer or data scientist."
