@@ -19,11 +19,15 @@
    },
    "info":{
       "headerTitle":"StarterKit for Kubernetes solutions",
+      "assembleTabText": "Assemble",
       "assembleSubheaderText": "Subheader text for assemble",
-      "packageSubheaderText": "Subheader text for package",
-      "certifySubheaderText": "Subheader text for certify",
+      "packageTabText": "Package",
+      "assembleSubheaderText": "Subheader text for assemble",
+      "certifyTabText": "Certify",
+      "assembleSubheaderText": "Subheader text for assemble",
       "logo":"_images/KP_logo.png",
       "title":"Welcome to Partner Starter Patterns",
+      "packageStarterUrl": "https://www.google.com",
       "description":[
          "Our Partner starter patterns provide a pre-configured easy way to explore partner offerings with step-by-step guide to assist you in gaining familiarity with Opensource technologies built around it. These skills help you stay competitive in your current job as well as in future ones.<br><br>",
          "A good grasp on the basic container technologies are needed, whether you are an administrator, programmer or data scientist."
