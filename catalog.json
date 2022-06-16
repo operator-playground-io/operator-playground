@@ -19,9 +19,9 @@
    },
    "info":{
       "headerTitle":"StarterKit for Kubernetes solutions",
-      "assemblesubHeader": "Subheader text for assemble",
-      "packagesubHeader": "Subheader text for package",
-      "certifysubHeader": "Subheader text for certify",
+      "assembleSubheaderText": "Subheader text for assemble",
+      "packageSubheaderText": "Subheader text for package",
+      "certifySubheaderText": "Subheader text for certify",
       "logo":"_images/KP_logo.png",
       "title":"Welcome to Partner Starter Patterns",
       "description":[
