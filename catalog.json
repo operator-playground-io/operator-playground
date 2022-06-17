@@ -18,7 +18,7 @@
       
    },
    "info":{
-      "headerTitle":"StarterKit for Kubernetes solutions",
+      "headerTitle":"IBM Kube Factory",
       "assembleTabText": "Assemble",
       "assembleSubheaderText": "Subheader text for assemble",
       "packageTabText": "Package",
