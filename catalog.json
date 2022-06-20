@@ -22,7 +22,7 @@
       "assembleTabText": "Assemble",
       "assembleSubheaderText": "Subheader text for assemble",
       "packageTabText": "Package",
-      "packageSubheaderText": "Subheader text for package",
+      "packageSubheaderText": "",
       "certifyTabText": "Certify",
       "certifySubheaderText": "Subheader text for certify",
       "logo":"_images/KP_logo.png",
