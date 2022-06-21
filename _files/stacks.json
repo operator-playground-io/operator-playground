@@ -151,7 +151,7 @@
       "has_dataset":false,
       "has_api":false,
       "git_url":"https://github.com/operator-playground-io/postgres-app.git",
-      "git_commit":"1d25ba6539061b6533a9496e4ea8c68bdf00699b",
+      "git_commit":"68f6d662f888fa9befb7ebcf2c0e1c7634592b00",
       "installTime":"20 minutes",
       "isStacksSaved":true
    }
