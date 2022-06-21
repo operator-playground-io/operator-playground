@@ -47,7 +47,7 @@
       "has_dataset":false,
       "has_api":false,
       "git_url":"https://github.com/operator-playground-io/Kafka-chart-tile.git",
-      "git_commit":"5859f5287d3f113980e6ef4a4c0b4abbf73814b3",
+      "git_commit":"1d60c3af39f3999ccaeaa213d46baad2433d1ed7",
       "installTime":"5 minutes",
       "isStacksSaved":true
    },
@@ -73,34 +73,8 @@
       "has_dataset":false,
       "has_api":false,
       "git_url":"https://github.com/operator-playground-io/redis-chart-tile.git",
-      "git_commit":"af53b1a9fa073f7859105d40c00e9af1f668b445",
+      "git_commit":"7d63e816cac4889b4fcd2d28c08ae68d3d8f0dc2",
       "installTime":"2 minutes",
-      "isStacksSaved":true
-   },
-   {
-      "title":"Prometheus Operator",
-      "description":"Prometheus Operator",
-      "logo":"_images/prometheus-logo-1.png",
-      "enabled":true,
-      "category_label":[
-         "Operators"
-      ],
-      "document":"data-logging-stack",
-      "stack_id":"prometheus-operator",
-      "type":"stack",
-      "categories":[
-         "Monitoring"
-      ],
-      "managed_by":[
-         "Red Hat"
-      ],
-      "is_certified":false,
-      "has_support":true,
-      "has_dataset":false,
-      "has_api":false,
-      "git_url":"https://github.com/operator-playground-io/Prometheus-Operator-Playground-tile.git",
-      "git_commit":"c4de116a2679478787b0465e1675bcce24d28cc4",
-      "installTime":"5 minutes",
       "isStacksSaved":true
    },
    {
@@ -125,7 +99,7 @@
       "has_dataset":false,
       "has_api":false,
       "git_url":"https://github.com/operator-playground-io/etcd-operator.git",
-      "git_commit":"73180c614574ca47ce028675d37c4d430bcc8008",
+      "git_commit":"5ff8cc9be9f29d2389a7e5e5614d23bb7c29e037",
       "installTime":"5 minutes",
       "isStacksSaved":true
    },
@@ -151,7 +125,7 @@
       "has_dataset":false,
       "has_api":false,
       "git_url":"https://github.com/operator-playground-io/nginx-app.git",
-      "git_commit":"0fb0c345aa6acf97b61fccff4bbd24d8b84cdda2",
+      "git_commit":"cbea9018933d47313fa1972406f4b74f9e71396d",
       "installTime":"5 minutes",
       "isStacksSaved":true
    },
