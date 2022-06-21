@@ -1,0 +1,20 @@
+[
+   {
+      "title":"Certification 1",
+      "description":"Operator certification decsription 1",
+      "certify_url":"https://www.ibm.com",
+      "enabled":true
+   },
+   {
+      "title":"Certification 2",
+      "description":"Operator certification 2",
+      "certify_url":"https://www.ibm.com",
+      "enabled":true
+   },
+  {
+      "title":"Certification 3",
+      "description":"certification 3",
+      "certify_url":"https://www.google.com",
+      "enabled":true
+   }
+]
