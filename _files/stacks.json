@@ -21,7 +21,7 @@
       "has_dataset":false,
       "has_api":false,
       "git_url":"https://github.com/operator-playground-io/MariaDB-Operator-Playground-tile.git",
-      "git_commit":"163212216901ce25bc75c6fb9d5730543e1914b9",
+      "git_commit":"e297d7adff428ea9a5fd43d0d8608eaa9a4b8317",
       "installTime":"5 minutes",
       "isStacksSaved":true
    },
@@ -47,7 +47,7 @@
       "has_dataset":false,
       "has_api":false,
       "git_url":"https://github.com/operator-playground-io/Kafka-chart-tile.git",
-      "git_commit":"1d60c3af39f3999ccaeaa213d46baad2433d1ed7",
+      "git_commit":"0b43c7a891c7a6288ab7674b0744534eedc940a8",
       "installTime":"5 minutes",
       "isStacksSaved":true
    },
@@ -73,7 +73,7 @@
       "has_dataset":false,
       "has_api":false,
       "git_url":"https://github.com/operator-playground-io/redis-chart-tile.git",
-      "git_commit":"7d63e816cac4889b4fcd2d28c08ae68d3d8f0dc2",
+      "git_commit":"c3f0a90fb09f3d39f9f4c502791de4a4d3cb4107",
       "installTime":"2 minutes",
       "isStacksSaved":true
    },
@@ -99,7 +99,7 @@
       "has_dataset":false,
       "has_api":false,
       "git_url":"https://github.com/operator-playground-io/etcd-operator.git",
-      "git_commit":"5ff8cc9be9f29d2389a7e5e5614d23bb7c29e037",
+      "git_commit":"88b50d2f8bb0c937d4c0a803b8854eacef3b7e22",
       "installTime":"5 minutes",
       "isStacksSaved":true
    },
@@ -151,7 +151,7 @@
       "has_dataset":false,
       "has_api":false,
       "git_url":"https://github.com/operator-playground-io/postgres-app.git",
-      "git_commit":"ac3025d3f3b39e6be10e48c8599d170455280cd5",
+      "git_commit":"7a0079c6b9c4ca24b1608da716f6bb48632404cc",
       "installTime":"20 minutes",
       "isStacksSaved":true
    }
