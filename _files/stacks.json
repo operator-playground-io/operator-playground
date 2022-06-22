@@ -47,7 +47,7 @@
       "has_dataset":false,
       "has_api":false,
       "git_url":"https://github.com/operator-playground-io/Kafka-chart-tile.git",
-      "git_commit":"0b43c7a891c7a6288ab7674b0744534eedc940a8",
+      "git_commit":"9f277c1f14f1b4a2d89e549534e21b984fac00b0",
       "installTime":"5 minutes",
       "isStacksSaved":true
    },
