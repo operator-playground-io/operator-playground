@@ -4,23 +4,21 @@
       "description": "We help you build your Application on Kubernetes.",
       "logo": "_images/BYOA-LOGO.png",
       "stack_id": "Bring_Your_Own_Application-course_1655978537015",
-      "type": "Course",
+      "type": "stack",
       "categories": [
         "Containerization"
       ],
-      "source_repo": "",
-      "cover": "cover.md",
       "managed_by":[
          "Edge"
       ],
       "is_certified":false,
-      "has_support":true,
+      "has_support":false,
       "has_dataset":false,
       "has_api":false,
-      "installTime":"20 minutes",
-      "isStacksSaved":true,
       "git_url":"https://github.com/operator-playground-io/bring-your-app.git",
-      "git_commit":"906222ede4c9ed0ee24ccfff2b4c782c90b8eaef"
+      "git_commit":"906222ede4c9ed0ee24ccfff2b4c782c90b8eaef",
+      "installTime":"20 minutes",
+      "isStacksSaved":true
    },
    {
       "title":"MariaDB Operator",
