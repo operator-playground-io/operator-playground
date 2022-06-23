@@ -3,6 +3,11 @@
       "name": "Bring Your Own Application",
       "description": "We help you build your Application on Kubernetes.",
       "logo": "_images/BYOA-LOGO.png",
+      "enabled":true,
+      "category_label":[
+         "Course"
+      ],
+      "document": "Bring_Your_Own_Application-course_1655978537015",
       "stack_id": "Bring_Your_Own_Application-course_1655978537015",
       "type": "stack",
       "categories": [
