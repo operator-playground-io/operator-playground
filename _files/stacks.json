@@ -21,7 +21,7 @@
       "has_dataset":false,
       "has_api":false,
       "git_url":"https://github.com/operator-playground-io/bring-your-app.git",
-      "git_commit":"47d11164bd823eb1d05e866d0bf0842d864480b4",
+      "git_commit":"77a2b4e79be61d51ca0baa95f5d5288568dab06b",
       "installTime":"30 minutes",
       "isStacksSaved":true
    },
