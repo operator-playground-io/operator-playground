@@ -14,7 +14,7 @@
         "Containerization"
       ],
       "managed_by":[
-         "Edge"
+         "IBM Edge"
       ],
       "is_certified":false,
       "has_support":false,
@@ -144,7 +144,7 @@
          "Containerization"
       ],
       "managed_by":[
-         "Edge"
+         "IBM Edge"
       ],
       "is_certified":false,
       "has_support":false,
@@ -170,7 +170,7 @@
          "Database"
       ],
       "managed_by":[
-         "Edge"
+         "IBM Edge"
       ],
       "is_certified":false,
       "has_support":false,
