@@ -1,20 +1,32 @@
 [
    {
-      "title":"Certification 1",
-      "description":"Operator certification decsription 1",
-      "certify_url":"https://www.ibm.com",
+      "title":"Certification benefits",
+      "description":"Red Hat certified software marketing benefits",
+      "certify_url":"https://connect.redhat.com/partner-with-us/partner-benefits/certification-marketing-benefits",
       "enabled":true
    },
    {
-      "title":"Certification 2",
-      "description":"Operator certification 2",
-      "certify_url":"https://www.ibm.com",
+      "title":"Guide for Red Hat certification",
+      "description":"Partner Guide for OpenShift and Container Certification",
+      "certify_url":"https://redhat-connect.gitbook.io/partner-guide-for-red-hat-openshift-and-container/",
       "enabled":true
    },
   {
-      "title":"Certification 3",
-      "description":"certification 3",
-      "certify_url":"https://www.google.com",
+      "title":"Operator capability levels",
+      "description":"The capability models aims to provide guidance in terminology to express what features users can expect from an operator.",
+      "certify_url":"https://sdk.operatorframework.io/docs/overview/operator-capabilities/",
+      "enabled":true
+   },
+   {
+      "title":"Make the operator a community operator and put on OperatorHub.io",
+      "description":"The canonical source for Kubernetes Operators that are published on OperatorHub.io and part of the default catalog of the Operator Lifecycle Manager.",
+      "certify_url":"https://github.com/k8s-operatorhub/community-operators",
+      "enabled":true
+   },
+  {
+      "title":"Putting Helm Chart on a Helm repository",
+      "description":"The Chart Repository Guide",
+      "certify_url":"https://helm.sh/docs/topics/chart_repository/",
       "enabled":true
    }
 ]
